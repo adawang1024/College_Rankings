@@ -1,0 +1,212 @@
+Name,us_news_schoolType,us_news_aliasNames,state,us_news_city,us_news_region,us_news_institutionalControl,us_news_displayRank,us_news_sortRank,us_news_isTied,us_news_actAvg,us_news_percentReceivingAid,us_news_acceptanceRate,us_news_tuition,us_news_hsGpaAvg,us_news_enrollment,us_news_satAvg,us_news_costAfterAid,us_news_Setting
+Agnes Scott College,national-liberal-arts-colleges,,GA,Decatur,,private,#63,63,True,24.0,73.0,67.0,48150.0,3.8,1006,1130.0,27124.0,City
+Albion College,national-liberal-arts-colleges,,MI,Albion,,private,#124,124,True,,,67.0,55746.0,3.4,1454,,,Rural
+Albright College,national-liberal-arts-colleges,,PA,Reading,,private,#146,146,True,,,76.0,28794.0,,1298,,,
+Allegheny College,national-liberal-arts-colleges,,PA,Meadville,,private,#75,75,True,23.0,70.0,64.0,54960.0,3.5,1353,1114.0,41967.0,Suburban
+Allen University,national-liberal-arts-colleges,,SC,Columbia,,private,#186-204,-1,False,,,49.0,13540.0,,603,,,
+Amherst College,national-liberal-arts-colleges,,MA,Amherst,,private,#2,2,False,32.0,56.0,7.0,67280.0,,1898,,17257.0,
+Antioch College,national-liberal-arts-colleges,,OH,Yellow Springs,,private,#100,100,True,19.0,,83.0,37143.0,,127,,,
+Aquinas College,national-liberal-arts-colleges,,MI,Grand Rapids,,private,#156,156,True,,,91.0,38520.0,,1169,1000.0,,Suburban
+Augustana College,national-liberal-arts-colleges,,IL,Rock Island,,private,#100,100,True,21.0,66.0,61.0,49834.0,3.4,2318,1020.0,31866.0,Suburban
+Austin College,national-liberal-arts-colleges,,TX,Sherman,,private,#93,93,True,23.0,65.0,55.0,46025.0,3.6,1169,1130.0,25948.0,
+Ave Maria University,national-liberal-arts-colleges,,FL,Ave Maria,,private,#182,182,True,,,44.0,28224.0,,1251,,,
+Bard College,national-liberal-arts-colleges,,NY,Annandale on Hudson,,private,#72,72,False,,,60.0,60270.0,,2171,,,
+Barnard College,national-liberal-arts-colleges,,NY,New York,,private,#11,11,True,32.0,,9.0,66246.0,,3442,1440.0,,City
+Bates College,national-liberal-arts-colleges,,ME,Lewiston,,private,#24,24,False,31.0,40.0,14.0,63478.0,,1790,1310.0,27515.0,
+Beloit College,national-liberal-arts-colleges,,WI,Beloit,,private,#86,86,True,26.0,67.0,66.0,58554.0,3.3,964,1190.0,26988.0,City
+Bennett College,national-liberal-arts-colleges,,NC,Greensboro,,private,#180,180,True,,,79.0,18550.0,,207,,,
+Bennington College,national-liberal-arts-colleges,,VT,Bennington,,private,#112,112,True,29.0,,45.0,64644.0,3.6,785,1260.0,,
+Berea College,national-liberal-arts-colleges,,KY,Berea,,private,#30,30,True,23.0,,25.0,726.0,3.6,1433,1136.0,,
+Bethany College (WV),national-liberal-arts-colleges,,WV,Bethany,,private,#186-204,-1,False,18.0,,74.0,32640.0,,545,870.0,,
+Bethany Lutheran College,national-liberal-arts-colleges,,MN,Mankato,,private,#159,159,True,20.0,,58.0,30010.0,3.5,784,990.0,,Rural
+Bethune-Cookman University,national-liberal-arts-colleges,Bethune Cookman University,FL,Daytona Beach,,private,#186-204,-1,False,15.0,,85.0,14794.0,3.3,2628,830.0,,
+Birmingham-Southern College,national-liberal-arts-colleges,Birmingham Southern College,AL,Birmingham,,private,#135,135,True,22.0,,57.0,22750.0,3.7,975,1150.0,,Urban
+Bowdoin College,national-liberal-arts-colleges,,ME,Brunswick,,private,#9,9,True,33.0,48.0,9.0,64910.0,,1915,1460.0,21380.0,Suburban
+Bridgewater College,national-liberal-arts-colleges,,VA,Bridgewater,,private,#167,167,True,22.0,,90.0,41350.0,,1385,1020.0,,
+Bryn Athyn College of the New Church,national-liberal-arts-colleges,,PA,Bryn Athyn,,private,#174,174,True,19.0,,80.0,28669.0,3.2,272,980.0,,Suburban
+Bryn Mawr College,national-liberal-arts-colleges,,PA,Bryn Mawr,,private,#30,30,True,29.0,44.0,31.0,62560.0,,1409,1280.0,22118.0,
+Bucknell University,national-liberal-arts-colleges,,PA,Lewisburg,,private,#30,30,True,30.0,39.0,33.0,64772.0,3.6,3747,1310.0,38645.0,Rural
+Carleton College,national-liberal-arts-colleges,,MN,Northfield,,private,#9,9,True,32.0,58.0,17.0,65457.0,,2034,1430.0,28244.0,
+Centenary College,national-liberal-arts-colleges,,LA,Shreveport,,private,#139,139,True,21.0,,64.0,40000.0,,523,1080.0,,Urban
+Central College,national-liberal-arts-colleges,,IA,Pella,,private,#135,135,True,19.0,,79.0,20988.0,3.6,1169,1040.0,,Rural
+Centre College,national-liberal-arts-colleges,,KY,Danville,,private,#51,51,True,26.0,61.0,62.0,50550.0,3.8,1357,1195.0,22386.0,City
+Cheyney University of Pennsylvania,national-liberal-arts-colleges,,PA,Cheyney,,public,#182,182,True,,,,18870.0,,642,,,
+Claflin University,national-liberal-arts-colleges,,SC,Orangeburg,,private,#159,159,True,17.0,,78.0,17046.0,3.0,1749,840.0,,
+Claremont McKenna College,national-liberal-arts-colleges,,CA,Claremont,,private,#11,11,True,33.0,42.0,10.0,64150.0,,1386,1440.0,23392.0,
+Coe College,national-liberal-arts-colleges,,IA,Cedar Rapids,,private,#130,130,True,22.0,,72.0,52576.0,3.6,1264,1080.0,,Urban
+Colby College,national-liberal-arts-colleges,,ME,Waterville,,private,#25,25,True,32.0,40.0,8.0,66600.0,,2299,1430.0,19048.0,
+Colgate University,national-liberal-arts-colleges,,NY,Hamilton,,private,#21,21,True,32.0,33.0,12.0,67024.0,3.9,3130,1410.0,21721.0,Rural
+College of St. Benedict,national-liberal-arts-colleges,College of St Benedict College of Saint Benedict,MN,St. Joseph,,private,#73,73,True,20.0,67.0,88.0,53884.0,3.7,1443,1055.0,29455.0,Suburban
+College of the Atlantic,national-liberal-arts-colleges,,ME,Bar Harbor,,private,#156,156,True,27.0,,60.0,46179.0,3.8,377,1230.0,,Rural
+College of the Holy Cross,national-liberal-arts-colleges,,MA,Worcester,,private,#27,27,True,28.0,39.0,36.0,60850.0,,3233,1260.0,34577.0,City
+The College of Wooster,national-liberal-arts-colleges,,OH,Wooster,,private,#75,75,True,27.0,64.0,56.0,59550.0,3.7,1967,1250.0,31608.0,Suburban
+Colorado College,national-liberal-arts-colleges,,CO,Colorado Springs,,private,#33,33,False,,,14.0,65028.0,,2241,,,
+Concordia College--Moorhead,national-liberal-arts-colleges,Concordia College Moorhead Concordia College Moorhead,MN,Moorhead,,private,#146,146,True,21.0,,66.0,28916.0,3.6,1827,1410.0,,Urban
+Connecticut College,national-liberal-arts-colleges,,CT,New London,,private,#46,46,True,30.0,49.0,40.0,64812.0,3.8,1948,1360.0,35116.0,Suburban
+Cornell College,national-liberal-arts-colleges,,IA,Mount Vernon,,private,#116,116,True,23.0,,79.0,50634.0,3.6,1060,1170.0,,Suburban
+Covenant College,national-liberal-arts-colleges,,GA,Lookout Mountain,,private,#135,135,True,24.0,,84.0,40414.0,3.8,846,1140.0,,Suburban
+Davidson College,national-liberal-arts-colleges,,NC,Davidson,,private,#16,16,True,31.0,51.0,17.0,60050.0,3.8,1927,1350.0,22717.0,
+Denison University,national-liberal-arts-colleges,,OH,Granville,,private,#39,39,True,29.0,56.0,22.0,64000.0,,2330,1270.0,34101.0,Suburban
+DePauw University,national-liberal-arts-colleges,,IN,Greencastle,,private,#46,46,True,24.0,50.0,66.0,57070.0,3.9,1752,1140.0,30293.0,Rural
+Dickinson College,national-liberal-arts-colleges,,PA,Carlisle,,private,#46,46,True,29.0,62.0,35.0,63450.0,,2125,1260.0,32317.0,Suburban
+Dillard University,national-liberal-arts-colleges,,LA,New Orleans,,private,#159,159,True,19.0,,80.0,22594.0,3.4,1224,988.0,,City
+Divine Word College,national-liberal-arts-colleges,,IA,Epworth,,private,Unranked,-2,False,,,100.0,14620.0,,67,,,
+Drew University,national-liberal-arts-colleges,,NJ,Madison,,private,#93,93,True,26.0,,73.0,43824.0,3.5,1549,1120.0,,
+Earlham College,national-liberal-arts-colleges,,IN,Richmond,,private,#100,100,True,24.0,81.0,73.0,51840.0,3.7,612,1130.0,24721.0,
+East-West University,national-liberal-arts-colleges,East West University,IL,Chicago,,private,#186-204,-1,False,,,,23400.0,,487,,,
+Eckerd College,national-liberal-arts-colleges,,FL,St. Petersburg,,private,#130,130,True,23.0,,65.0,50374.0,,1993,1107.0,,
+Emmanuel College,national-liberal-arts-colleges,,MA,Boston,,private,#152,152,True,25.0,,80.0,46686.0,,1947,1160.0,,Urban
+Fisk University,national-liberal-arts-colleges,,TN,Nashville,,private,#146,146,True,19.0,,71.0,23578.0,,1009,1090.0,,Urban
+Franklin College,national-liberal-arts-colleges,,IN,Franklin,,private,#139,139,True,18.0,,93.0,37350.0,3.5,894,970.0,,Suburban
+Franklin & Marshall College,national-liberal-arts-colleges,F&M Franklin & Marshall,PA,Lancaster,,private,#35,35,True,30.0,58.0,36.0,68380.0,,1990,1300.0,29609.0,
+Furman University,national-liberal-arts-colleges,,SC,Greenville,,private,#46,46,True,28.0,45.0,67.0,58312.0,3.7,2283,1260.0,34330.0,Suburban
+Georgetown College,national-liberal-arts-colleges,,KY,Georgetown,,private,#186-204,-1,False,18.0,,72.0,42010.0,3.6,1233,1030.0,,Suburban
+Gettysburg College,national-liberal-arts-colleges,,PA,Gettysburg,,private,#63,63,True,28.0,60.0,56.0,64230.0,,2241,1350.0,31048.0,Suburban
+Gordon College,national-liberal-arts-colleges,,MA,Wenham,,private,#163,163,True,23.0,,92.0,28100.0,3.7,1294,1070.0,,
+Goucher College,national-liberal-arts-colleges,,MD,Baltimore,,private,#124,124,True,24.0,,81.0,51250.0,3.3,1002,1110.0,,
+Grinnell College,national-liberal-arts-colleges,,IA,Grinnell,,private,#11,11,True,31.0,64.0,11.0,64862.0,,1759,1380.0,22854.0,Rural
+Guilford College,national-liberal-arts-colleges,,NC,Greensboro,,private,#167,167,True,17.0,,82.0,41140.0,,1192,950.0,,
+Gustavus Adolphus College,national-liberal-arts-colleges,,MN,St. Peter,,private,#67,67,True,25.0,66.0,74.0,54310.0,3.6,2088,,29637.0,
+Hamilton College,national-liberal-arts-colleges,,NY,Clinton,,private,#16,16,True,33.0,51.0,12.0,65740.0,,2075,1420.0,29735.0,Rural
+Hampden-Sydney College,national-liberal-arts-colleges,Hampden Sydney College,VA,Hampden-Sydney,,private,#116,116,True,23.0,,40.0,52388.0,3.4,835,1040.0,,
+Hampshire College,national-liberal-arts-colleges,,MA,Amherst,,private,#139,139,True,,,69.0,56990.0,3.3,508,,,
+Hanover College,national-liberal-arts-colleges,,IN,Hanover,,private,#112,112,True,24.0,,74.0,41441.0,3.8,951,1090.0,,
+Hartwick College,national-liberal-arts-colleges,,NY,Oneonta,,private,#121,121,True,19.0,,60.0,52849.0,3.5,1099,1020.0,,Rural
+Harvey Mudd College,national-liberal-arts-colleges,,CA,Claremont,,private,#16,16,True,34.0,44.0,13.0,66255.0,,906,1480.0,36221.0,
+Haverford College,national-liberal-arts-colleges,,PA,Haverford,,private,#21,21,True,33.0,42.0,14.0,68020.0,,1421,1430.0,23753.0,Suburban
+Hebrew Theological College,national-liberal-arts-colleges,,IL,Skokie,,private,#186-204,-1,False,,,80.0,14200.0,,170,,,
+Hellenic College,national-liberal-arts-colleges,,MA,Brookline,,private,Unranked,-2,False,,,76.0,22490.0,,39,,,
+Hendrix College,national-liberal-arts-colleges,,AR,Conway,,private,#112,112,True,23.0,,60.0,36650.0,3.9,1130,1130.0,,Suburban
+Hillsdale College,national-liberal-arts-colleges,,MI,Hillsdale,,private,#39,39,True,30.0,30.0,21.0,32092.0,3.9,1573,1360.0,35054.0,Rural
+Hobart and William Smith Colleges,national-liberal-arts-colleges,HWS,NY,Geneva,,private,#70,70,True,27.0,62.0,68.0,63268.0,3.6,1559,1210.0,34987.0,City
+Hollins University,national-liberal-arts-colleges,,VA,Roanoke,,private,#124,124,True,,,72.0,41210.0,3.7,691,1113.0,,
+Holy Cross College at Notre Dame, Indiana,national-liberal-arts-colleges,,IN,Notre Dame,,private,#186-204,-1,False,,,76.0,35500.0,3.8,494,1110.0,,Suburban
+Hope College,national-liberal-arts-colleges,,MI,Holland,,private,#100,100,True,24.0,40.0,80.0,37221.0,3.8,3251,1090.0,25965.0,City
+Houghton University,national-liberal-arts-colleges,,NY,Houghton,,private,#146,146,True,20.0,,93.0,17290.0,,813,1080.0,,Rural
+Illinois College,national-liberal-arts-colleges,,IL,Jacksonville,,private,#124,124,True,21.0,,77.0,37470.0,3.6,1028,960.0,,
+Johnson C. Smith University,national-liberal-arts-colleges,Johnson C Smith University,NC,Charlotte,,private,#172,172,True,,,9.0,21714.0,,1052,,,
+Juniata College,national-liberal-arts-colleges,,PA,Huntingdon,,private,#82,82,True,26.0,71.0,76.0,56402.0,3.6,1177,1120.0,32249.0,Rural
+Kalamazoo College,national-liberal-arts-colleges,,MI,Kalamazoo,,private,#70,70,True,26.0,,80.0,56562.0,3.8,1210,1200.0,,City
+Kenyon College,national-liberal-arts-colleges,,OH,Gambier,,private,#39,39,True,31.0,44.0,34.0,69330.0,3.9,1885,1370.0,32355.0,
+The King's College,national-liberal-arts-colleges,Kings College,NY,New York,,private,#167,167,True,24.0,,44.0,21690.0,,384,1140.0,,
+Knox College,national-liberal-arts-colleges,,IL,Galesburg,,private,#75,75,True,27.0,71.0,73.0,55587.0,,1060,1163.0,25158.0,City
+Lafayette College,national-liberal-arts-colleges,,PA,Easton,,private,#30,30,True,30.0,31.0,34.0,61824.0,3.6,2729,1330.0,30629.0,Suburban
+Lake Forest College,national-liberal-arts-colleges,,IL,Lake Forest,,private,#73,73,True,26.0,80.0,60.0,54202.0,3.8,1727,1155.0,23625.0,Suburban
+Lane College,national-liberal-arts-colleges,,TN,Jackson,,private,#186-204,-1,False,14.0,,37.0,11790.0,2.6,1010,,,
+Lawrence University,national-liberal-arts-colleges,,WI,Appleton,,private,#75,75,True,27.0,64.0,72.0,55461.0,3.7,1426,1210.0,28435.0,City
+Lewis & Clark College,national-liberal-arts-colleges,Lewis and Clark College,OR,Portland,,private,#93,93,True,29.0,59.0,69.0,62350.0,3.7,2210,1260.0,32977.0,City
+Linfield University,national-liberal-arts-colleges,,OR,McMinnville,,private,#107,107,True,,,90.0,49460.0,3.6,1704,,,Rural
+Luther College,national-liberal-arts-colleges,,IA,Decorah,,private,#116,116,True,22.0,,75.0,50320.0,3.6,1610,1075.0,,Rural
+Lycoming College,national-liberal-arts-colleges,,PA,Williamsport,,private,#107,107,True,20.0,,75.0,47450.0,3.6,1067,1053.0,,City
+Lyon College,national-liberal-arts-colleges,,AR,Batesville,,private,#167,167,True,21.0,,60.0,31000.0,3.6,495,1020.0,,
+Macalester College,national-liberal-arts-colleges,,MN,St. Paul,,private,#27,27,True,31.0,63.0,28.0,64908.0,,2175,1370.0,28934.0,Urban
+Martin University,national-liberal-arts-colleges,,IN,Indianapolis,,private,#186-204,-1,False,,,,13200.0,,180,,,
+Marymount Manhattan College,national-liberal-arts-colleges,,NY,New York,,private,#174,174,True,22.0,,72.0,40260.0,3.4,1608,1080.0,,Urban
+Maryville College,national-liberal-arts-colleges,,TN,Maryville,,private,#172,172,True,19.0,,70.0,38514.0,3.4,1065,930.0,,Suburban
+Massachusetts College of Liberal Arts,national-liberal-arts-colleges,,MA,North Adams,,public,#121,121,True,,,93.0,21859.0,3.3,838,,,Rural
+Medgar Evers College--CUNY,national-liberal-arts-colleges,CUNY Medgar Evers College CUNY Medgar Evers College,NY,Brooklyn,,public,#182,182,True,,,88.0,18920.0,,3640,,,Urban
+Meredith College,national-liberal-arts-colleges,,NC,Raleigh,,private,#130,130,True,22.0,,73.0,43936.0,3.5,1322,1140.0,,City
+Middlebury College,national-liberal-arts-colleges,,VT,Middlebury,,private,#11,11,True,33.0,47.0,13.0,65280.0,,2773,1410.0,24376.0,
+Millsaps College,national-liberal-arts-colleges,,MS,Jackson,,private,#124,124,True,21.0,,68.0,43815.0,,637,1135.0,,
+Monmouth College,national-liberal-arts-colleges,,IL,Monmouth,,private,#129,129,False,23.0,,66.0,43520.0,,755,1080.0,,
+Morehouse College,national-liberal-arts-colleges,,GA,Atlanta,,private,#100,100,True,18.0,,59.0,14734.0,3.5,2567,,,
+Mount Holyoke College,national-liberal-arts-colleges,,MA,South Hadley,,private,#34,34,False,30.0,63.0,40.0,64142.0,3.9,2193,1350.0,31700.0,Suburban
+Muhlenberg College,national-liberal-arts-colleges,,PA,Allentown,,private,#70,70,True,29.0,66.0,66.0,60240.0,3.5,1945,1200.0,32940.0,City
+New College of Florida,national-liberal-arts-colleges,,FL,Sarasota,,public,#100,100,True,24.0,48.0,75.0,29944.0,3.9,669,1103.0,20132.0,Suburban
+Oakwood University,national-liberal-arts-colleges,,AL,Huntsville,,private,#178,178,True,,,72.0,20040.0,,1378,,,
+Oberlin College and Conservatory,national-liberal-arts-colleges,,OH,Oberlin,,private,#51,51,True,30.0,38.0,35.0,64646.0,3.7,2986,1360.0,37245.0,
+Occidental College,national-liberal-arts-colleges,,CA,Los Angeles,,private,#35,35,True,31.0,50.0,39.0,63446.0,3.7,1942,1360.0,35196.0,Urban
+Oglethorpe University,national-liberal-arts-colleges,,GA,Atlanta,,private,#163,163,True,22.0,,72.0,45806.0,,1491,1065.0,,
+Ohio Wesleyan University,national-liberal-arts-colleges,OWU,OH,Delaware,,private,#116,116,True,23.0,,52.0,52297.0,3.7,1410,1123.0,,Suburban
+Ouachita Baptist University,national-liberal-arts-colleges,,AR,Arkadelphia,,private,#178,178,True,21.0,,72.0,32480.0,3.8,1730,1020.0,,Rural
+Paine College,national-liberal-arts-colleges,,GA,Augusta,,private,#186-204,-1,False,,,52.0,14596.0,,251,,,
+Patrick Henry College,national-liberal-arts-colleges,,VA,Purcellville,,private,Unranked,-2,False,,,76.0,28425.0,3.8,409,,,Suburban
+Pillar College,national-liberal-arts-colleges,,NJ,Newark,,private,#186-204,-1,False,,,,23668.0,,443,,,
+Pitzer College,national-liberal-arts-colleges,,CA,Claremont,,private,#39,39,True,,34.0,18.0,62692.0,3.9,1212,,35103.0,Suburban
+Pomona College,national-liberal-arts-colleges,,CA,Claremont,,private,#4,4,True,33.0,52.0,7.0,62326.0,,1791,1480.0,18694.0,
+Pontifical College Josephinum,national-liberal-arts-colleges,,OH,Columbus,,private,Unranked,-2,False,,,80.0,26763.0,,32,,,
+Presbyterian College,national-liberal-arts-colleges,,SC,Clinton,,private,#139,139,True,21.0,,59.0,43300.0,3.3,955,1020.0,,
+Principia College,national-liberal-arts-colleges,,IL,Elsah,,private,#51,51,True,16.0,81.0,48.0,33280.0,3.3,314,1027.0,17954.0,Rural
+Providence Christian College,national-liberal-arts-colleges,,CA,Pasadena,,private,#186-204,-1,False,,,83.0,33884.0,,123,,,
+Purchase College--SUNY,national-liberal-arts-colleges,Purchase College SUNY Purchase College SUNY,NY,Purchase,,public,#139,139,True,29.0,,78.0,18863.0,3.4,3145,1190.0,,Suburban
+Randolph College,national-liberal-arts-colleges,,VA,Lynchburg,,private,#165,165,True,22.0,,95.0,29010.0,3.3,478,930.0,,
+Randolph-Macon College,national-liberal-arts-colleges,R-MC Randolph Macon College Randolph Macon,VA,Ashland,,private,#107,107,True,23.0,,85.0,48106.0,3.7,1490,1020.0,,Suburban
+Reed College,national-liberal-arts-colleges,,OR,Portland,,private,#67,67,True,,,44.0,64760.0,,1548,,,
+Rhodes College,national-liberal-arts-colleges,,TN,Memphis,,private,#56,56,True,28.0,47.0,48.0,54892.0,3.7,1996,1305.0,31508.0,City
+Ripon College,national-liberal-arts-colleges,,WI,Ripon,,private,#146,146,True,19.0,,81.0,50700.0,3.4,766,990.0,,
+Roanoke College,national-liberal-arts-colleges,,VA,Salem,,private,#130,130,True,19.0,,80.0,36774.0,3.4,1826,1060.0,,
+Rust College,national-liberal-arts-colleges,,MS,Holly Springs,,private,#186-204,-1,False,,,38.0,9900.0,,768,,,
+Sacred Heart Major Seminary,national-liberal-arts-colleges,,MI,Detroit,,private,Unranked,-2,False,,,100.0,22277.0,,190,,,
+Saint Anselm College,national-liberal-arts-colleges,St Anselm College Saint Anselm College,NH,Manchester,,private,#89,89,True,26.0,68.0,82.0,46800.0,3.4,1959,1120.0,36693.0,City
+Saint Mary's College,national-liberal-arts-colleges,St Mary's College Saint Mary's College St Marys College Saint Marys College St. Marys College,IN,Notre Dame,,private,#82,82,True,23.0,74.0,84.0,51430.0,3.8,1406,1030.0,31288.0,Suburban
+Saint Michael's College,national-liberal-arts-colleges,St Michael's College Saint Michael's College St Michaels College Saint Michaels College St. Michaels College,VT,Colchester,,private,#116,116,True,27.0,,85.0,50040.0,,1209,1160.0,,Suburban
+Saint Vincent College,national-liberal-arts-colleges,St Vincent College Saint Vincent College,PA,Latrobe,,private,#124,124,True,22.0,,73.0,41785.0,3.6,1375,1030.0,,
+Salem College,national-liberal-arts-colleges,,NC,Winston-Salem,,private,#139,139,True,20.0,,81.0,32236.0,3.6,364,973.0,,City
+Sarah Lawrence College,national-liberal-arts-colleges,,NY,Bronxville,,private,#100,100,True,29.0,56.0,50.0,63678.0,3.8,1462,1260.0,40447.0,Suburban
+Scripps College,national-liberal-arts-colleges,,CA,Claremont,,private,#35,35,True,32.0,37.0,28.0,63434.0,,1081,1390.0,35232.0,Suburban
+Simpson University,national-liberal-arts-colleges,,CA,Redding,,private,#174,174,True,,,52.0,38522.0,3.3,729,,,City
+Skidmore College,national-liberal-arts-colleges,,NY,Saratoga Springs,,private,#38,38,False,30.0,52.0,26.0,64880.0,,2758,1300.0,31780.0,
+Smith College,national-liberal-arts-colleges,,MA,Northampton,,private,#16,16,True,31.0,58.0,23.0,61568.0,,2523,1370.0,24536.0,Suburban
+Soka University of America,national-liberal-arts-colleges,,CA,Aliso Viejo,,private,#56,56,True,26.0,84.0,57.0,37450.0,3.7,445,1240.0,26285.0,Suburban
+Southern Virginia University,national-liberal-arts-colleges,,VA,Buena Vista,,private,#186-204,-1,False,17.0,,100.0,19108.0,,1170,1018.0,,
+Southwestern University,national-liberal-arts-colleges,,TX,Georgetown,,private,#89,89,True,24.0,58.0,45.0,50858.0,3.5,1483,1120.0,27192.0,Suburban
+Spelman College,national-liberal-arts-colleges,,GA,Atlanta,,private,#39,39,True,22.0,72.0,28.0,30058.0,3.9,2374,1090.0,33592.0,Urban
+St. John's College (MD),national-liberal-arts-colleges,St John's College Saint John's College St Johns College Saint Johns College St. Johns College,MD,Annapolis,,private,#75,75,True,30.0,63.0,50.0,39126.0,3.8,462,1250.0,24913.0,City
+St. John's College (NM),national-liberal-arts-colleges,St John's College Saint John's College St Johns College Saint Johns College St. Johns College,NM,Santa Fe,,private,#93,93,True,30.0,50.0,54.0,39356.0,3.7,366,1290.0,23609.0,City
+St. John's University (MN),national-liberal-arts-colleges,St John's University Saint John's University St Johns University Saint Johns University St. Johns University,MN,Collegeville,,private,#82,82,True,21.0,62.0,86.0,53942.0,3.5,1528,915.0,28531.0,Rural
+St. Lawrence University,national-liberal-arts-colleges,St Lawrence University Saint Lawrence University,NY,Canton,,private,#59,59,True,29.0,60.0,63.0,63870.0,3.7,2145,1240.0,34508.0,Rural
+St. Mary's College of Maryland,national-liberal-arts-colleges,St Mary's College of Maryland Saint Mary's College of Maryland St Marys College of Maryland Saint Marys College of Maryland St. Marys College of Maryland,MD,St. Marys City,,public,#82,82,True,28.0,50.0,77.0,31312.0,3.5,1513,1130.0,36156.0,Rural
+St. Norbert College,national-liberal-arts-colleges,St Norbert College Saint Norbert College,WI,De Pere,,private,#93,93,True,21.0,63.0,84.0,44432.0,3.6,1814,1010.0,30485.0,Suburban
+St. Olaf College,national-liberal-arts-colleges,St Olaf College Saint Olaf College,MN,Northfield,,private,#51,51,True,28.0,76.0,56.0,56970.0,3.7,3046,1300.0,22659.0,
+Stonehill College,national-liberal-arts-colleges,,MA,Easton,,private,#86,86,True,,62.0,73.0,52300.0,3.4,2536,,34082.0,Suburban
+Susquehanna University,national-liberal-arts-colleges,,PA,Selinsgrove,,private,#107,107,True,23.0,,88.0,57400.0,3.7,2199,1088.0,,Rural
+Swarthmore College,national-liberal-arts-colleges,,PA,Swarthmore,,private,#4,4,True,32.0,51.0,7.0,62412.0,,1625,1440.0,19131.0,Suburban
+Sweet Briar College,national-liberal-arts-colleges,,VA,Sweet Briar,,private,#180,180,True,19.0,,78.0,23590.0,3.9,457,1010.0,,
+Thomas Aquinas College,national-liberal-arts-colleges,,CA,Santa Paula,,private,#67,67,True,27.0,61.0,85.0,28700.0,3.8,516,1215.0,25242.0,
+Thomas More College of Liberal Arts,national-liberal-arts-colleges,,NH,Merrimack,,private,Unranked,-2,False,,,,28000.0,,89,,,
+Tougaloo College,national-liberal-arts-colleges,,MS,Tougaloo,,private,#181,181,False,16.0,,49.0,11398.0,,657,790.0,,
+Transylvania University,national-liberal-arts-colleges,,KY,Lexington,,private,#121,121,True,23.0,,91.0,44980.0,3.7,981,1120.0,,
+Trinity College,national-liberal-arts-colleges,,CT,Hartford,,private,#39,39,True,30.0,59.0,36.0,67420.0,,2167,1300.0,27958.0,City
+Trinity University,national-liberal-arts-colleges,,TX,San Antonio,,private,#59,59,True,29.0,43.0,31.0,51352.0,3.8,2512,1310.0,26022.0,Urban
+Union College (NY),national-liberal-arts-colleges,,NY,Schenectady,,private,#45,45,False,29.0,57.0,47.0,66456.0,3.7,2107,1310.0,34722.0,City
+United States Air Force Academy,national-liberal-arts-colleges,USAFA,CO,USAF Academy,,public,#7,7,False,28.0,,13.0,0.0,3.8,4085,1310.0,,
+United States Military Academy at West Point,national-liberal-arts-colleges,USMA West Point,NY,West Point,,public,#8,8,False,27.0,,12.0,0.0,3.9,4393,1220.0,,Suburban
+United States Naval Academy,national-liberal-arts-colleges,USNA,MD,Annapolis,,public,#3,3,False,25.0,,11.0,0.0,3.7,4450,1200.0,,City
+University of Mary Washington,national-liberal-arts-colleges,,VA,Fredericksburg,,public,#154,154,False,25.0,,86.0,31154.0,3.6,3493,1170.0,,Suburban
+University of Minnesota Morris,national-liberal-arts-colleges,University of Minnesota Morris,MN,Morris,,public,#130,130,True,,,78.0,16438.0,3.3,1068,,,Rural
+University of New Hampshire at Manchester,national-liberal-arts-colleges,,NH,Manchester,,public,#146,146,True,,,83.0,34664.0,,653,1110.0,,
+University of North Carolina Asheville,national-liberal-arts-colleges,UNC University of North Carolina Asheville,NC,Asheville,,public,#139,139,True,21.0,,74.0,24809.0,3.5,2914,1140.0,,City
+University of Pittsburgh at Greensburg,national-liberal-arts-colleges,,PA,Greensburg,,public,#186-204,-1,False,18.0,,91.0,26504.0,,1306,1030.0,,Suburban
+University of Puerto Rico--Cayey,national-liberal-arts-colleges,University of Puerto Rico Cayey University College,PR,Cayey,,public,#167,167,True,,,48.0,5354.0,,2559,905.0,,
+University of Puget Sound,national-liberal-arts-colleges,,WA,Tacoma,,private,#89,89,True,26.0,51.0,83.0,59900.0,3.5,1712,1170.0,34748.0,City
+University of Richmond,national-liberal-arts-colleges,,VA,Univ. of Richmond,,private,#25,25,True,32.0,37.0,24.0,62600.0,3.8,3145,1400.0,26191.0,Suburban
+University of Science and Arts of Oklahoma,national-liberal-arts-colleges,,OK,Chickasha,,public,#186-204,-1,False,,,56.0,19470.0,,825,,,Rural
+The University of the South,national-liberal-arts-colleges,Sewanee University of the South Sewanee University of the South,TN,Sewanee,,private,#51,51,True,27.0,49.0,52.0,53704.0,,1613,1233.0,30127.0,Rural
+University of the West,national-liberal-arts-colleges,,CA,Rosemead,,private,Unranked,-2,False,,,,14018.0,,77,,,
+University of Virginia--Wise,national-liberal-arts-colleges,University of Virginia Wise,VA,Wise,,public,#165,165,True,19.0,,76.0,31546.0,3.5,1737,915.0,,Rural
+Ursinus College,national-liberal-arts-colleges,,PA,Collegeville,,private,#86,86,True,28.0,71.0,82.0,59176.0,3.6,1527,1180.0,35726.0,Suburban
+Vassar College,national-liberal-arts-colleges,,NY,Poughkeepsie,,private,#16,16,True,32.0,52.0,19.0,67805.0,,2459,1430.0,29397.0,
+Virginia Military Institute,national-liberal-arts-colleges,,VA,Lexington,,public,#63,63,True,22.0,,71.0,49722.0,3.7,1512,1105.0,,City
+Virginia Union University,national-liberal-arts-colleges,,VA,Richmond,,private,#186-204,-1,False,14.0,,81.0,14230.0,2.6,1318,813.0,,
+Virginia Wesleyan University,national-liberal-arts-colleges,,VA,Virginia Beach,,private,#174,174,True,27.0,,81.0,36960.0,3.3,1479,1150.0,,Suburban
+Wabash College,national-liberal-arts-colleges,,IN,Crawfordsville,,private,#59,59,True,22.0,68.0,61.0,49125.0,3.6,835,1122.0,25956.0,City
+Warren Wilson College,national-liberal-arts-colleges,,NC,Asheville,,private,#186-204,-1,False,24.0,,84.0,40290.0,,723,,,Suburban
+Wartburg College,national-liberal-arts-colleges,,IA,Waverly,,private,#156,156,True,19.0,,97.0,51040.0,3.6,1416,970.0,,Rural
+Washington and Lee University,national-liberal-arts-colleges,W&L,VA,Lexington,,private,#21,21,True,32.0,47.0,17.0,64525.0,,1867,1410.0,24697.0,City
+Washington College,national-liberal-arts-colleges,,MD,Chestertown,,private,#93,93,True,25.0,18.0,75.0,54266.0,3.7,955,1190.0,67622.0,Rural
+Washington & Jefferson College,national-liberal-arts-colleges,,PA,Washington,,private,#89,89,True,19.0,74.0,88.0,28185.0,3.5,1149,1010.0,31769.0,Suburban
+Wellesley College,national-liberal-arts-colleges,,MA,Wellesley,,private,#4,4,True,33.0,54.0,14.0,64320.0,,2447,1430.0,21918.0,Suburban
+Wells College,national-liberal-arts-colleges,,NY,Aurora,,private,#152,152,True,,,68.0,35166.0,,342,,,
+Wesleyan University,national-liberal-arts-colleges,,CT,Middletown,,private,#11,11,True,33.0,39.0,14.0,67016.0,,3069,1440.0,22984.0,City
+Westminster College (MO),national-liberal-arts-colleges,,MO,Fulton,,private,#164,164,False,18.0,,97.0,33144.0,,654,880.0,,
+Westminster College (PA),national-liberal-arts-colleges,,PA,New Wilmington,,private,#112,112,True,21.0,,92.0,39770.0,3.5,1222,1060.0,,Rural
+Westmont College,national-liberal-arts-colleges,,CA,Santa Barbara,,private,#107,107,True,30.0,,82.0,51790.0,3.6,1293,1210.0,,City
+Wheaton College (IL),national-liberal-arts-colleges,,IL,Wheaton,,private,#56,56,True,28.0,60.0,89.0,43930.0,3.7,2187,1250.0,29711.0,
+Wheaton College (MA),national-liberal-arts-colleges,,MA,Norton,,private,#75,75,True,27.0,72.0,80.0,62080.0,3.7,1667,1200.0,33317.0,Suburban
+Whitman College,national-liberal-arts-colleges,,WA,Walla Walla,,private,#46,46,True,30.0,47.0,48.0,61492.0,3.6,1493,1293.0,32400.0,
+Whittier College,national-liberal-arts-colleges,,CA,Whittier,,private,#93,93,True,24.0,59.0,94.0,49864.0,3.4,1131,1140.0,28489.0,Suburban
+Willamette University,national-liberal-arts-colleges,,OR,Salem,,private,#75,75,True,27.0,61.0,81.0,48226.0,3.7,1367,1230.0,33510.0,
+Williams College,national-liberal-arts-colleges,,MA,Williamstown,,private,#1,1,False,34.0,51.0,8.0,64860.0,,2152,1480.0,14917.0,Rural
+Wittenberg University,national-liberal-arts-colleges,,OH,Springfield,,private,#152,152,True,20.0,,94.0,44602.0,3.6,1258,1020.0,,City
+Wofford College,national-liberal-arts-colleges,,SC,Spartanburg,,private,#59,59,True,27.0,58.0,60.0,54100.0,3.7,1823,1200.0,30524.0,
+Young Harris College,national-liberal-arts-colleges,,GA,Young Harris,,private,#186-204,-1,False,,,75.0,30905.0,,1388,,,

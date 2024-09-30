@@ -1,0 +1,1280 @@
+Name,name,UnitID,8-year graduation rate,Graduation rate rank,"Predicted graduation rate based on % of Pell recipients, incoming SATs, etc.",Graduation rate performance rank,Pell/non-Pell graduation gap,Pell graduation gap rank,Number of Pell graduates,Actual vs. predicted Pell enrollment,Pell performance rank,Earnings 10 years after college entry,Predicted earnings,Earnings performance rank,"Net price of attendance for families below $75,000 income",Net price rank,"Research expenditures, in millions",Research expenditures rank,Bachelor's to PhD rank,AmeriCorps/Peace Corps rank,ROTC rank,Percent of federal work-study funds spent on service,Percent of federal work-study funds spent on service rank,Earns Carnegie Community Engagement Classification?,Voting engagement points,Percent of grads with service-oriented majors,Service-oriented majors rank,Social mobility rank,Research rank,Service rank,state,THE_US_rank 2022,City,State,us_news_schoolType,us_news_aliasNames,us_news_city,us_news_region,us_news_institutionalControl,us_news_displayRank,us_news_sortRank,THE_rank,WM_Rank,us_news_isTied,us_news_actAvg,us_news_percentReceivingAid,us_news_acceptanceRate,us_news_tuition,us_news_hsGpaAvg,us_news_enrollment,us_news_satAvg,us_news_costAfterAid,us_news_Setting,DC_economic_score,DC_cost,DC_earnings,DC_graduation_rate,DC_Ranking,AI_Ranking
+divine word college,divine word college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ia,,,,national-liberal-arts-colleges,,Epworth,,private,Unranked,-2,,,FALSE,,,100,14620,,67,,,,,,,,,
+hellenic college,hellenic college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ma,,,,national-liberal-arts-colleges,,Brookline,,private,Unranked,-2,,,FALSE,,,76,22490,,39,,,,7.88,"$29,312","$51,724",57%,135,
+patrick henry college,patrick henry college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,va,,,,national-liberal-arts-colleges,,Purcellville,,private,Unranked,-2,,,FALSE,,,76,28425,3.8,409,,,Suburban,,,,,,
+pontifical college josephinum,pontifical college josephinum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oh,,,,national-liberal-arts-colleges,,Columbus,,private,Unranked,-2,,,FALSE,,,80,26763,,32,,,,,,,,,
+sacred heart major seminary,sacred heart major seminary,172033,74%,89,46%,1,0%,39,17,-8%,166,,37564,12,20871,164,0,122,171,180,112,0%,187,NO,0,0%,149,30,175,196,mi,,,,national-liberal-arts-colleges,,Detroit,,private,Unranked,-2,,103,FALSE,,,100,22277,,190,,,,,,,,,
+thomas more college of liberal arts,thomas more college of liberal arts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nh,,,,national-liberal-arts-colleges,,Merrimack,,private,Unranked,-2,,,FALSE,,,,28000,,89,,,,,,,,,249
+university of the west,university of the west,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ca,,,,national-liberal-arts-colleges,,Rosemead,,private,Unranked,-2,,,FALSE,,,,14018,,77,,,,,,,,,354
+allen university,allen university,217624,21%,195,30%,186,-5%,98,46,18%,9,28108,35347,182,13582,51,0,122,190,162,62,6%,114,NO,1,0%,149,158,191,181,sc,,,,national-liberal-arts-colleges,,Columbia,,private,#186-204,-1,,179,FALSE,,,49,13540,,603,,,,,,,,,325
+bethany college,bethany college,237181,41%,177,49%,180,-21%,190,40,-10%,175,45649,44942,81,11805,37,0,122,92,67,112,0%,187,NO,0,32%,3,181,103,82,wv,,,,national-liberal-arts-colleges,,Bethany,,private,#186-204,-1,,167,FALSE,18,,74,32640,,545,870,,,,,,,,167
+bethune-cookman university,bethune-cookman university,132602,37%,183,38%,113,1%,32,356,19%,7,37270,29689,19,14969,69,0.6,81,172,118,46,3%,167,NO,1,9%,61,4,167,156,fl,,,,national-liberal-arts-colleges,Bethune Cookman University,Daytona Beach,,private,#186-204,-1,,37,FALSE,15,,85,14794,3.3,2628,830,,,,,,,,402
+east-west university,east-west university,144883,14%,197,34%,197,-26%,195,35,21%,4,29841,38600,190,17992,118,0,122,194,180,112,5%,131,NO,0,0%,149,196,194,190,il,,,,national-liberal-arts-colleges,East West University,Chicago,,private,#186-204,-1,,197,FALSE,,,,23400,,487,,,,,,,,,419
+georgetown college,georgetown college,156745,53%,162,65%,191,-16%,180,59,-4%,130,48092,49213,113,13769,55,0,122,158,119,79,7%,106,NO,0,63%,1,174,164,36,ky,,,,national-liberal-arts-colleges,,Georgetown,,private,#186-204,-1,,155,FALSE,18,,72,42010,3.6,1233,1030,,Suburban,3.87,"$14,522","$52,074",53%,57,256
+hebrew theological college,hebrew theological college,145497,9%,199,37%,199,-6%,110,12,-21%,198,29171,29496,96,9815,23,0,122,194,180,112,1%,182,NO,0,0%,149,191,194,194,il,,,,national-liberal-arts-colleges,,Skokie,,private,#186-204,-1,,196,FALSE,,,80,14200,,170,,,,,,,,,
+lane college,lane college,220598,28%,191,35%,175,-16%,181,164,23%,2,30364,32969,135,13959,57,0,122,186,165,91,8%,84,NO,0,10%,59,117,187,164,tn,,,,national-liberal-arts-colleges,,Jackson,,private,#186-204,-1,,161,FALSE,14,,37,11790,2.6,1010,,,,,,,,,370
+martin university,martin university,151810,10%,198,14%,156,-20%,187,24,18%,8,26631,19115,20,15050,71,0,122,180,152,112,9%,61,NO,0,11%,52,149,183,155,in,,,,national-liberal-arts-colleges,,Indianapolis,,private,#186-204,-1,,171,FALSE,,,,13200,,180,,,,,,,,,473
+paine college,paine college,140720,20%,196,22%,126,1%,30,44,11%,21,32044,29607,58,12345,41,0,122,142,180,112,3%,159,NO,0,2%,127,77,151,189,ga,,,,national-liberal-arts-colleges,,Augusta,,private,#186-204,-1,,129,FALSE,,,52,14596,,251,,,,,,,,,366
+pillar college,pillar college,440794,33%,189,32%,84,-1%,58,41,-1%,112,35359,38887,145,19348,142,0,122,194,180,112,0%,187,NO,0,0%,142,159,194,195,nj,,,,national-liberal-arts-colleges,,Newark,,private,#186-204,-1,,186,FALSE,,,,23668,,443,,,,,,,,,
+providence christian college,providence christian college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ca,,,,national-liberal-arts-colleges,,Pasadena,,private,#186-204,-1,,,FALSE,,,83,33884,,123,,,,,,,,,983
+rust college,rust college,176318,37%,184,24%,7,0%,38,147,7%,38,28395,30401,127,9359,20,0,122,153,69,112,1%,185,NO,0,26%,7,24,161,94,ms,,,,national-liberal-arts-colleges,,Holly Springs,,private,#186-204,-1,,57,FALSE,,,38,9900,,768,,,,,,,,,254
+southern virginia university,southern virginia university,233611,39%,182,48%,188,-26%,194,59,20%,5,37749,38505,102,18343,128,0,122,187,100,30,6%,123,NO,0,0%,149,186,188,169,va,,,,national-liberal-arts-colleges,,Buena Vista,,private,#186-204,-1,,192,FALSE,17,,100,19108,,1170,1018,,,,,,,,497
+university of pittsburgh at greensburg,university of pittsburgh at greensburg,215275,37%,185,60%,198,-4%,84,86,-1%,110,59853,51026,14,13749,54,0,122,166,180,28,0%,187,NO,0,8%,71,103,171,186,pa,,,,national-liberal-arts-colleges,,Greensburg,,public,#186-204,-1,,160,FALSE,18,,91,26504,,1306,1030,,Suburban,,,,,,517
+university of science and arts of oklahoma,university of science and arts of oklahoma,207722,40%,178,42%,139,-15%,173,44,-13%,187,38380,34674,49,7058,10,0,122,181,148,112,9%,67,NO,1,16%,27,119,184,127,ok,,,,national-liberal-arts-colleges,,Chickasha,,public,#186-204,-1,,148,FALSE,,,56,19470,,825,,,Rural,,,,,,357
+virginia union university,virginia union university,234164,32%,190,30%,65,-3%,80,126,4%,62,38203,38370,92,19360,145,0,122,182,94,55,5%,126,NO,0,12%,50,105,185,142,va,,,,national-liberal-arts-colleges,,Richmond,,private,#186-204,-1,,141,FALSE,14,,81,14230,2.6,1318,813,,,,,,,,100
+warren wilson college,warren wilson college,199865,52%,166,61%,187,-4%,88,64,13%,16,32895,47293,198,21943,176,0,122,100,14,112,3%,162,YES,3,5%,86,189,111,19,nc,,,,national-liberal-arts-colleges,,Asheville,,private,#186-204,-1,,159,FALSE,24,,84,40290,,723,,,Suburban,,,,,,137
+young harris college,young harris college,141361,40%,179,52%,190,-31%,197,74,-25%,199,41956,45543,148,17704,113,0,122,185,110,112,45%,1,NO,0,9%,63,197,186,28,ga,,,,national-liberal-arts-colleges,,Young Harris,,private,#186-204,-1,,195,FALSE,,,75,30905,,1388,,,,,,,,,389
+williams college,williams college,168342,96%,1,92%,58,-2%,60,96,7%,37,73041,75165,129,3264,1,4.9,8,8,123,112,4%,153,YES,5,0%,149,8,7,88,ma,23,Williamstown,Massachusetts,national-liberal-arts-colleges,,Williamstown,,private,#1,1,2,6,FALSE,34,51,8,64860,,2152,1480,14917,Rural,1.59,"$26,775","$88,665",96%,8,4
+amherst college,amherst college,164465,95%,3,90%,40,-3%,75,95,9%,25,76711,75204,70,5624,6,4.9,10,9,96,70,9%,60,NO,6,0%,149,6,10,96,ma,22,Amherst,Massachusetts,national-liberal-arts-colleges,,Amherst,,private,#2,2,1,7,FALSE,32,56,7,67280,,1898,,17257,,1.86,"$25,035","$77,644",96%,12,2
+united states naval academy,united states naval academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,md,,,,national-liberal-arts-colleges,USNA,Annapolis,,public,#3,3,,,FALSE,25,,11,0,3.7,4450,1200,,City,,,,,,32
+pomona college,pomona college,121345,94%,5,93%,78,0%,42,68,12%,18,71727,78987,183,6727,8,2.7,30,7,21,90,6%,107,YES,4,0%,149,27,13,23,ca,25,Claremont,California,national-liberal-arts-colleges,,Claremont,,private,#4,4,3,9,TRUE,33,52,7,62326,,1791,1480,18694,,1.41,"$18,084","$77,779",94%,4,24
+swarthmore college,swarthmore college,216287,95%,4,93%,72,0%,40,56,8%,34,76518,77357,106,8954,17,3.5,19,2,86,100,4%,144,YES,6,3%,111,19,1,52,pa,29,Swarthmore,Pennsylvania,national-liberal-arts-colleges,,Swarthmore,,private,#4,4,4,4,TRUE,32,51,7,62412,,1625,1440,19131,Suburban,1.5,"$21,595","$80,257",97%,6,1
+wellesley college,wellesley college,168218,92%,15,94%,132,0%,44,105,7%,42,71158,76150,159,8626,16,7.8,3,16,84,59,7%,100,NO,2,0%,147,35,6,141,ma,31,Wellesley,Massachusetts,national-liberal-arts-colleges,,Wellesley,,private,#4,4,5,17,TRUE,33,54,14,64320,,2447,1430,21918,Suburban,1.61,"$23,052","$84,803",94%,10,11
+united states air force academy,united states air force academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,co,,,,national-liberal-arts-colleges,USAFA,USAF Academy,,public,#7,7,,,FALSE,28,,13,0,3.8,4085,1310,,,,,,,,83
+united states military academy at west point,united states military academy at west point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ny,47,West Point,New York,national-liberal-arts-colleges,USMA West Point,West Point,,public,#8,8,13,,FALSE,27,,12,0,3.9,4393,1220,,Suburban,,,,,,18
+bowdoin college,bowdoin college,161004,95%,2,89%,34,-1%,53,60,-2%,118,67538,73247,166,8533,15,2.7,31,30,50,103,39%,2,NO,6,0%,148,41,21,9,me,38,Brunswick,Maine,national-liberal-arts-colleges,,Brunswick,,private,#9,9,9,11,TRUE,33,48,9,64910,,1915,1460,21380,Suburban,1.52,"$18,533","$82,735",94%,7,20
+carleton college,carleton college,173258,93%,9,96%,136,-5%,96,63,6%,47,68733,73746,160,13627,52,4.3,12,4,32,112,6%,113,NO,2,0%,149,86,5,89,mn,35,Northfield,Minnesota,national-liberal-arts-colleges,,Northfield,,private,#9,9,7,36,TRUE,32,58,17,65457,,2034,1430,28244,,3.23,"$30,838","$75,525",93%,43,37
+barnard college,barnard college,189097,93%,11,97%,151,-1%,45,111,-4%,127,73047,73689,100,16067,88,4,15,32,136,110,19%,16,NO,0,0%,149,69,19,149,ny,50,New York,New York,national-liberal-arts-colleges,,New York,,private,#11,11,14,61,TRUE,32,,9,66246,,3442,1440,,City,2.13,"$27,999","$80,516",90%,15,19
+claremont mckenna college,claremont mckenna college,112260,92%,13,90%,66,-5%,97,38,2%,76,91873,75530,3,9686,22,5.5,6,102,140,21,9%,70,NO,5,0%,149,5,32,126,ca,34,Claremont,California,national-liberal-arts-colleges,,Claremont,,private,#11,11,6,12,TRUE,33,42,10,64150,,1386,1440,23392,,0.97,"$19,489","$104,736",92%,1,45
+grinnell college,grinnell college,153384,87%,34,92%,165,2%,24,92,8%,31,61009,67698,176,14660,63,3.9,16,10,6,112,2%,176,NO,5,0%,149,76,11,40,ia,69,Grinnell,Iowa,national-liberal-arts-colleges,,Grinnell,,private,#11,11,24,26,TRUE,31,64,11,64862,,1759,1380,22854,Rural,2.76,"$17,772","$62,830",87%,31,54
+middlebury college,middlebury college,230959,93%,8,93%,91,-4%,83,78,2%,73,67478,71811,152,9618,21,2.3,36,35,10,67,6%,115,YES,6,2%,131,53,29,6,vt,40,Middlebury,Vermont,national-liberal-arts-colleges,,Middlebury,,private,#11,11,11,19,TRUE,33,47,13,65280,,2773,1410,24376,,2.17,"$25,185","$76,310",94%,17,76
+wesleyan university,wesleyan university,130697,91%,21,90%,95,0%,34,132,-1%,108,70325,67662,56,7779,12,8.8,1,18,90,99,10%,55,YES,6,0%,149,12,4,47,ct,43,Middletown,Connecticut,national-liberal-arts-colleges,,Middletown,,private,#11,11,12,3,TRUE,33,39,14,67016,,3069,1440,22984,City,2.36,"$28,340","$73,897",92%,19,8
+davidson college,davidson college,198385,91%,19,85%,33,1%,25,56,-8%,165,74525,69782,40,7840,13,1.9,41,34,77,26,5%,142,YES,0,0%,149,14,36,104,nc,66,Davidson,North Carolina,national-liberal-arts-colleges,,Davidson,,private,#16,16,21,23,TRUE,31,51,17,60050,3.8,1927,1350,22717,,,,,,,67
+hamilton college,hamilton college,191515,93%,10,92%,85,0%,41,69,0%,96,75777,71678,48,10517,29,2.3,35,62,30,82,17%,23,NO,6,0%,149,18,52,25,ny,58,Clinton,New York,national-liberal-arts-colleges,,Clinton,,private,#16,16,17,15,TRUE,33,51,12,65740,,2075,1420,29735,Rural,2.11,"$24,837","$78,411",90%,14,43
+harvey mudd college,harvey mudd college,115409,94%,7,98%,164,-1%,56,27,7%,35,118602,89460,1,17716,114,3,23,1,180,65,14%,31,NO,4,0%,149,3,2,148,ca,,,,national-liberal-arts-colleges,,Claremont,,private,#16,16,,1,TRUE,34,44,13,66255,,906,1480,36221,,1.08,"$39,671","$138,687",93%,2,29
+smith college,smith college,167835,89%,26,94%,162,-1%,46,148,13%,17,57650,64605,179,13275,47,4.9,9,21,51,104,9%,68,NO,6,19%,22,48,14,26,ma,39,Northampton,Massachusetts,national-liberal-arts-colleges,,Northampton,,private,#16,16,10,14,TRUE,31,58,23,61568,,2523,1370,24536,Suburban,5.11,"$31,087","$64,027",87%,97,5
+vassar college,vassar college,197133,92%,17,94%,143,-1%,57,140,6%,43,63486,70227,177,12884,45,1.3,51,12,82,92,31%,6,NO,5,1%,137,57,16,32,ny,65,Poughkeepsie,New York,national-liberal-arts-colleges,,Poughkeepsie,,private,#16,16,20,27,TRUE,32,52,19,67805,,2459,1430,29397,,4.07,"$35,701","$71,366",88%,64,12
+colgate university,colgate university,190099,91%,23,90%,93,-2%,69,75,-10%,174,81502,71390,11,12036,38,3.3,21,56,87,98,20%,15,NO,6,3%,113,22,38,50,ny,52,Hamilton,New York,national-liberal-arts-colleges,,Hamilton,,private,#21,21,15,20,TRUE,32,33,12,67024,3.9,3130,1410,21721,Rural,1.6,"$24,052","$85,139",91%,9,49
+haverford college,haverford college,212911,92%,16,90%,77,2%,22,48,2%,75,73761,74250,97,9140,19,3.7,18,6,54,107,36%,4,NO,6,0%,149,26,8,14,pa,36,Haverford,Pennsylvania,national-liberal-arts-colleges,,Haverford,,private,#21,21,8,5,TRUE,33,42,14,68020,,1421,1430,23753,Suburban,2.6,"$21,464","$79,966",92%,29,13
+washington and lee university,washington and lee university,234207,94%,6,90%,52,0%,43,46,1%,84,85126,71680,7,3421,2,0.5,85,85,122,25,32%,5,NO,3,0%,149,2,93,61,va,,,,national-liberal-arts-colleges,W&L,Lexington,,private,#21,21,,8,TRUE,32,47,17,64525,,1867,1410,24697,City,1.43,"$29,479","$94,810",93%,5,27
+bates college,bates college,160977,91%,22,90%,97,1%,26,51,-6%,152,65283,71473,170,8222,14,2.1,38,51,74,112,13%,34,YES,6,0%,149,61,49,30,me,64,Lewiston,Maine,national-liberal-arts-colleges,,Lewiston,,private,#24,24,19,39,FALSE,31,40,14,63478,,1790,1310,27515,,3.15,"$29,341","$69,498",92%,38,36
+colby college,colby college,161086,91%,20,93%,130,1%,31,49,1%,86,77805,74115,51,3782,3,1.8,43,38,68,112,7%,96,NO,6,2%,132,9,42,85,me,,,,national-liberal-arts-colleges,,Waterville,,private,#25,25,,13,TRUE,32,40,8,66600,,2299,1430,19048,,1.37,"$16,507","$80,490",90%,3,59
+university of richmond,university of richmond,233374,85%,42,88%,150,-2%,61,147,1%,88,75013,68836,26,11534,34,3,22,87,133,35,6%,109,YES,0,5%,95,16,55,114,va,,,,national-liberal-arts-colleges,,Univ. of Richmond,,private,#25,25,,35,TRUE,32,37,24,62600,3.8,3145,1400,26191,Suburban,2.47,"$28,649","$76,178",87%,22,91
+college of the holy cross,college of the holy cross,166124,91%,18,88%,57,-3%,74,112,-5%,141,84118,69335,4,15751,84,0.7,71,110,52,14,4%,145,NO,4,0%,149,13,100,97,ma,117,Worcester,Massachusetts,national-liberal-arts-colleges,,Worcester,,private,#27,27,44,34,TRUE,28,39,36,60850,,3233,1260,34577,City,2.43,"$39,310","$90,543",93%,21,57
+macalester college,macalester college,173902,90%,25,89%,83,0%,35,79,8%,29,59948,66124,169,14169,59,2.5,34,22,13,87,22%,11,NO,6,0%,149,65,20,10,mn,89,Saint Paul,Minnesota,national-liberal-arts-colleges,,St. Paul,,private,#27,27,30,22,TRUE,31,63,28,64908,,2175,1370,28934,Urban,4.74,"$29,697","$63,878",92%,86,98
+berea college,berea college,156295,67%,121,52%,5,-17%,184,279,41%,1,38946,34393,42,4498,4,0,122,106,34,112,5%,140,YES,4,9%,60,1,120,22,ky,148,Berea,Kentucky,national-liberal-arts-colleges,,Berea,,private,#30,30,53,2,TRUE,23,,25,726,3.6,1433,1136,,,2.18,"$2,601","$43,150",66%,18,94
+bryn mawr college,bryn mawr college,211273,86%,37,87%,115,2%,19,51,-3%,123,68946,64092,38,15334,73,8.8,2,14,78,84,8%,78,NO,6,18%,25,44,3,45,pa,68,Bryn Mawr,Pennsylvania,national-liberal-arts-colleges,,Bryn Mawr,,private,#30,30,23,10,TRUE,29,44,31,62560,,1409,1280,22118,,4.77,"$41,833","$75,217",84%,89,3
+bucknell university,bucknell university,211291,90%,24,89%,87,-1%,49,94,-11%,179,87393,72903,6,23736,186,5.2,7,73,172,17,4%,146,NO,5,3%,123,50,24,151,pa,81,Lewisburg,Pennsylvania,national-liberal-arts-colleges,,Lewisburg,,private,#30,30,27,59,TRUE,30,39,33,64772,3.6,3747,1310,38645,Rural,2.59,"$42,198","$93,807",88%,28,122
+lafayette college,lafayette college,213385,89%,28,86%,63,-2%,66,64,-10%,177,89570,72070,2,16238,91,1.6,48,74,142,43,13%,37,YES,5,0%,149,15,65,66,pa,77,Easton,Pennsylvania,national-liberal-arts-colleges,,Easton,,private,#30,30,26,28,TRUE,30,31,34,61824,3.6,2729,1330,30629,Suburban,2.39,"$36,995","$91,410",89%,20,73
+colorado college,colorado college,126678,87%,33,90%,144,3%,14,48,-1%,109,59302,70533,192,12090,39,2.8,25,40,40,96,6%,117,NO,6,5%,89,94,33,55,co,115,Colorado Springs,Colorado,national-liberal-arts-colleges,,Colorado Springs,,private,#33,33,43,68,FALSE,,,14,65028,,2241,,,,4.04,"$28,892","$65,222",88%,63,66
+mount holyoke college,mount holyoke college,166939,85%,39,88%,149,5%,6,117,8%,30,53576,57162,147,13832,56,2.6,32,17,35,112,8%,95,YES,0,12%,49,38,15,41,ma,55,South Hadley,Massachusetts,national-liberal-arts-colleges,,South Hadley,,private,#34,34,16,16,FALSE,30,63,40,64142,3.9,2193,1350,31700,Suburban,6.8,"$31,444","$58,418",85%,124,17
+franklin and marshall college,franklin and marshall college,212577,85%,43,84%,94,-1%,50,87,-6%,153,76340,61840,5,15677,82,4.2,13,50,88,112,8%,90,NO,4,3%,121,17,25,103,pa,84,Lancaster,Pennsylvania,national-liberal-arts-colleges,F&M Franklin & Marshall,Lancaster,,private,#35,35,28,25,TRUE,30,58,36,68380,,1990,1300,29609,,3.2,"$33,802","$76,124",85%,40,150
+occidental college,occidental college,120254,86%,36,90%,152,3%,16,103,5%,60,67872,72284,154,15393,75,2.8,26,46,48,93,21%,13,YES,0,0%,149,67,37,39,ca,95,Los Angeles,California,national-liberal-arts-colleges,,Los Angeles,,private,#35,35,33,41,TRUE,31,50,39,63446,3.7,1942,1360,35196,Urban,4,"$37,334","$75,951",83%,62,46
+scripps college,scripps college,123165,88%,29,88%,96,-4%,85,24,-1%,111,67688,71422,149,17754,115,0.1,121,37,95,112,11%,49,NO,4,0%,149,115,58,108,ca,67,Claremont,California,national-liberal-arts-colleges,,Claremont,,private,#35,35,22,113,TRUE,32,37,28,63434,,1081,1390,35232,Suburban,,,,,,65
+skidmore college,skidmore college,195526,88%,31,84%,54,8%,3,83,-14%,189,66134,66227,90,12796,44,2.7,28,72,126,94,8%,94,NO,4,4%,109,32,51,132,ny,102,Saratoga Springs,New York,national-liberal-arts-colleges,,Saratoga Springs,,private,#38,38,36,49,FALSE,30,52,26,64880,,2758,1300,31780,,4.44,"$34,165","$69,363",86%,74,210
+denison university,denison university,202523,85%,40,85%,100,-4%,86,99,-9%,168,59054,63473,155,16898,102,0.6,77,71,75,112,37%,3,YES,6,3%,122,107,78,4,oh,114,Granville,Ohio,national-liberal-arts-colleges,,Granville,,private,#39,39,42,60,TRUE,29,56,22,64000,,2330,1270,34101,Suburban,4.53,"$34,134","$67,753",81%,77,75
+hillsdale college,hillsdale college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mi,,,,national-liberal-arts-colleges,,Hillsdale,,private,#39,39,,,TRUE,30,30,21,32092,3.9,1573,1360,35054,Rural,,,,,,86
+kenyon college,kenyon college,203535,93%,12,88%,39,-14%,169,35,-6%,154,62778,64257,119,15274,72,1,58,23,37,112,12%,44,NO,1,0%,149,124,30,92,oh,93,Gambier,Ohio,national-liberal-arts-colleges,,Gambier,,private,#39,39,32,92,TRUE,31,44,34,69330,3.9,1885,1370,32355,,4.7,"$39,277","$71,830",89%,85,41
+pitzer college,pitzer college,121257,85%,41,85%,101,3%,13,37,-6%,151,63232,71531,188,10169,26,0.3,97,82,9,71,6%,120,YES,6,1%,138,84,91,7,ca,88,Claremont,California,national-liberal-arts-colleges,,Claremont,,private,#39,39,29,51,TRUE,,34,18,62692,3.9,1212,,35103,Suburban,,,,,,61
+spelman college,spelman college,141060,77%,79,58%,2,-13%,160,213,-3%,121,54903,48478,24,36895,199,2.7,27,42,47,19,6%,122,NO,6,3%,115,131,35,62,ga,126,Atlanta,Georgia,national-liberal-arts-colleges,,Atlanta,,private,#39,39,48,89,TRUE,22,72,28,30058,3.9,2374,1090,33592,Urban,7.14,"$38,319","$59,993",77%,129,56
+trinity college,trinity college,130590,83%,51,85%,134,4%,11,60,0%,103,72387,67352,35,11621,36,1.8,42,96,83,112,5%,127,NO,6,1%,135,20,72,99,ct,104,Hartford,Connecticut,national-liberal-arts-colleges,,Hartford,,private,#39,39,37,40,TRUE,30,59,36,67420,,2167,1300,27958,City,2.8,"$37,118","$90,779",83%,32,60
+union college,union college,196866,86%,38,85%,103,5%,7,89,-11%,178,72897,71586,74,16472,95,1.7,45,79,130,45,9%,69,NO,0,0%,149,56,66,170,ny,134,Schenectady,New York,national-liberal-arts-colleges,,Schenectady,,private,#44,45,50,85,FALSE,29,57,47,66456,3.7,2107,1310,34722,City,2.59,"$35,375","$88,604",86%,27,23
+connecticut college,connecticut college,128902,83%,48,86%,138,4%,9,72,1%,87,70642,65331,34,17318,106,1.6,47,83,66,112,18%,21,NO,6,0%,149,39,68,56,ct,109,New London,Connecticut,national-liberal-arts-colleges,,New London,,private,#46,46,40,42,TRUE,30,49,40,64812,3.8,1948,1360,35116,Suburban,3.28,"$32,664","$75,001",82%,45,52
+depauw university,depauw university,150400,84%,46,75%,17,-3%,81,103,-6%,148,64520,56393,17,17160,104,0.4,94,53,128,50,5%,136,NO,0,6%,79,34,71,167,in,120,Greencastle,Indiana,national-liberal-arts-colleges,,Greencastle,,private,#46,46,45,67,TRUE,24,50,66,57070,3.9,1752,1140,30293,Rural,2.81,"$25,673","$70,527",87%,33,30
+dickinson college,dickinson college,212009,84%,45,85%,111,1%,33,65,-5%,140,71065,64638,23,10535,30,1.3,50,84,55,15,13%,38,YES,6,3%,120,23,75,17,pa,99,Carlisle,Pennsylvania,national-liberal-arts-colleges,,Carlisle,,private,#46,46,35,21,TRUE,29,62,35,63450,,2125,1260,32317,Suburban,3.21,"$30,345","$70,204",84%,42,72
+furman university,furman university,218070,80%,59,84%,155,-4%,87,77,1%,91,59616,61780,130,19973,152,2.1,37,61,135,4,1%,184,YES,5,21%,15,122,53,35,sc,149,Greenville,South Carolina,national-liberal-arts-colleges,,Greenville,,private,#46,46,54,87,TRUE,28,45,67,58312,3.7,2283,1260,34330,Suburban,3.64,"$31,357","$68,635",80%,49,84
+whitman college,whitman college,237057,89%,27,82%,31,-3%,78,37,1%,81,61891,64857,140,21432,171,1.2,54,19,39,112,10%,51,NO,4,0%,145,106,22,69,wa,98,Walla Walla,Washington,national-liberal-arts-colleges,,Walla Walla,,private,#46,46,34,75,TRUE,30,47,48,61492,3.6,1493,1293,32400,,4.76,"$35,627","$67,589",87%,88,96
+centre college,centre college,156408,83%,49,79%,48,-7%,114,52,2%,74,59212,61788,134,14922,68,0.3,103,55,64,42,25%,9,NO,6,0%,149,89,74,33,ky,223,Danville,Kentucky,national-liberal-arts-colleges,,Danville,,private,#51,51,82,71,TRUE,26,61,62,50550,3.8,1357,1195,22386,City,2.58,"$22,024","$66,240",82%,26,115
+oberlin college,oberlin college,204501,87%,35,89%,141,1%,29,61,-12%,183,50202,62872,197,15676,81,1.6,46,15,62,112,13%,40,NO,0,0%,149,147,17,119,oh,112,Oberlin,Ohio,national-liberal-arts-colleges,,Oberlin,,private,#51,51,41,111,TRUE,30,38,35,64646,3.7,2986,1360,37245,,7.9,"$37,377","$58,343",86%,136,6
+principia college,principia college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,il,,,,national-liberal-arts-colleges,,Elsah,,private,#51,51,,,TRUE,16,81,48,33280,3.3,314,1027,17954,Rural,,,,,,180
+st. olaf college,saint olaf college,174844,87%,32,88%,112,-2%,70,95,8%,33,63251,64155,107,12982,46,1.1,56,25,31,112,4%,143,NO,6,7%,74,43,34,43,mn,150,Northfield,Minnesota,national-liberal-arts-colleges,St Olaf College Saint Olaf College,Northfield,,private,#51,51,55,29,TRUE,28,76,56,56970,3.7,3046,1300,22659,,3.16,"$21,996","$65,543",85%,39,126
+sewanee-the university of the south,sewanee-the university of the south,221519,80%,60,80%,107,-3%,82,72,-5%,139,57967,60048,128,19512,149,0.5,83,109,76,112,8%,80,YES,6,0%,149,113,108,46,tn,190,Sewanee,Tennessee,national-liberal-arts-colleges,Sewanee University of the South Sewanee University of the South,Sewanee,,private,#50,51,65,98,TRUE,27,49,52,53704,,1613,1233,30127,Rural,3.79,"$26,357","$64,911",80%,53,165
+rhodes college,rhodes college,221351,83%,52,84%,117,-6%,105,68,-3%,122,67917,67730,87,17784,116,0.3,101,67,89,29,4%,155,YES,0,4%,105,99,81,102,tn,108,Memphis,Tennessee,national-liberal-arts-colleges,,Memphis,,private,#56,56,39,105,TRUE,28,47,48,54892,3.7,1996,1305,31508,City,3.21,"$26,604","$66,651",82%,41,196
+soka university of america,soka university of america,399911,92%,14,76%,3,-8%,128,30,0%,97,50737,46637,47,10241,28,0,122,133,25,112,9%,65,NO,0,6%,80,25,140,76,ca,,,,national-liberal-arts-colleges,,Aliso Viejo,,private,#56,56,,53,TRUE,26,84,57,37450,3.7,445,1240,26285,Suburban,5.98,"$21,267","$55,017",87%,111,155
+wheaton college (illinois),wheaton college (illinois),149781,88%,30,82%,27,-2%,67,127,11%,22,56740,61837,161,17643,112,1,61,41,92,5,6%,110,NO,0,10%,57,59,54,128,il,173,Wheaton,Illinois,national-liberal-arts-colleges,,Wheaton,,private,#57,56,64,69,TRUE,28,60,89,43930,3.7,2187,1250,29711,,4.44,"$26,877","$63,756",87%,72,44
+st. lawrence university,saint lawrence university,195216,84%,47,81%,64,-8%,130,95,-8%,161,63361,61586,68,15757,86,0.1,120,130,98,37,7%,98,NO,6,3%,110,87,137,93,ny,,,,national-liberal-arts-colleges,St Lawrence University Saint Lawrence University,Canton,,private,#59,59,,99,TRUE,29,60,63,63870,3.7,2145,1240,34508,Rural,3.85,"$28,344","$67,258",80%,56,166
+trinity university,trinity university,229267,79%,69,87%,179,-12%,153,75,-5%,137,66367,73370,180,12609,43,2.7,29,54,106,61,8%,81,NO,6,12%,47,150,43,70,tx,106,San Antonio,Texas,national-liberal-arts-colleges,,San Antonio,,private,#59,59,38,115,TRUE,29,43,31,51352,3.8,2512,1310,26022,Urban,2.51,"$23,567","$71,668",79%,23,184
+wabash college,wabash college,152673,75%,83,71%,46,-11%,144,54,-2%,114,63061,58634,43,14586,62,1.2,55,57,180,44,13%,36,NO,1,0%,149,85,62,171,in,,,,national-liberal-arts-colleges,,Crawfordsville,,private,#59,59,,101,TRUE,22,68,61,49125,3.6,835,1122,25956,City,2.63,"$22,067","$69,952",75%,30,28
+wofford college,wofford college,218973,82%,54,75%,23,2%,20,76,-15%,193,67381,63083,45,20686,161,0,122,125,151,8,9%,62,NO,5,0%,149,78,133,121,sc,210,Spartanburg,South Carolina,national-liberal-arts-colleges,,Spartanburg,,private,#59,59,78,97,TRUE,27,58,60,54100,3.7,1823,1200,30524,,3.67,"$29,236","$68,964",81%,50,244
+agnes scott college,agnes scott college,138600,71%,103,64%,24,-2%,68,85,9%,24,48745,47245,71,15756,85,0.8,67,47,65,39,3%,163,NO,6,8%,69,45,60,74,ga,,,,national-liberal-arts-colleges,,Decatur,,private,#63,63,,50,TRUE,24,73,67,48150,3.8,1006,1130,27124,City,5.48,"$22,358","$56,274",73%,102,101
+gettysburg college,gettysburg college,212674,82%,53,85%,142,-2%,62,75,0%,102,69282,66081,54,15451,78,1,57,107,105,24,3%,170,YES,5,1%,141,64,94,79,pa,122,Gettysburg,Pennsylvania,national-liberal-arts-colleges,,Gettysburg,,private,#63,63,46,72,TRUE,28,60,56,64230,,2241,1350,31048,Suburban,2.87,"$28,320","$71,517",84%,34,146
+virginia military institute,virginia military institute,234085,78%,71,75%,50,-2%,63,50,-18%,196,74447,72340,63,10204,27,1,60,167,180,1,0%,187,NO,2,0%,149,66,150,78,va,,,,national-liberal-arts-colleges,,Lexington,,public,#63,63,,80,TRUE,22,,71,49722,3.7,1512,1105,,City,2.16,"$21,215","$77,369",84%,16,50
+gustavus adolphus college,gustavus adolphus college,173647,78%,72,82%,157,-2%,64,145,17%,10,61198,59004,62,15677,83,0.7,75,99,56,33,3%,161,YES,6,11%,54,31,96,21,mn,206,Saint Peter,Minnesota,national-liberal-arts-colleges,,St. Peter,,private,#67,67,75,31,TRUE,25,66,74,54310,3.6,2088,,29637,,3.64,"$24,224","$65,607",78%,48,156
+reed college,reed college,209922,81%,55,91%,183,-1%,54,58,4%,63,51510,66673,199,16693,99,3.4,20,5,145,112,8%,86,NO,2,0%,149,165,9,163,or,92,Portland,Oregon,national-liberal-arts-colleges,,Portland,,private,#67,67,31,112,TRUE,,,44,64760,,1548,,,,7.22,"$32,966","$62,927",78%,130,14
+thomas aquinas college,thomas aquinas college,124292,81%,58,70%,11,0%,36,31,7%,40,47912,45715,61,19358,144,0,122,127,180,112,0%,187,NO,0,0%,149,55,134,196,ca,,,,national-liberal-arts-colleges,,Santa Paula,,private,#67,67,,116,TRUE,27,61,85,28700,3.8,516,1215,25242,,7,"$27,202","$55,619",81%,127,271
+hobart william smith colls.,hobart william smith colls.,191630,79%,65,78%,88,3%,15,82,-5%,135,65843,59675,27,19455,146,1.8,44,145,22,112,21%,14,YES,6,4%,106,54,109,5,ny,,,,national-liberal-arts-colleges,HWS,Geneva,,private,#70,70,,32,TRUE,27,62,68,63268,3.6,1559,1210,34987,City,3.67,"$29,256","$68,831",76%,51,80
+kalamazoo college,kalamazoo college,170532,84%,44,74%,14,-1%,52,72,5%,61,57957,60905,138,18596,134,0.7,76,27,43,112,10%,53,NO,5,0%,149,72,40,68,mi,172,Kalamazoo,Michigan,national-liberal-arts-colleges,,Kalamazoo,,private,#70,70,63,56,TRUE,26,,80,56562,3.8,1210,1200,,City,3.28,"$22,567","$65,590",82%,44,77
+muhlenberg college,muhlenberg college,214175,83%,50,78%,38,3%,18,68,-6%,149,69534,61077,16,18191,121,0.4,87,119,120,78,6%,111,YES,6,4%,104,36,117,60,pa,166,Allentown,Pennsylvania,national-liberal-arts-colleges,,Allentown,,private,#70,70,61,48,TRUE,29,66,66,60240,3.5,1945,1200,32940,City,3.01,"$27,729","$69,107",85%,36,159
+bard college,bard college,189088,74%,85,76%,125,3%,17,87,0%,100,43133,49377,173,18812,138,0.2,117,48,57,112,3%,160,YES,6,3%,114,101,69,37,ny,273,Annandale-On-Hudson,New York,national-liberal-arts-colleges,,Annandale on Hudson,,private,#72,72,100,81,FALSE,,,60,60270,,2171,,,,,,,,,22
+college of saint benedict,college of saint benedict,174747,80%,63,71%,15,-10%,140,110,1%,80,58719,52887,30,18600,135,0.7,72,134,24,112,14%,33,NO,6,20%,17,62,127,8,mn,223,Saint Joseph,Minnesota,national-liberal-arts-colleges,College of St Benedict College of Saint Benedict,St. Joseph,,private,#73,73,82,44,TRUE,20,67,88,53884,3.7,1443,1055,29455,Suburban,4.68,"$27,340","$63,260",84%,84,293
+lake forest college,lake forest college,146481,74%,86,74%,105,2%,21,139,6%,49,62790,56811,29,18441,130,0.4,88,116,171,112,4%,148,NO,0,5%,93,29,114,184,il,192,Lake Forest,Illinois,national-liberal-arts-colleges,,Lake Forest,,private,#73,73,66,79,TRUE,26,80,60,54202,3.8,1727,1155,23625,Suburban,4.96,"$27,904","$61,825",76%,95,104
+allegheny college,allegheny college,210669,74%,84,73%,82,-8%,120,121,8%,32,59454,56631,55,18369,129,0.4,92,58,46,49,15%,28,YES,6,5%,92,74,73,13,pa,164,Meadville,Pennsylvania,national-liberal-arts-colleges,,Meadville,,private,#75,75,60,46,TRUE,23,70,64,54960,3.5,1353,1114,41967,Suburban,4.35,"$24,838","$62,069",73%,71,70
+college of wooster,college of wooster,206589,76%,81,81%,166,-7%,117,98,-2%,119,53176,59368,171,16465,94,1.3,52,36,59,112,10%,57,NO,2,3%,112,137,45,100,oh,150,Wooster,Ohio,national-liberal-arts-colleges,,Wooster,,private,#75,75,55,114,TRUE,27,64,56,59550,3.7,1967,1250,31608,Suburban,4.94,"$24,995","$59,629",75%,93,105
+knox college,knox college,146427,74%,87,71%,55,-7%,116,99,6%,51,50241,51781,120,17411,109,0,122,66,1,112,22%,12,NO,4,6%,82,88,84,2,il,229,Galesburg,Illinois,national-liberal-arts-colleges,,Galesburg,,private,#75,75,85,45,TRUE,27,71,73,55587,,1060,1163,25158,City,7.5,"$26,205","$54,820",70%,132,53
+lawrence university,lawrence university,239017,79%,67,80%,118,-8%,126,69,14%,14,49848,57820,187,15407,76,0.6,78,44,2,112,9%,73,NO,0,2%,128,109,59,31,wi,168,Appleton,Wisconsin,national-liberal-arts-colleges,,Appleton,,private,#75,75,62,77,TRUE,27,64,72,55461,3.7,1426,1210,28435,City,6.4,"$22,763","$55,789",78%,118,58
+st. john's college,saint john's college,163976,70%,105,77%,173,4%,12,22,15%,13,50692,45956,41,19485,148,0,122,24,5,112,9%,63,NO,0,0%,149,68,46,59,md,,,,national-liberal-arts-colleges,St John's College Saint John's College St Johns College Saint Johns College St. Johns College,Annapolis,,private,#75,75,,52,TRUE,30,63,50,39126,3.8,462,1250,24913,City,,,,,,1231
+wheaton college (massachusetts),wheaton college (massachusetts),168281,78%,75,79%,121,-1%,48,76,0%,94,61233,60186,77,21494,173,0.1,118,129,150,112,2%,171,NO,5,3%,116,97,131,152,ma,160,Norton,Massachusetts,national-liberal-arts-colleges,,Norton,,private,#76,75,57,126,TRUE,27,72,80,62080,3.7,1667,1200,33317,Suburban,4.78,"$32,248","$67,725",77%,90,128
+willamette university,willamette university,210401,73%,93,71%,69,-3%,77,95,2%,77,58329,56313,67,26384,194,1.9,40,28,12,74,8%,87,NO,0,0%,149,114,26,72,or,147,Salem,Oregon,national-liberal-arts-colleges,,Salem,,private,#75,75,52,86,TRUE,27,61,81,48226,3.7,1367,1230,33510,,6.44,"$28,978","$56,911",74%,120,55
+juniata college,juniata college,213251,80%,61,74%,30,8%,4,78,0%,93,58446,58108,85,18586,133,0.5,84,39,72,112,5%,133,YES,5,9%,65,40,57,42,pa,,,,national-liberal-arts-colleges,,Huntingdon,,private,#82,82,,38,TRUE,26,71,76,56402,3.6,1177,1120,32249,Rural,6.1,"$25,378","$56,918",74%,114,246
+saint john's university,saint john's university,174792,75%,82,72%,51,-9%,136,74,0%,99,72070,67066,36,16661,98,1,59,45,61,2,6%,112,NO,6,4%,101,82,56,53,mn,,,,national-liberal-arts-colleges,St John's University Saint John's University St Johns University Saint Johns University St. Johns University,Collegeville,,private,#82,82,,66,TRUE,21,62,86,53942,3.5,1528,915,28531,Rural,2.55,"$25,169","$76,786",74%,25,
+saint mary's college,saint mary's college,152390,79%,68,68%,10,-5%,100,79,-5%,144,57984,49278,15,15416,77,0,122,140,70,22,5%,128,NO,3,35%,2,33,148,29,in,,,,national-liberal-arts-colleges,St Mary's College Saint Mary's College St Marys College Saint Marys College St. Marys College,Notre Dame,,private,#82,82,,43,TRUE,23,74,84,51430,3.8,1406,1030,31288,Suburban,4.48,"$25,209","$59,354",80%,75,188
+st. mary's college of maryland,saint mary's college of maryland,,77%,80,69%,21,-6%,108,74,-3%,124,57899,58672,103,10582,32,0.4,96,43,166,112,10%,56,NO,0,6%,78,60,63,168,md,,,,national-liberal-arts-colleges,St Mary's College of Maryland Saint Mary's College of Maryland St Marys College of Maryland Saint Marys College of Maryland St. Marys College of Maryland,St. Marys City,,public,#82,82,,83,TRUE,28,50,77,31312,3.5,1513,1130,36156,Rural,4.13,"$18,736","$60,110",73%,67,200
+beloit college,beloit college,238333,81%,57,71%,13,-3%,72,65,3%,66,52110,55071,139,13312,48,0.1,119,29,71,112,6%,118,NO,2,4%,108,52,47,123,wi,192,Beloit,Wisconsin,national-liberal-arts-colleges,,Beloit,,private,#86,86,66,63,TRUE,26,67,66,58554,3.3,964,1190,26988,City,6.15,"$19,672","$53,260",77%,115,64
+stonehill college,stonehill college,167996,81%,56,80%,80,-7%,119,84,-12%,180,70873,64473,25,24143,189,0.6,79,121,161,48,4%,149,YES,1,10%,55,120,112,111,ma,219,Easton,Massachusetts,national-liberal-arts-colleges,,Easton,,private,#86,86,80,128,TRUE,,62,73,52300,3.4,2536,,34082,Suburban,3.05,"$29,952","$77,745",82%,37,363
+ursinus college,ursinus college,216524,79%,66,76%,59,-5%,93,70,-1%,104,66169,64128,66,24635,190,0.7,74,78,138,112,4%,152,NO,0,0%,143,116,82,185,pa,,,,national-liberal-arts-colleges,,Collegeville,,private,#86,86,,145,TRUE,28,71,82,59176,3.6,1527,1180,35726,Suburban,3.92,"$31,493","$73,721",74%,59,107
+saint anselm college,saint anselm college,183239,78%,70,78%,86,-4%,89,74,-10%,176,61867,60552,73,23442,185,0,122,157,154,36,12%,45,NO,2,26%,8,136,163,80,nh,256,Manchester,New Hampshire,national-liberal-arts-colleges,St Anselm College Saint Anselm College,Manchester,,private,#89,89,93,136,TRUE,26,68,82,46800,3.4,1959,1120,36693,City,3.76,"$35,038","$73,371",82%,52,242
+southwestern university,southwestern university,228343,72%,97,74%,122,-8%,124,88,-7%,157,58696,63382,158,20987,165,0.2,106,81,175,112,5%,125,NO,6,4%,103,164,92,140,tx,238,Georgetown,Texas,national-liberal-arts-colleges,,Georgetown,,private,#89,89,89,163,TRUE,24,58,45,50858,3.5,1483,1120,27192,Suburban,5.37,"$29,104","$56,878",74%,100,151
+university of puget sound,university of puget sound,236328,77%,76,77%,89,-9%,135,93,5%,58,63206,60703,57,22769,179,0.9,64,64,15,109,7%,99,NO,4,21%,16,112,67,15,wa,,,,national-liberal-arts-colleges,,Tacoma,,private,#89,89,,74,TRUE,26,51,83,59900,3.5,1712,1170,34748,City,4.82,"$37,164","$69,594",77%,92,127
+washington & jefferson college,washington & jefferson college,216667,72%,95,69%,53,-11%,148,62,0%,92,66716,54591,10,20540,158,0.4,86,76,174,31,11%,47,NO,0,3%,125,81,87,172,pa,,,,national-liberal-arts-colleges,,Washington,,private,#89,89,,108,TRUE,19,74,88,28185,3.5,1149,1010,31769,Suburban,3.61,"$25,625","$67,918",68%,47,48
+austin college,austin college,222983,70%,104,72%,128,-9%,137,77,0%,95,58542,67154,189,18302,124,0.2,113,59,58,112,3%,164,NO,2,14%,36,167,80,90,tx,261,Sherman,Texas,national-liberal-arts-colleges,,Sherman,,private,#93,93,95,150,TRUE,23,65,55,46025,3.6,1169,1130,25948,,3.87,"$22,764","$61,296",70%,58,144
+drew university,drew university,184348,64%,138,72%,181,-2%,65,93,6%,53,56546,53140,52,15538,80,0,122,104,115,83,8%,77,YES,6,7%,76,75,116,48,nj,,,,national-liberal-arts-colleges,,Madison,,private,#93,93,,73,TRUE,26,,73,43824,3.5,1549,1120,,,3.99,"$24,892","$63,646",70%,61,93
+lewis & clark college,lewis & clark college,209056,77%,77,81%,154,-7%,118,104,6%,50,52084,58909,178,23173,182,2.6,33,33,4,112,12%,42,NO,6,24%,12,162,27,1,or,234,Portland,Oregon,national-liberal-arts-colleges,Lewis and Clark College,Portland,,private,#93,93,87,65,TRUE,29,59,69,62350,3.7,2210,1260,32977,City,5.74,"$33,819","$62,205",74%,106,177
+st. john's college,saint john's college,245652,58%,153,67%,185,0%,37,26,22%,3,42305,35068,21,24017,188,0,122,13,3,112,2%,181,NO,0,0%,149,90,23,64,nm,,,,national-liberal-arts-colleges,St John's College Saint John's College St Johns College Saint Johns College St. Johns College,Santa Fe,,private,#93,93,,62,TRUE,30,50,54,39356,3.7,366,1290,23609,City,,,,,,
+saint norbert college,saint norbert college,239716,72%,99,73%,120,-3%,79,100,-3%,120,53346,59157,167,21463,172,0.3,104,155,139,16,12%,46,YES,5,13%,42,143,153,34,wi,,,,national-liberal-arts-colleges,St Norbert College Saint Norbert College,De Pere,,private,#93,93,,124,TRUE,21,63,84,44432,3.6,1814,1010,30485,Suburban,5.64,"$25,644","$58,363",72%,104,465
+washington college,washington college,164216,70%,106,71%,119,-1%,47,47,5%,57,65569,59967,32,15039,70,0,122,112,164,112,2%,179,NO,0,0%,149,51,126,191,md,204,Chestertown,Maryland,national-liberal-arts-colleges,,Chestertown,,private,#93,93,73,109,TRUE,25,18,75,54266,3.7,955,1190,67622,Rural,1.88,"$12,606","$65,518",70%,13,42
+whittier college,whittier college,125763,69%,109,73%,159,4%,10,149,12%,20,57443,60472,143,18960,139,0.2,112,148,114,112,18%,20,YES,5,8%,68,63,147,27,ca,,,,national-liberal-arts-colleges,,Whittier,,private,#93,93,,64,TRUE,24,59,94,49864,3.4,1131,1140,28489,Suburban,5.44,"$26,635","$59,492",66%,101,88
+antioch college,antioch college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oh,,,,national-liberal-arts-colleges,,Yellow Springs,,private,#100,100,,,TRUE,19,,83,37143,,127,,,,,,,,,7
+augustana college,augustana college,143084,72%,100,77%,167,-8%,122,128,-9%,169,60109,59269,79,18714,136,0.3,98,143,111,112,2%,177,NO,2,15%,32,121,141,130,il,271,Rock Island,Illinois,national-liberal-arts-colleges,,Rock Island,,private,#100,100,99,138,TRUE,21,66,61,49834,3.4,2318,1020,31866,Suburban,1.83,"$11,780","$62,971",76%,11,220
+earlham college,earlham college,150455,66%,128,68%,127,-14%,167,50,0%,101,44690,50095,163,16770,100,0.2,105,20,42,112,1%,186,NO,0,3%,118,171,31,143,in,207,Richmond,Indiana,national-liberal-arts-colleges,,Richmond,,private,#100,100,76,144,TRUE,24,81,73,51840,3.7,612,1130,24721,,10.75,"$25,496","$50,797",67%,146,34
+hope college,hope college,170301,79%,64,75%,49,-15%,174,157,-7%,156,55053,58074,142,18984,140,3.9,17,98,167,111,5%,139,NO,1,20%,19,135,50,145,mi,264,Holland,Michigan,national-liberal-arts-colleges,,Holland,,private,#100,100,96,123,TRUE,24,40,80,37221,3.8,3251,1090,25965,City,4.75,"$23,985","$58,427",75%,87,171
+morehouse college,morehouse college,140553,55%,159,56%,124,-14%,168,173,12%,19,51715,53926,131,27764,195,5.7,4,94,33,11,4%,147,NO,3,0%,146,170,28,86,ga,,,,national-liberal-arts-colleges,,Atlanta,,private,#100,100,,127,TRUE,18,,59,14734,3.5,2567,,,,9.49,"$36,836","$52,889",58%,143,39
+new college of florida,new college of florida,,64%,136,65%,110,-3%,76,50,7%,39,46668,45206,72,6993,9,0.9,66,11,18,112,5%,132,NO,6,0%,149,37,18,44,fl,,,,national-liberal-arts-colleges,,Sarasota,,public,#100,100,,18,TRUE,24,48,75,29944,3.9,669,1103,20132,Suburban,2.54,"$7,091","$48,082",65%,24,89
+sarah lawrence college,sarah lawrence college,195304,78%,73,82%,161,2%,23,55,-5%,143,49230,50378,114,25038,191,0.2,111,77,117,108,8%,89,NO,0,12%,44,142,90,144,ny,200,Bronxville,New York,national-liberal-arts-colleges,,Bronxville,,private,#100,100,72,146,TRUE,29,56,50,63678,3.8,1462,1260,40447,Suburban,,,,,,15
+linfield university,linfield university,209065,73%,90,67%,29,-7%,115,104,-5%,134,68219,56070,9,23201,183,0.2,110,101,17,95,7%,105,NO,6,12%,43,70,110,16,or,160,McMinnville,Oregon,national-liberal-arts-colleges,,McMinnville,,private,#107,107,57,54,TRUE,,,90,49460,3.6,1704,,,Rural,2.99,"$29,934","$78,638",77%,35,492
+lycoming college,lycoming college,213668,67%,123,63%,43,-6%,107,95,7%,41,54458,50154,44,14665,64,0,122,135,163,32,2%,174,NO,2,0%,149,47,142,182,pa,,,,national-liberal-arts-colleges,,Williamsport,,private,#107,107,,100,TRUE,20,,75,47450,3.6,1067,1053,,City,4.54,"$18,549","$56,210",60%,79,358
+randolph-macon college,randolph-macon college,233295,67%,124,67%,102,-6%,102,72,-16%,194,55932,56980,109,21298,170,0,122,163,158,76,3%,157,NO,0,0%,149,161,168,188,va,,,,national-liberal-arts-colleges,R-MC Randolph Macon College Randolph Macon,Ashland,,private,#107,107,,181,TRUE,23,,85,48106,3.7,1490,1020,,Suburban,6.22,"$27,462","$58,448",64%,117,216
+susquehanna university,susquehanna university,216278,71%,102,74%,146,-8%,129,107,-1%,107,58842,56621,60,21028,166,0.2,107,159,131,34,3%,166,NO,6,6%,77,118,157,109,pa,207,Selinsgrove,Pennsylvania,national-liberal-arts-colleges,,Selinsgrove,,private,#107,107,76,134,TRUE,23,,88,57400,3.7,2199,1088,,Rural,4.48,"$27,370","$61,723",75%,76,625
+westmont college,westmont college,125727,77%,78,76%,98,-3%,73,65,-4%,131,61662,63096,118,25361,193,0.2,114,113,102,51,2%,180,NO,0,0%,149,148,121,179,ca,197,Santa Barbara,California,national-liberal-arts-colleges,,Santa Barbara,,private,#107,107,70,169,TRUE,30,,82,51790,3.6,1293,1210,,City,4.54,"$31,227","$64,778",71%,78,149
+bennington college,bennington college,230816,74%,88,71%,62,1%,27,30,1%,89,46270,45745,84,22894,180,0,122,80,8,112,14%,32,NO,1,1%,136,104,95,38,vt,,,,national-liberal-arts-colleges,,Bennington,,private,#112,112,,88,TRUE,29,,45,64644,3.6,785,1260,,,,,,,,10
+hanover college,hanover college,150756,68%,113,66%,73,-11%,146,79,0%,98,50441,51177,101,15925,87,0,122,86,124,112,0%,187,NO,0,4%,98,111,99,183,in,,,,national-liberal-arts-colleges,,Hanover,,private,#112,112,,143,TRUE,24,,74,41441,3.8,951,1090,,,6.41,"$24,059","$53,957",70%,119,111
+hendrix college,hendrix college,107080,70%,107,73%,147,-13%,163,53,5%,54,46928,58055,191,11602,35,0.7,70,26,49,52,12%,43,NO,2,0%,149,160,39,91,ar,,,,national-liberal-arts-colleges,,Conway,,private,#112,112,,122,TRUE,23,,60,36650,3.9,1130,1130,,Suburban,4.09,"$22,780","$60,376",66%,65,103
+westminster college,westminster college,216807,68%,112,63%,35,-10%,143,105,-4%,128,51123,52176,110,16335,93,0,122,95,28,112,15%,30,NO,3,14%,37,100,107,24,pa,,,,national-liberal-arts-colleges,,New Wilmington,,private,#112,112,,84,TRUE,21,,92,39770,3.5,1222,1060,,Rural,5.77,"$21,969","$53,861",95%,107,376
+cornell college,cornell college,153162,73%,94,71%,68,-6%,106,92,4%,65,50721,57364,175,19541,150,0.3,100,91,7,112,8%,92,NO,5,4%,102,134,97,20,ia,,,,national-liberal-arts-colleges,,Mount Vernon,,private,#116,116,,94,TRUE,23,,79,50634,3.6,1060,1170,,Suburban,7.28,"$24,164","$53,460",67%,131,123
+hampden-sydney college,hampden-sydney college,232256,66%,130,69%,148,-8%,127,43,-21%,197,68069,67338,80,23268,184,0,122,139,157,6,9%,71,NO,0,0%,149,184,146,174,va,,,,national-liberal-arts-colleges,Hampden Sydney College,Hampden-Sydney,,private,#116,116,,188,TRUE,23,,40,52388,3.4,835,1040,,,3.83,"$25,214","$67,640",67%,55,71
+luther college,luther college,153834,78%,74,76%,75,-11%,145,95,-6%,146,53716,56773,144,20084,155,0.4,90,75,99,112,6%,116,NO,0,18%,23,144,85,115,ia,269,Decorah,Iowa,national-liberal-arts-colleges,,Decorah,,private,#116,116,98,140,TRUE,22,,75,50320,3.6,1610,1075,,Rural,4.94,"$26,138","$59,850",77%,94,262
+ohio wesleyan university,ohio wesleyan university,204909,67%,120,71%,153,-12%,152,91,-1%,106,51881,53598,122,21175,169,0.4,95,103,93,85,17%,25,NO,0,5%,91,163,106,110,oh,,,,national-liberal-arts-colleges,OWU,Delaware,,private,#116,116,,158,TRUE,23,,52,52297,3.7,1410,1123,,Suburban,6.73,"$25,814","$55,624",66%,123,62
+saint michael's college,saint michael's college,231059,80%,62,76%,45,-8%,123,79,1%,90,61174,60538,82,21840,174,0.9,65,120,63,38,4%,150,NO,0,16%,29,110,104,106,vt,,,,national-liberal-arts-colleges,St Michael's College Saint Michael's College St Michaels College Saint Michaels College St. Michaels College,Colchester,,private,#116,116,,119,TRUE,27,,85,50040,,1209,1160,,Suburban,4.65,"$25,392","$61,317",74%,83,259
+hartwick college,hartwick college,191533,60%,148,58%,79,-9%,133,109,-1%,113,51141,49092,65,21050,167,0,122,111,156,112,18%,17,NO,0,26%,6,123,125,81,ny,,,,national-liberal-arts-colleges,,Oneonta,,private,#121,121,,120,TRUE,19,,60,52849,3.5,1099,1020,,Rural,4.24,"$23,430","$61,107",59%,69,132
+massachusetts college of liberal arts,massachusetts college of liberal arts,,60%,146,54%,26,-15%,178,135,4%,64,46224,41371,39,13649,53,0,122,177,91,112,7%,101,NO,0,12%,51,71,180,129,ma,,,,national-liberal-arts-colleges,,North Adams,,public,#121,121,,104,TRUE,,,93,21859,3.3,838,,,Rural,11.55,"$17,630","$48,102",59%,147,412
+transylvania university,transylvania university,157818,72%,96,71%,74,-8%,121,58,5%,55,52184,54033,126,20106,156,0,122,68,44,54,6%,121,NO,3,4%,96,126,86,87,ky,,,,national-liberal-arts-colleges,,Lexington,,private,#121,121,,117,TRUE,23,,91,44980,3.7,981,1120,,,4.64,"$23,734","$54,705",72%,81,40
+albion college,albion college,168546,65%,133,57%,20,-14%,165,68,-4%,129,56147,49343,22,13490,50,0.7,73,63,85,97,2%,178,NO,5,5%,88,79,70,105,mi,244,Albion,Michigan,national-liberal-arts-colleges,,Albion,,private,#124,124,91,82,TRUE,,,67,55746,3.4,1454,,,Rural,3.44,"$17,331","$58,799",68%,46,97
+goucher college,goucher college,162654,67%,117,66%,81,-5%,90,75,8%,27,50457,52269,124,17829,117,0.4,89,115,20,81,4%,154,NO,5,29%,4,93,113,11,md,,,,national-liberal-arts-colleges,,Baltimore,,private,#124,124,,70,TRUE,24,,81,51250,3.3,1002,1110,,,9.11,"$27,204","$53,023",68%,141,33
+hollins university,hollins university,232308,61%,144,61%,90,-14%,170,53,5%,56,37641,38860,116,18307,126,0,122,131,132,112,8%,91,NO,1,5%,90,151,138,157,va,,,,national-liberal-arts-colleges,,Roanoke,,private,#124,124,,166,TRUE,,,72,41210,3.7,691,1113,,,,,,,,108
+illinois college,illinois college,145691,65%,135,57%,19,-20%,189,75,-6%,147,49232,47503,69,13331,49,0,122,162,134,112,5%,130,NO,5,5%,94,125,166,120,il,,,,national-liberal-arts-colleges,,Jacksonville,,private,#124,124,,142,TRUE,21,,77,37470,3.6,1028,960,,,5.66,"$17,512","$52,575",66%,105,153
+millsaps college,millsaps college,175980,67%,126,62%,44,-6%,103,32,-13%,185,55965,57695,123,20033,154,0.5,82,31,36,60,2%,173,NO,0,2%,130,154,44,133,ms,,,,national-liberal-arts-colleges,,Jackson,,private,#124,124,,131,TRUE,21,,68,43815,,637,1135,,,5.96,"$26,812","$53,848",68%,110,110
+saint vincent college,saint vincent college,215798,73%,92,65%,18,-12%,158,88,-15%,192,57137,56809,86,17338,107,0,122,105,137,58,5%,134,NO,1,18%,24,127,118,136,pa,,,,national-liberal-arts-colleges,St Vincent College Saint Vincent College,Latrobe,,private,#124,124,,135,TRUE,22,,73,41785,3.6,1375,1030,,,4.65,"$22,109","$59,982",73%,82,258
+monmouth college,monmouth college,147341,60%,149,62%,137,-14%,172,105,-5%,138,48330,50970,136,14564,60,0,122,132,11,53,3%,169,NO,0,6%,85,145,139,73,il,,,,national-liberal-arts-colleges,,Monmouth,,private,#129,129,,139,FALSE,23,,66,43520,,755,1080,,,7.64,"$19,875","$51,110",59%,134,183
+coe college,coe college,153144,66%,129,66%,99,-7%,112,82,2%,78,53541,54332,104,15536,79,0.6,80,123,53,40,8%,74,NO,4,13%,41,95,119,54,ia,,,,national-liberal-arts-colleges,,Cedar Rapids,,private,#130,130,,90,TRUE,22,,72,52576,3.6,1264,1080,,Urban,4.12,"$18,673","$57,125",62%,66,81
+eckerd college,eckerd college,133492,66%,132,72%,174,-1%,51,106,-12%,184,47676,59744,193,29247,196,0.4,93,122,29,69,1%,183,NO,4,1%,140,194,124,84,fl,,,,national-liberal-arts-colleges,,St. Petersburg,,private,#130,130,,187,TRUE,23,,65,50374,,1993,1107,,,9.44,"$31,954","$51,819",67%,142,301
+meredith college,meredith college,198950,63%,141,66%,140,-11%,151,106,-5%,145,44551,49965,164,18737,137,0,122,150,125,66,15%,29,NO,6,12%,45,169,159,57,nc,,,,national-liberal-arts-colleges,,Raleigh,,private,#130,130,,154,TRUE,22,,73,43936,3.5,1322,1140,,City,5.25,"$20,269","$51,539",66%,99,118
+roanoke college,roanoke college,233426,69%,111,69%,106,-11%,147,106,-7%,155,53091,53339,94,20837,163,0.8,69,151,147,112,8%,75,NO,1,4%,99,146,136,160,va,,,,national-liberal-arts-colleges,,Salem,,private,#130,130,,165,TRUE,19,,80,36774,3.4,1826,1060,,,5.93,"$27,780","$58,047",71%,109,343
+university of minnesota morris,university of minnesota morris,174251,60%,147,58%,70,-6%,104,98,5%,59,48394,46008,59,4634,5,0.9,62,88,180,112,17%,24,YES,6,6%,83,21,88,51,mn,,,,national-liberal-arts-colleges,University of Minnesota Morris,Morris,,public,#130,130,,30,TRUE,,,78,16438,3.3,1068,,,Rural,4.56,"$10,541","$50,919",58%,80,290
+birmingham-southern college,birmingham-southern college,100937,68%,115,70%,133,-21%,191,39,-14%,191,53006,60485,185,18569,132,0,122,90,177,64,9%,66,NO,0,4%,107,195,102,178,al,,,,national-liberal-arts-colleges,Birmingham Southern College,Birmingham,,private,#135,135,,194,TRUE,22,,57,22750,3.7,975,1150,,Urban,,,,,,270
+central college,central college,153108,69%,110,65%,47,-15%,175,73,-13%,186,51579,58171,174,18199,122,0,122,147,16,112,8%,79,YES,0,13%,38,176,155,18,ia,,,,national-liberal-arts-colleges,,Pella,,private,#135,135,,149,TRUE,19,,79,20988,3.6,1169,1040,,Rural,6.05,"$22,578","$54,317",68%,113,442
+covenant college,covenant college,139393,69%,108,66%,56,1%,28,68,1%,83,47663,49266,121,21103,168,0,122,138,180,101,8%,76,NO,0,13%,40,98,145,161,ga,,,,national-liberal-arts-colleges,,Lookout Mountain,,private,#135,135,,132,TRUE,24,,84,40414,3.8,846,1140,,Suburban,,,,,,362
+centenary college of louisiana,centenary college of louisiana,158477,56%,158,63%,176,-10%,139,41,-6%,150,48338,53445,162,22204,177,0,122,52,103,112,4%,151,NO,0,12%,48,190,77,153,la,,,,national-liberal-arts-colleges,,Shreveport,,private,#139,139,,182,TRUE,21,,64,40000,,523,1080,,Urban,6.04,"$22,729","$50,330",56%,112,218
+franklin college,franklin college,150604,63%,140,57%,37,-12%,154,68,-3%,126,49494,47405,64,16608,97,0,122,168,116,102,7%,97,NO,1,16%,30,108,173,117,in,,,,national-liberal-arts-colleges,,Franklin,,private,#139,139,,133,TRUE,18,,93,37350,3.5,894,970,,Suburban,5.59,"$18,419","$55,376",63%,103,228
+hampshire college,hampshire college,166018,67%,127,69%,135,-5%,91,61,1%,85,42449,50139,186,18506,131,0.3,102,3,27,112,26%,7,YES,0,6%,81,156,12,12,ma,,,,national-liberal-arts-colleges,,Amherst,,private,#139,139,,58,TRUE,,,69,56990,3.3,508,,,,,,,,,21
+presbyterian college,presbyterian college,218539,67%,122,61%,28,-9%,134,54,-14%,190,50335,53353,141,18307,125,0,122,141,101,3,8%,88,NO,0,25%,10,157,149,75,sc,,,,national-liberal-arts-colleges,,Clinton,,private,#139,139,,151,TRUE,21,,59,43300,3.3,955,1020,,,3.8,"$21,157","$60,194",64%,54,240
+purchase college--suny,purchase college--suny,196219,67%,119,69%,131,-5%,92,313,1%,82,45115,48930,150,16174,90,0,122,174,160,112,9%,64,NO,1,0%,149,49,176,176,ny,,,,national-liberal-arts-colleges,Purchase College SUNY Purchase College SUNY,Purchase,,public,#139,139,,107,TRUE,29,,78,18863,3.4,3145,1190,,Suburban,11.92,"$19,598","$45,092",66%,148,251
+salem college,salem college,199607,57%,154,41%,4,-3%,71,100,8%,26,42947,30678,8,14098,58,0,122,136,26,112,5%,138,NO,0,20%,18,7,143,58,nc,,,,national-liberal-arts-colleges,,Winston-Salem,,private,#139,139,,24,TRUE,20,,81,32236,3.6,364,973,,City,8.36,"$16,717","$44,640",67%,139,175
+university of north carolina asheville,university of north carolina asheville,199111,63%,142,67%,158,-5%,95,265,6%,44,43467,49703,172,10135,24,4,14,144,155,112,13%,39,NO,6,6%,84,42,64,98,nc,,,,national-liberal-arts-colleges,UNC University of North Carolina Asheville,Asheville,,public,#139,139,,55,TRUE,21,,74,24809,3.5,2914,1140,,City,8.34,"$13,637","$44,030",64%,138,458
+albright college,albright college,210571,59%,150,57%,71,-15%,176,178,8%,28,54263,46207,18,16151,89,0,122,170,73,112,11%,48,NO,0,3%,124,58,174,137,pa,,,,national-liberal-arts-colleges,,Reading,,private,#146,146,,93,TRUE,,,76,28794,,1298,,,,4.2,"$21,038","$58,700",62%,68,418
+concordia college–moorhead,concordia college–moorhead,173300,72%,98,72%,92,-15%,177,128,-9%,173,53521,57680,151,19015,141,0.3,99,117,45,41,2%,172,NO,0,24%,11,166,123,71,mn,,,,national-liberal-arts-colleges,Concordia College Moorhead Concordia College Moorhead,Moorhead,,private,#146,146,,152,TRUE,21,,66,28916,3.6,1827,1410,,Urban,4.79,"$23,793","$59,317",67%,91,526
+fisk university,fisk university,220181,34%,188,48%,193,-16%,179,50,19%,6,42114,41215,78,22415,178,5.6,5,126,80,63,6%,119,NO,0,1%,139,185,41,158,tn,,,,national-liberal-arts-colleges,,Nashville,,private,#146,146,,172,TRUE,19,,71,23578,,1009,1090,,Urban,,,,,,16
+houghton university,houghton university,,73%,91,62%,9,-27%,196,91,6%,45,42510,46876,153,23070,181,0,122,65,60,47,4%,156,NO,0,9%,64,183,83,125,ny,,,,national-liberal-arts-colleges,,Houghton,,private,#146,146,,174,TRUE,20,,93,17290,,813,1080,,Rural,13.54,"$19,831","$46,721",70%,149,312
+ripon college,ripon college,239628,68%,114,62%,32,-11%,149,61,3%,68,50266,50131,88,15374,74,0,122,49,170,7,23%,10,NO,0,8%,70,96,76,107,wi,,,,national-liberal-arts-colleges,,Ripon,,private,#146,146,,96,TRUE,19,,81,50700,3.4,766,990,,,6.51,"$21,825","$54,902",68%,121,193
+university of new hampshire at manchester,university of new hampshire at manchester,183071,58%,151,54%,42,5%,8,48,6%,48,63436,53514,13,11368,33,0,122,191,180,112,0%,187,NO,0,0%,149,10,192,196,nh,,,,national-liberal-arts-colleges,,Manchester,,public,#146,146,,76,TRUE,,,83,34664,,653,1110,,,,,,,,303
+emmanuel college,emmanuel college,165671,67%,118,72%,163,-8%,131,100,-7%,160,55943,58801,137,25225,192,0,122,165,141,68,7%,102,NO,1,16%,31,177,170,138,ma,,,,national-liberal-arts-colleges,,Boston,,private,#152,152,,180,TRUE,25,,80,46686,,1947,1160,,Urban,4.44,"$30,487","$68,245",62%,73,377
+wells college,wells college,197230,56%,157,51%,36,-12%,155,54,3%,71,46629,46720,89,17386,108,0,122,118,146,86,8%,93,NO,0,3%,117,129,129,173,ny,,,,national-liberal-arts-colleges,,Aurora,,private,#152,152,,156,TRUE,,,68,35166,,342,,,,,,,,,95
+wittenberg university,wittenberg university,206525,64%,137,66%,129,-17%,182,93,-3%,125,55355,49962,33,18187,120,0.2,109,60,108,80,16%,27,NO,1,12%,46,133,79,95,oh,,,,national-liberal-arts-colleges,,Springfield,,private,#152,152,,121,TRUE,20,,94,44602,3.6,1258,1020,,City,5.18,"$22,729","$54,947",62%,98,78
+university of mary washington,university of mary washington,232681,68%,116,72%,160,-1%,55,166,-8%,162,57550,56940,83,16285,92,0.8,68,128,97,72,8%,85,NO,6,14%,34,80,115,65,va,,,,national-liberal-arts-colleges,,Fredericksburg,,public,#154,154,,78,FALSE,25,,86,31154,3.6,3493,1170,,Suburban,4.29,"$22,066","$60,613",68%,70,403
+aquinas college,aquinas college,168786,61%,145,58%,60,-10%,142,103,-13%,188,44270,48761,157,14671,65,0,122,160,153,112,7%,104,NO,0,15%,33,140,165,154,mi,,,,national-liberal-arts-colleges,,Grand Rapids,,private,#156,156,,164,TRUE,,,91,38520,,1169,1000,,Suburban,7.12,"$17,682","$49,584",65%,128,569
+college of the atlantic,college of the atlantic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,me,,,,national-liberal-arts-colleges,,Bar Harbor,,private,#156,156,,,TRUE,27,,60,46179,3.8,377,1230,,Rural,,,,,,141
+wartburg college,wartburg college,154527,65%,134,68%,145,-14%,171,84,-9%,170,54262,55373,112,18319,127,0,122,137,19,112,26%,8,YES,0,19%,21,168,144,3,ia,,,,national-liberal-arts-colleges,,Waverly,,private,#156,156,,110,TRUE,19,,97,51040,3.6,1416,970,,Rural,5.1,"$22,869","$56,201",68%,96,423
+bethany lutheran college,bethany lutheran college,173142,53%,160,61%,177,-5%,99,41,-8%,164,42936,48430,165,12346,42,0,122,188,127,56,7%,103,NO,0,14%,35,153,189,147,mn,,,,national-liberal-arts-colleges,,Mankato,,private,#159,159,,173,TRUE,20,,58,30010,3.5,784,990,,Rural,13.82,"$17,362","$46,110",61%,150,775
+claflin university,claflin university,217873,52%,165,40%,8,-12%,157,255,6%,46,34362,35574,115,19356,143,2,39,173,169,12,17%,22,NO,1,9%,66,73,130,118,sc,,,,national-liberal-arts-colleges,,Orangeburg,,private,#159,159,,91,TRUE,17,,78,17046,3,1749,840,,,,,,,,498
+dillard university,dillard university,158802,46%,174,46%,104,-19%,186,144,14%,15,37026,35857,75,17508,110,4.6,11,154,104,27,5%,137,NO,4,24%,14,128,61,67,la,,,,national-liberal-arts-colleges,,New Orleans,,private,#159,159,,102,TRUE,19,,80,22594,3.4,1224,988,,City,28.4,"$19,117","$39,196",49%,153,85
+gordon college,gordon college,165936,72%,101,72%,108,-13%,159,90,-8%,167,50644,58050,184,20622,159,0,122,114,129,57,2%,175,NO,0,27%,5,180,128,113,ma,,,,national-liberal-arts-colleges,,Wenham,,private,#163,163,,177,TRUE,23,,92,28100,3.7,1294,1070,,,7.53,"$21,043","$52,119",73%,133,353
+oglethorpe university,oglethorpe university,140696,49%,173,66%,195,-13%,161,64,3%,70,52681,52997,95,17212,105,0,122,146,107,88,3%,168,NO,0,0%,149,175,152,180,ga,,,,national-liberal-arts-colleges,,Atlanta,,private,#163,163,,185,TRUE,22,,72,45806,,1491,1065,,,3.96,"$20,638","$55,232",51%,60,208
+westminster college,westminster college,179946,57%,155,58%,116,-20%,188,54,3%,69,48496,49484,108,20150,157,0,122,69,159,23,9%,72,NO,0,7%,75,182,89,162,mo,,,,national-liberal-arts-colleges,,Fulton,,private,#163,164,,178,FALSE,18,,97,33144,,654,880,,,6.6,"$26,380","$52,199",58%,122,209
+randolph college,randolph college,233301,58%,152,51%,22,-14%,164,38,-2%,116,47983,43101,37,19542,151,0,122,108,23,112,5%,129,NO,0,9%,62,132,122,83,va,,,,national-liberal-arts-colleges,,Lynchburg,,private,#165,165,,125,TRUE,22,,95,29010,3.3,478,930,,,,,,,,198
+university of virginia's college at wise,university of virginia's college at wise,233897,49%,172,50%,114,-11%,150,134,-7%,158,41478,41580,91,9138,18,1.3,53,184,180,10,6%,108,NO,5,8%,73,92,160,134,va,,,,national-liberal-arts-colleges,University of Virginia Wise,Wise,,public,#167,165,,118,TRUE,19,,76,31546,3.5,1737,915,,Rural,9.05,"$9,536","$45,325",51%,140,846
+bridgewater college,bridgewater college,231581,63%,143,64%,123,-12%,156,98,-7%,159,49335,50414,111,16526,96,0,122,164,79,89,10%,59,NO,0,4%,100,141,169,139,va,,,,national-liberal-arts-colleges,,Bridgewater,,private,#167,167,,162,TRUE,22,,90,41350,,1385,1020,,,5.83,"$18,897","$53,453",64%,108,654
+guilford college,guilford college,198613,49%,171,55%,168,-9%,138,185,-8%,163,42780,49821,181,20021,153,0,122,93,121,112,18%,18,NO,0,4%,97,172,105,135,nc,,,,national-liberal-arts-colleges,,Greensboro,,private,#167,167,,170,TRUE,17,,82,41140,,1192,950,,,9.8,"$23,571","$47,590",52%,145,135
+lyon college,lyon college,106342,52%,164,61%,184,-8%,125,54,-5%,142,44380,56948,196,14584,61,0,122,124,149,18,18%,19,NO,0,3%,119,187,132,146,ar,,,,national-liberal-arts-colleges,,Batesville,,private,#167,167,,183,TRUE,21,,60,31000,3.6,495,1020,,,,,,,,595
+the king's college,the king's college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ny,,,,national-liberal-arts-colleges,Kings College,New York,,private,#167,167,,,TRUE,24,,44,21690,,384,1140,,,6.17,"$33,219","$58,065",52%,116,537
+university of puerto rico at cayey,university of puerto rico at cayey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,national-liberal-arts-colleges,University of Puerto Rico Cayey University College,Cayey,,public,#167,167,,,TRUE,,,48,5354,,2559,905,,,,,,,,1067
+johnson c. smith university,johnson c. smith university,198756,39%,181,36%,61,-10%,141,129,1%,79,38281,38831,98,18269,123,1.5,49,169,180,106,3%,158,NO,0,26%,9,130,135,150,nc,,,,national-liberal-arts-colleges,Johnson C Smith University,Charlotte,,private,#172,172,,147,TRUE,,,9,21714,,1052,,,,,,,,,161
+maryville college,maryville college,220710,57%,156,64%,171,-18%,185,98,3%,72,45861,49402,146,16899,103,0,122,156,109,112,10%,50,YES,4,10%,56,173,162,49,tn,,,,national-liberal-arts-colleges,,Maryville,,private,#172,172,,157,TRUE,19,,70,38514,3.4,1065,930,,Suburban,,,,,,261
+bryn athyn college,bryn athyn college,210492,53%,161,46%,25,-6%,111,18,-1%,105,46215,48721,133,18148,119,0.2,115,183,180,77,10%,54,NO,0,13%,39,139,179,159,pa,,,,national-liberal-arts-colleges,,Bryn Athyn,,private,#174,174,,168,TRUE,19,,80,28669,3.2,272,980,,Suburban,,,,,,686
+marymount manhattan college,marymount manhattan college,192864,50%,170,63%,192,-7%,113,84,-16%,195,48321,44620,50,30980,197,0,122,175,41,112,5%,135,NO,0,2%,129,193,177,124,ny,,,,national-liberal-arts-colleges,,New York,,private,#174,174,,193,TRUE,22,,72,40260,3.4,1608,1080,,Urban,14.02,"$39,478","$49,131",58%,151,282
+simpson university,simpson university,123457,66%,131,51%,6,-43%,199,143,-2%,115,45532,44412,76,20694,162,0,122,178,176,112,13%,41,NO,0,19%,20,188,181,131,ca,,,,national-liberal-arts-colleges,,Redding,,private,#174,174,,189,TRUE,,,52,38522,3.3,729,,,City,6.82,"$24,437","$54,340",56%,125,689
+virginia wesleyan university,virginia wesleyan university,234173,52%,163,60%,178,-6%,109,120,6%,52,44914,46141,117,20637,160,0,122,179,180,20,10%,58,YES,6,8%,72,138,182,63,va,,,,national-liberal-arts-colleges,,Virginia Beach,,private,#174,174,,137,TRUE,27,,81,36960,3.3,1479,1150,,Suburban,9.74,"$22,807","$50,074",53%,144,572
+oakwood university,oakwood university,101912,50%,169,48%,67,-14%,166,111,-4%,132,39571,41940,132,23812,187,0.4,91,97,143,112,6%,124,NO,0,24%,13,179,98,122,al,,,,national-liberal-arts-colleges,,Huntsville,,private,#178,178,,175,TRUE,,,72,20040,,1378,,,,,,,,,341
+ouachita baptist university,ouachita baptist university,107512,63%,139,69%,169,-21%,192,71,-12%,181,45799,51863,168,17632,111,0.2,116,152,179,13,17%,26,NO,0,16%,26,192,154,112,ar,,,,national-liberal-arts-colleges,,Arkadelphia,,private,#178,178,,191,TRUE,21,,72,32480,3.8,1730,1020,,Rural,6.89,"$23,086","$51,673",59%,126,535
+bennett college,bennett college,197993,40%,180,31%,16,12%,1,78,15%,12,34994,29279,31,21859,175,0,122,89,80,112,8%,83,NO,4,11%,53,28,101,77,nc,,,,national-liberal-arts-colleges,,Greensboro,,private,#180,180,,47,TRUE,,,79,18550,,207,,,,,,,,,158
+sweet briar college,sweet briar college,233718,45%,175,54%,182,-5%,101,27,-5%,136,49522,45242,46,19455,147,0,122,149,168,112,10%,52,NO,0,3%,126,155,156,175,va,,,,national-liberal-arts-colleges,,Sweet Briar,,private,#180,180,,176,TRUE,19,,78,23590,3.9,457,1010,,,,,,,,143
+tougaloo college,tougaloo college,176406,43%,176,32%,12,6%,5,95,16%,11,34680,31336,53,12099,40,2.8,24,70,113,75,3%,165,NO,2,0%,144,11,48,166,ms,,,,national-liberal-arts-colleges,,Tougaloo,,private,#181,181,,33,FALSE,16,,49,11398,,657,790,,,,,,,,79
+ave maria university,ave maria university,446048,67%,125,62%,41,-13%,162,71,-12%,182,45331,57620,194,14692,66,0,122,176,178,112,5%,141,NO,0,10%,58,178,178,177,fl,,,,national-liberal-arts-colleges,,Ave Maria,,private,#182,182,,190,TRUE,,,44,28224,,1251,,,,8.03,"$21,131","$49,520",54%,137,231
+cheyney university of pennsylvania,cheyney university of pennsylvania,211608,28%,193,34%,170,-1%,59,88,10%,23,35719,35949,93,10542,31,0.2,108,161,112,112,13%,35,NO,2,5%,87,83,158,116,pa,,,,national-liberal-arts-colleges,,Cheyney,,public,#182,182,,106,TRUE,,,,18870,,642,,,,,,,,,205
+cuny medgar evers college*,cuny medgar evers college*,190646,24%,194,39%,194,-9%,132,302,7%,36,42478,43116,99,5869,7,0.9,63,192,144,105,0%,187,NO,0,16%,28,46,172,165,ny,,,,national-liberal-arts-colleges,CUNY Medgar Evers College CUNY Medgar Evers College,Brooklyn,,public,#182,182,,95,TRUE,,,88,18920,,3640,,,Urban,,,,,,541
+abilene christian university,abilene christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,291
+abraham baldwin agricultural college,abraham baldwin agricultural college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1074
+academy of art university,academy of art university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,706
+adams state university,adams state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,635
+adelphi university,adelphi university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ny,238,Garden City,New York,,,,,,,,90,,,,,,,,,,,,,,,,,
+adrian college,adrian college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317
+adventist university of the antilles,adventist university of the antilles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1226
+alabama a&m university,alabama a&m university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,786
+alabama state university,alabama state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,225
+alaska pacific university,alaska pacific university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,364
+albany state university,albany state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,815
+albertus magnus college,albertus magnus college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,406
+alcorn state university,alcorn state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,275
+alderson broaddus university,alderson broaddus university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,515
+alfred state college,alfred state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,837
+alfred university,alfred university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,113
+alice lloyd college,alice lloyd college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,591
+alliance university,alliance university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,759
+alma college,alma college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,226
+alpena community college,alpena community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,814
+alvernia university,alvernia university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,688
+alverno college,alverno college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,347
+amberton university,amberton university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,476
+american intercontinental university,american intercontinental university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1115
+american intercontinental university - atlanta campus,american intercontinental university - atlanta campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1233
+american international college,american international college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,352
+american jewish university,american jewish university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106
+american national university,american national university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,598
+american national university-pikeville,american national university-pikeville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1234
+american public university system,american public university system,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1214
+american samoa community college,american samoa community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,937
+american university of puerto rico,american university of puerto rico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1008
+amridge university,amridge university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,680
+"anderson college, indiana","anderson college, indiana",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,491
+"anderson university, south carolina","anderson university, south carolina",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,694
+andrew college,andrew college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,563
+angelo state university,angelo state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,826
+anna maria college,anna maria college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,479
+antelope valley college,antelope valley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1098
+antioch university,antioch university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25
+antioch university midwest,antioch university midwest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,435
+antioch university santa barbara,antioch university santa barbara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,788
+antioch university seattle,antioch university seattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,827
+appalachian state university,appalachian state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,744
+arcadia university,arcadia university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,385
+arizona christian university,arizona christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,660
+arkansas baptist college,arkansas baptist college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,494
+arkansas tech university,arkansas tech university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1039
+art institute of san antonio,art institute of san antonio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1249
+asbury university,asbury university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,305
+ashland university,ashland university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,272
+aspen university,aspen university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,857
+assumption university,assumption university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,764
+athens state university,athens state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,956
+atlanta metropolitan state college,atlanta metropolitan state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1069
+atlantis university,atlantis university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,865
+auburn university at montgomery,auburn university at montgomery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,700
+augsburg university,augsburg university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,489
+augustana university,augustana university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,636
+austin peay state university,austin peay state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,930
+averett university,averett university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,792
+avila university,avila university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,507
+bacone college,bacone college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,269
+baker college,baker college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,967
+bakersfield college,bakersfield college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1212
+baldwin wallace university,baldwin wallace university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,534
+bard college at simon's rock,bard college at simon's rock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,176
+barton college,barton college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,417
+baruch college,baruch college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,278
+bay path university,bay path university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,642
+bay state college,bay state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,693
+bayamón central university,bayamón central university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007
+beacon college,beacon college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,648
+beckfield college-florence,beckfield college-florence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1230
+belhaven university,belhaven university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,579
+bellevue college,bellevue college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1160
+bellevue university,bellevue university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101
+bellingham technical college,bellingham technical college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1152
+belmont abbey college,belmont abbey college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,393
+bemidji state university,bemidji state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,745
+benedict college,benedict college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,471
+benedictine college,benedictine college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,432
+bentley university,bentley university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,378
+berkeley college,berkeley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,597
+berry college,berry college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342
+bethany college,bethany college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ks,,,,,,,,,,,,,,,,,,,,,,,,,,,,468
+bethel college,bethel college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,478
+bethel university,bethel university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,964
+bethel university,bethel university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170
+beulah heights university,beulah heights university,139153,28%,192,35%,172,-39%,198,39,-9%,172,28049,40543,195,10138,25,0,122,194,180,112,0%,187,NO,0,0%,149,198,194,196,ga,,,,,,,,,,,,198,,,,,,,,,,,,,,,,
+bismarck state college,bismarck state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003
+black hills state university,black hills state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,869
+blackburn college,blackburn college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508
+bloomfield college,bloomfield college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,554
+blue mountain college,blue mountain college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,970
+bluefield state university,bluefield state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,952
+bluefield university,bluefield university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,924
+bluffton university,bluffton university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204
+bob jones university,bob jones university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116
+boricua college,boricua college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,313
+bowie state university,bowie state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,512
+bradley university,bradley university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,223
+brazosport college,brazosport college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,884
+brenau university,brenau university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,506
+brescia university,brescia university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,505
+brevard college,brevard college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,397
+brewton–parker college,brewton–parker college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,971
+briar cliff university,briar cliff university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,481
+bridgewater state university,bridgewater state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,919
+brigham young university–hawaii,brigham young university–hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,773
+brigham young university–idaho,brigham young university–idaho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1216
+brooklyn college,brooklyn college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82
+broward college,broward college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1179
+bryan college,bryan college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,704
+bryant & stratton college,bryant & stratton college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,457
+bryant & stratton college-online,bryant & stratton college-online,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1251
+bryant university,bryant university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,387
+buena vista university,buena vista university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,835
+buffalo state university,buffalo state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,580
+bushnell university,bushnell university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102
+butler university,butler university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206
+cabrini university,cabrini university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,496
+cairn university,cairn university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,449
+caldwell university,caldwell university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,838
+california baptist university,california baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,918
+california lutheran university,california lutheran university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,610
+"california polytechnic state university, san luis obispo","california polytechnic state university, san luis obispo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,974
+"california state polytechnic university, humboldt","california state polytechnic university, humboldt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708
+"california state polytechnic university, pomona","california state polytechnic university, pomona",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,871
+california state university channel islands,california state university channel islands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1049
+california state university maritime academy,california state university maritime academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,552
+california state university san marcos,california state university san marcos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1104
+"california state university, bakersfield","california state university, bakersfield",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1020
+"california state university, chico","california state university, chico",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,723
+"california state university, dominguez hills","california state university, dominguez hills",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1024
+"california state university, east bay","california state university, east bay",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,822
+"california state university, fullerton","california state university, fullerton",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,802
+"california state university, long beach","california state university, long beach",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,795
+"california state university, los angeles","california state university, los angeles",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,612
+"california state university, monterey bay","california state university, monterey bay",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,985
+"california state university, northridge","california state university, northridge",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,685
+"california state university, sacramento","california state university, sacramento",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,805
+"california state university, san bernardino","california state university, san bernardino",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1023
+"california state university, stanislaus","california state university, stanislaus",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,934
+calumet college of st. joseph,calumet college of saint joseph,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,992
+calvin university,calvin university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,179
+cambridge college,cambridge college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349
+cameron university,cameron university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,844
+campbellsville university,campbellsville university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006
+canisius university,canisius university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,907
+capital university,capital university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,571
+caribbean university,caribbean university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,932
+carlow university,carlow university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,286
+carroll college,carroll college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,769
+carroll university,carroll university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,411
+carthage college,carthage college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,381
+cascadia college,cascadia college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1090
+castleton university,castleton university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,620
+catawba college,catawba college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,221
+cazenovia college,cazenovia college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,407
+cedar crest college,cedar crest college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,388
+cedarville university,cedarville university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,729
+centenary university,centenary university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,843
+central baptist college,central baptist college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1110
+central christian college of kansas,central christian college of kansas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1057
+central connecticut state university,central connecticut state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702
+central methodist university,central methodist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,219
+central methodist university college of graduate and extended studies,central methodist university college of graduate and extended studies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1240
+central penn college,central penn college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,959
+central state university,central state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,622
+central washington university,central washington university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,736
+centralia college,centralia college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1118
+chadron state college,chadron state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,453
+chaminade university of honolulu,chaminade university of honolulu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,323
+champlain college,champlain college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,782
+charleston southern university,charleston southern university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,639
+charter college,charter college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1080
+charter oak state college,charter oak state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,889
+chestnut hill college,chestnut hill college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,148
+chicago state university,chicago state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119
+chipola college,chipola college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,913
+chowan university,chowan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,384
+christian brothers university,christian brothers university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,466
+christopher newport university,christopher newport university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,652
+city college,city college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,691
+city university of seattle,city university of seattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,285
+clark college,clark college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1197
+clayton state university,clayton state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1022
+clinton college,clinton college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1028
+clover park technical college,clover park technical college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1138
+coastal carolina university,coastal carolina university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,819
+coker university,coker university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,886
+colby–sawyer college,colby–sawyer college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,716
+college of central florida,college of central florida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1135
+college of charleston,college of charleston,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,369
+college of coastal georgia,college of coastal georgia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1068
+college of idaho,college of idaho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,338
+college of mount saint vincent,college of mount saint vincent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,483
+college of saint mary,college of saint mary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,593
+college of saint rose,college of saint rose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,174
+college of southern nevada,college of southern nevada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1181
+college of staten island,college of staten island,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,845
+college of the ozarks,college of the ozarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,672
+college of westchester,college of westchester,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1159
+colorado christian university,colorado christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1139
+colorado mesa university,colorado mesa university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1050
+colorado mountain college,colorado mountain college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1021
+colorado state university pueblo,colorado state university pueblo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1032
+columbia basin college,columbia basin college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1096
+columbia college,columbia college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sc,,,,,,,,,,,,,,,,,,,,,,,,,,,,922
+columbia college,columbia college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mo,,,,,,,,,,,,,,,,,,,,,,,,,,,,1044
+columbia college chicago,columbia college chicago,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,361
+columbia international university,columbia international university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,728
+columbus state university,columbus state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1015
+community college of denver,community college of denver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1035
+concord university,concord university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,624
+concordia university ann arbor,concordia university ann arbor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,500
+concordia university chicago,concordia university chicago,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,632
+concordia university irvine,concordia university irvine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,542
+concordia university nebraska,concordia university nebraska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1064
+concordia university texas,concordia university texas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,437
+"concordia university, st. paul","concordia university, saint paul",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1055
+converse university,converse university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,371
+cooper union,cooper union,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+coppin state university,coppin state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,395
+corban university,corban university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,615
+cornerstone university,cornerstone university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,556
+cottey college,cottey college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,516
+crowley's ridge college,crowley's ridge college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,991
+crown college,crown college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,973
+culver–stockton college,culver–stockton college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,613
+cumberland university,cumberland university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,265
+curry college,curry college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,570
+cypress college,cypress college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1175
+dakota state university,dakota state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,916
+dakota wesleyan university,dakota wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,333
+dalton state college,dalton state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,960
+davenport university,davenport university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,999
+davis & elkins college,davis & elkins college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,982
+daymar institute,daymar institute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1209
+daytona state college,daytona state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1136
+dean college,dean college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,302
+defiance college,defiance college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,772
+delaware valley university,delaware valley university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,602
+delta state university,delta state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,422
+desales university,desales university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,445
+devry university-illinois,devry university-illinois,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1254
+devry university-ohio,devry university-ohio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1255
+dickinson state university,dickinson state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,459
+digipen institute of technology,digipen institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,329
+doane university,doane university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,379
+dominican university,dominican university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,589
+dominican university new york,dominican university new york,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1097
+dominican university of california,dominican university of california,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,211
+donnelly college,donnelly college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,722
+dordt university,dordt university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1102
+drury university,drury university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117
+dunwoody college of technology,dunwoody college of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,883
+east central university,east central university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,797
+east georgia state college,east georgia state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1013
+east stroudsburg university of pennsylvania,east stroudsburg university of pennsylvania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,891
+east texas baptist university,east texas baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,720
+eastern connecticut state university,eastern connecticut state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,849
+eastern florida state college,eastern florida state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1182
+eastern illinois university,eastern illinois university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,731
+eastern kentucky university,eastern kentucky university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,808
+eastern mennonite university,eastern mennonite university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,199
+eastern nazarene college,eastern nazarene college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,235
+eastern new mexico university,eastern new mexico university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,415
+eastern oregon university,eastern oregon university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,746
+eastern university,eastern university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,330
+eastern washington university,eastern washington university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,762
+ecpi university,ecpi university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001
+edmonds college,edmonds college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1191
+edward waters university,edward waters university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,850
+elizabeth city state university,elizabeth city state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,460
+elizabethtown college,elizabethtown college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201
+elmhurst university,elmhurst university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,335
+elmira college,elmira college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,131
+elms college,elms college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,586
+elon university,elon university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nc,143,Elon,North Carolina,,,,,,,,51,,,,,,,,,,,,,,,,,
+"embry–riddle aeronautical university, daytona beach","embry–riddle aeronautical university, daytona beach",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1121
+"embry–riddle aeronautical university, prescott","embry–riddle aeronautical university, prescott",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,903
+emerson college,emerson college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,207
+emmanuel university,emmanuel university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1203
+emory and henry college,emory and henry college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202
+empire state university,empire state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1036
+emporia state university,emporia state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359
+endicott college,endicott college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,710
+erskine college,erskine college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,190
+eureka college,eureka college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121
+evangel university,evangel university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,609
+everglades university,everglades university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1016
+evergreen state college,evergreen state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69
+excelsior university,excelsior university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1221
+fairfield university,fairfield university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,284
+fairleigh dickinson university,fairleigh dickinson university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,252
+fairleigh dickinson university-florham campus,fairleigh dickinson university-florham campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1244
+fairmont state university,fairmont state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,696
+farmingdale state college,farmingdale state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,931
+fashion institute of technology,fashion institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509
+faulkner university,faulkner university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,331
+fayetteville state university,fayetteville state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,943
+feather river college,feather river college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1029
+felician university,felician university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,945
+ferrum college,ferrum college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,484
+finlandia university,finlandia university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,297
+fisher college,fisher college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681
+fitchburg state university,fitchburg state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,766
+five towns college,five towns college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,429
+flagler college,flagler college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,740
+florida college,florida college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,600
+florida gateway college,florida gateway college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1091
+florida gulf coast university,florida gulf coast university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1010
+florida institute of technology-online,florida institute of technology-online,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1252
+florida memorial university,florida memorial university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,392
+florida national university,florida national university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1155
+florida polytechnic university,florida polytechnic university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,531
+florida southern college,florida southern college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,310
+florida southwestern state college,florida southwestern state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1125
+florida state college at jacksonville,florida state college at jacksonville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1151
+fontbonne university,fontbonne university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503
+foothill college,foothill college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1034
+fort hays state university,fort hays state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,969
+fort lewis college,fort lewis college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,653
+fort valley state university,fort valley state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,488
+framingham state university,framingham state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,529
+francis marion university,francis marion university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,662
+franciscan university of steubenville,franciscan university of steubenville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,386
+franklin pierce university,franklin pierce university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,267
+freed–hardeman university,freed–hardeman university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1072
+fremont university,fremont university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1190
+fresno pacific university,fresno pacific university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,830
+friends university,friends university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,255
+frostburg state university,frostburg state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,657
+full sail university,full sail university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1126
+geneva college,geneva college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,234
+georgia college & state university,georgia college & state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,825
+georgia gwinnett college,georgia gwinnett college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1163
+georgia highlands college,georgia highlands college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1127
+georgia military college,georgia military college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,955
+georgia southwestern state university,georgia southwestern state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,640
+georgian court university,georgian court university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,560
+glenville state university,glenville state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1213
+goddard college,goddard college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,74
+golden gate university,golden gate university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87
+gonzaga university,gonzaga university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,wa,192,Spokane,Washington,,,,,,,,66,,,,,,,,,,,,,,,,,
+gordon state college,gordon state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1119
+goshen college,goshen college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120
+governors state university,governors state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,592
+grace college & seminary,grace college & seminary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,452
+graceland university,graceland university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,230
+grambling state university,grambling state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,514
+grand valley state university,grand valley state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,948
+grand view university,grand view university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,692
+granite state college,granite state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,774
+grays harbor college,grays harbor college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1106
+great basin college,great basin college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1056
+green river college,green river college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1196
+greensboro college,greensboro college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,229
+greenville university,greenville university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,699
+gulf coast state college,gulf coast state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1129
+gwynedd mercy university,gwynedd mercy university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,800
+hamline university,hamline university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,157
+hannibal–lagrange university,hannibal–lagrange university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,921
+hardin–simmons university,hardin–simmons university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,328
+harris–stowe state university,harris–stowe state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,558
+harrisburg university of science and technology,harrisburg university of science and technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,878
+hastings college,hastings college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,390
+hawaii pacific university,hawaii pacific university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,550
+heidelberg university,heidelberg university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,546
+henderson state university,henderson state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,472
+henry ford college,henry ford college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1171
+heritage university,heritage university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,787
+herzing university-akron,herzing university-akron,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1245
+herzing university-atlanta,herzing university-atlanta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1247
+hesston college,hesston college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,626
+high point university,high point university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,551
+highline college,highline college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1107
+hilbert college,hilbert college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1037
+hiram college,hiram college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154
+hodges university,hodges university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,638
+holy cross college,holy cross college,150774,50%,168,61%,189,10%,2,34,3%,67,46031,50468,156,16793,101,0,122,194,38,9,8%,82,NO,0,2%,134,102,194,101,in,,,,,,,,,,,,130,,,,,,,,,,,,,,,,606
+holy family university,holy family university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,555
+holy names university,holy names university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,477
+hood college,hood college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,257
+hope international university,hope international university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,456
+houston christian university,houston christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,553
+howard payne university,howard payne university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,268
+humphreys university,humphreys university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1094
+hunter college,hunter college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170
+huntingdon college,huntingdon college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,178
+huntington university,huntington university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,667
+huntington university of health sciences,huntington university of health sciences,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1257
+hussian college-daymar college clarksville,hussian college-daymar college clarksville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1228
+huston–tillotson university,huston–tillotson university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,294
+illinois wesleyan university,illinois wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,133
+indian river state college,indian river state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1167
+indiana institute of technology,indiana institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,575
+indiana university east,indiana university east,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,618
+indiana university kokomo,indiana university kokomo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1043
+indiana university northwest,indiana university northwest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,998
+indiana university south bend,indiana university south bend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,893
+indiana university southeast,indiana university southeast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1026
+indiana university–purdue university fort wayne,indiana university–purdue university fort wayne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1164
+indiana wesleyan university,indiana wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,399
+interamerican university of puerto rico at ponce,interamerican university of puerto rico at ponce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1109
+iona university,iona university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,854
+iowa wesleyan university,iowa wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288
+ithaca college,ithaca college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ny,231,Ithaca,New York,,,,,,,,86,,,,,,,,,,,,,,,,,266
+jackson college,jackson college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1041
+jacksonville state university,jacksonville state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,796
+jacksonville university,jacksonville university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,367
+james madison university,james madison university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,836
+jarvis christian university,jarvis christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,601
+jessup university,jessup university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1206
+john brown university,john brown university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,464
+john carroll university,john carroll university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,187
+john jay college of criminal justice,john jay college of criminal justice,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,441
+john paul the great catholic university,john paul the great catholic university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,482
+johnson and wales university - charlotte campus,johnson and wales university - charlotte campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1241
+johnson state college,johnson state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,577
+judson university,judson university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,485
+kansas wesleyan university,kansas wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,499
+kean university,kean university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,888
+keene state college,keene state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,524
+kent state university at ashtabula,kent state university at ashtabula,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,984
+kent state university at salem,kent state university at salem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,957
+kent state university at stark,kent state university at stark,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1085
+kent state university-trumbull campus,kent state university-trumbull campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1243
+kent state university-tuscarawas campus,kent state university-tuscarawas campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1238
+kentucky christian university,kentucky christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,523
+kentucky state university,kentucky state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,332
+kentucky wesleyan college,kentucky wesleyan college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,391
+kettering university,kettering university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,189
+keuka college,keuka college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,260
+keystone college,keystone college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,917
+king university,king university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,368
+king's college,king's college,454184,52%,167,70%,196,-23%,193,34,-9%,171,53386,54192,105,31974,198,0,122,189,173,73,0%,187,NO,0,0%,149,199,190,192,ny,,,,,,,,,,,,199,,,,,,,,,,,,,,,,734
+kutztown university of pennsylvania,kutztown university of pennsylvania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1000
+kuyper college,kuyper college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,421
+la roche university,la roche university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1093
+la salle university,la salle university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,233
+la sierra university,la sierra university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,248
+lackawanna college,lackawanna college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004
+lagrange college,lagrange college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,426
+lake erie college,lake erie college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,281
+lake superior state university,lake superior state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,455
+lake washington institute of technology,lake washington institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1144
+lake–sumter state college,lake–sumter state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1201
+lakeland university,lakeland university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,929
+lancaster bible college,lancaster bible college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,923
+lander university,lander university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,791
+landmark college,landmark college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,719
+langston university,langston university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,296
+lasell university,lasell university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,936
+lawrence technological university,lawrence technological university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,525
+lawrence university,lawrence university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ny,192,Canton,New York,,,,,,,,66,,,,,,,,,,,,,,,,,
+le moyne college,le moyne college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,295
+lebanon valley college,lebanon valley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,549
+lee university,lee university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,va,73,Lexington,Virginia,,,,,,,,25,,,,,,,,,,,,,,,,,747
+lees–mcrae college,lees–mcrae college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1099
+lehman college,lehman college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,683
+lemoyne–owen college,lemoyne–owen college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,630
+lenoir–rhyne university,lenoir–rhyne university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,890
+letourneau university,letourneau university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,705
+lewis university,lewis university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,839
+lewis–clark state college,lewis–clark state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1058
+life pacific university,life pacific university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1113
+limestone university,limestone university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,915
+"lincoln university, missouri","lincoln university, missouri",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,450
+"lincoln university, pennsylvania","lincoln university, pennsylvania",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35
+lindsey wilson college,lindsey wilson college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,914
+livingstone college,livingstone college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,239
+longwood university,longwood university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,608
+loras college,loras college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,245
+louisiana christian university,louisiana christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,794
+louisiana state university of alexandria,louisiana state university of alexandria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1031
+louisiana state university shreveport,louisiana state university shreveport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,806
+lourdes university,lourdes university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,661
+loyola university maryland,loyola university maryland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,181
+lubbock christian university,lubbock christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,436
+lynn university,lynn university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,727
+madonna university,madonna university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,536
+magdalen college of the liberal arts,magdalen college of the liberal arts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,799
+maharishi international university,maharishi international university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68
+maine maritime academy,maine maritime academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,250
+malone university,malone university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,410
+manchester university,manchester university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92
+manhattan college,manhattan college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ny,256,Riverdale,New York,,,,,,,,93,,,,,,,,,,,,,,,,,172
+manhattanville college,manhattanville college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125
+maranatha baptist university,maranatha baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1060
+marian university,marian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,581
+marian university,marian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,798
+marietta college,marietta college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,114
+marist college,marist college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,578
+mars hill university,mars hill university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,227
+marymount university,marymount university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,490
+marywood university,marywood university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,538
+massachusetts maritime academy,massachusetts maritime academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,356
+mayville state university,mayville state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,687
+mcdaniel college,mcdaniel college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,145
+mckendree university,mckendree university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320
+mcmurry university,mcmurry university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,334
+mcneese state university,mcneese state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,820
+mcpherson college,mcpherson college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703
+medaille university,medaille university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1042
+mercer university,mercer university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ga,244,Macon,Georgia,,,,,,,,91,,,,,,,,,,,,,,,,,
+mercy college,mercy college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,810
+mercyhurst university,mercyhurst university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,818
+merrimack college,merrimack college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,623
+messiah university,messiah university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,817
+methodist university,methodist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,283
+metropolitan college of new york,metropolitan college of new york,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,327
+metropolitan state university of denver,metropolitan state university of denver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1052
+metropolitan university,metropolitan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1112
+miami dade college,miami dade college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1158
+miami university,miami university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oh,227,Oxford,Ohio,,,,,,,,84,,,,,,,,,,,,,,,,,
+miami university hamilton,miami university hamilton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,582
+miami university middletown,miami university middletown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,413
+mid-america christian university,mid-america christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1211
+midamerica nazarene university,midamerica nazarene university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,784
+middle georgia state university,middle georgia state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1054
+middlebury institute of international studies at monterey,middlebury institute of international studies at monterey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,416
+midland college,midland college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,912
+midland university,midland university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,454
+midway university,midway university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,757
+midwestern state university,midwestern state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,803
+miles college,miles college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,243
+miller-motte college-wilmington,miller-motte college-wilmington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1256
+millersville university of pennsylvania,millersville university of pennsylvania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,976
+milligan university,milligan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,215
+millikin university,millikin university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,431
+milwaukee school of engineering,milwaukee school of engineering,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,345
+minnesota state university moorhead,minnesota state university moorhead,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,656
+"minnesota state university, mankato","minnesota state university, mankato",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,896
+minot state university,minot state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501
+miracosta college,miracosta college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1223
+mississippi university for women,mississippi university for women,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,443
+mississippi valley state university,mississippi valley state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,659
+missouri baptist university,missouri baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103
+missouri southern state university,missouri southern state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,939
+missouri valley college,missouri valley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,790
+missouri western state university,missouri western state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,944
+mitchell college,mitchell college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,394
+modesto junior college,modesto junior college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1123
+molloy university,molloy university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1173
+monmouth university,monmouth university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,470
+monroe college,monroe college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,997
+montana state university billings,montana state university billings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,981
+montana state university–northern,montana state university–northern,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,951
+montana technological university,montana technological university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,941
+montreat college,montreat college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,253
+moravian university,moravian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,859
+morehead state university,morehead state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,828
+morningside university,morningside university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,862
+morris college,morris college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,438
+mount aloysius college,mount aloysius college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,905
+mount marty university,mount marty university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1079
+mount mary university,mount mary university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,634
+mount mercy university,mount mercy university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,627
+mount st. joseph university,mount saint joseph university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,779
+mount saint mary college,mount saint mary college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,643
+mount saint mary's university,mount saint mary's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ca,236,Los Angeles,California,,,,,,,,88,,,,,,,,,,,,,,,,,1117
+mount st. mary's university,mount saint mary's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,279
+mount vernon nazarene university,mount vernon nazarene university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1011
+murray state university,murray state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,668
+muskingum university,muskingum university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,365
+naropa university,naropa university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31
+national american university,national american university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,469
+national university,national university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,908
+nazareth university,nazareth university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1161
+nebraska wesleyan university,nebraska wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,518
+neumann university,neumann university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,584
+nevada state university,nevada state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1218
+new england college,new england college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,247
+new england institute of technology,new england institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,938
+new jersey city university,new jersey city university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,809
+new mexico highlands university,new mexico highlands university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,374
+new mexico institute of mining and technology,new mexico institute of mining and technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,304
+new saint andrews college,new saint andrews college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,522
+new york city college of technology,new york city college of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1083
+new york institute of technology,new york institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140
+newberry college,newberry college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,414
+"newman university, wichita","newman university, wichita",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1169
+niagara university,niagara university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203
+nicholls state university,nicholls state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,910
+norfolk state university,norfolk state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,530
+north carolina central university,north carolina central university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,273
+north carolina wesleyan university,north carolina wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1217
+north central college,north central college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,398
+north central university,north central university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,510
+north florida college,north florida college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1111
+north greenville university,north greenville university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,678
+north park university,north park university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,400
+north seattle college,north seattle college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1172
+northeastern illinois university,northeastern illinois university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,650
+northeastern state university,northeastern state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,726
+northern marianas college,northern marianas college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,743
+northern michigan university,northern michigan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,666
+northern new mexico college,northern new mexico college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,958
+northern state university,northern state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,897
+northland college,northland college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,690
+northwest florida state college,northwest florida state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1146
+northwest missouri state university,northwest missouri state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,733
+northwest nazarene university,northwest nazarene university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1045
+northwest university,northwest university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,768
+northwestern college,northwestern college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,557
+northwestern michigan college,northwestern michigan college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,980
+northwestern oklahoma state university,northwestern oklahoma state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,698
+northwestern state university,northwestern state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,968
+norwich university,norwich university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,185
+notre dame college,notre dame college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,487
+notre dame de namur university,notre dame de namur university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,147
+notre dame of maryland university,notre dame of maryland university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355
+oakland city university,oakland city university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,594
+ohio christian university,ohio christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1012
+ohio dominican university,ohio dominican university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,604
+ohio northern university,ohio northern university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,277
+ohio state university at lima,ohio state university at lima,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,847
+ohio state university at mansfield,ohio state university at mansfield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701
+ohio state university at marion,ohio state university at marion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,949
+ohio state university at newark,ohio state university at newark,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,940
+ohio university – chillicothe,ohio university – chillicothe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1059
+ohio university eastern campus,ohio university eastern campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,920
+ohio university southern campus,ohio university southern campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,989
+oklahoma baptist university,oklahoma baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,336
+oklahoma christian university,oklahoma christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,340
+oklahoma panhandle state university,oklahoma panhandle state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,858
+oklahoma state university institute of technology,oklahoma state university institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1187
+oklahoma state university–oklahoma city,oklahoma state university–oklahoma city,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1145
+oklahoma wesleyan university,oklahoma wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,655
+olivet college,olivet college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,152
+olivet nazarene university,olivet nazarene university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,749
+olympic college,olympic college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1130
+oral roberts university,oral roberts university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,351
+oregon institute of technology,oregon institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,947
+ottawa university,ottawa university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,186
+ottawa university - kansas city,ottawa university - kansas city,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1248
+otterbein university,otterbein university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,434
+pacific islands university,pacific islands university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1018
+pacific lutheran university,pacific lutheran university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,311
+pacific union college,pacific union college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130
+palm beach state college,palm beach state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1178
+park university,park university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,770
+pasco–hernando state college,pasco–hernando state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1189
+paul quinn college,paul quinn college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,241
+paul smith's college,paul smith's college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,380
+peirce college,peirce college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,548
+peninsula college,peninsula college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002
+penn state abington,penn state abington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,965
+penn state altoona,penn state altoona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,868
+penn state behrend,penn state behrend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,954
+penn state berks,penn state berks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,821
+penn state brandywine,penn state brandywine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1027
+penn state dubois,penn state dubois,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,596
+penn state fayette,penn state fayette,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1030
+penn state greater allegheny,penn state greater allegheny,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,424
+penn state harrisburg,penn state harrisburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,856
+penn state hazleton,penn state hazleton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,644
+penn state lehigh valley,penn state lehigh valley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,725
+penn state mont alto,penn state mont alto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,619
+penn state new kensington,penn state new kensington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,748
+penn state schuylkill,penn state schuylkill,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,511
+penn state scranton,penn state scranton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1143
+penn state shenango,penn state shenango,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,978
+penn state york,penn state york,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,892
+pennsylvania college of technology,pennsylvania college of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,697
+pensacola state college,pensacola state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1141
+peru state college,peru state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,713
+pfeiffer university,pfeiffer university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,462
+philander smith university,philander smith university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,322
+piedmont university,piedmont university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,870
+pittsburg state university,pittsburg state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,493
+pittsburgh technical college,pittsburgh technical college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1025
+plaza college,plaza college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,855
+plymouth state university,plymouth state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,574
+point loma nazarene university,point loma nazarene university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,463
+point park university,point park university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,427
+point university,point university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,972
+polk state college,polk state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1162
+pontifical catholic university of puerto rico arecibo campus,pontifical catholic university of puerto rico arecibo campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1236
+pontifical catholic university of puerto rico at mayagüez,pontifical catholic university of puerto rico at mayagüez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,899
+post university,post university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1140
+potomac state college of west virginia university,potomac state college of west virginia university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,486
+prairie view a&m university,prairie view a&m university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,721
+prescott college,prescott college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,162
+providence college,providence college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ri,219,Providence,Rhode Island,,,,,,,,80,,,,,,,,,,,,,,,,,232
+provo college,provo college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,573
+pueblo community college,pueblo community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1168
+purdue global,purdue global,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1166
+purdue university northwest,purdue university northwest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1114
+"queens college, city university of new york","queens college, city university of new york",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,300
+queens university of charlotte,queens university of charlotte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,298
+quincy university,quincy university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,264
+radford university,radford university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,467
+ramapo college,ramapo college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,755
+randall university,randall university,207157,35%,187,35%,109,-17%,183,13,-2%,117,40157,34137,28,14874,67,0,122,194,180,112,0%,187,NO,0,2%,133,152,194,193,ok,,,,,,,,,,,,184,,,,,,,,,,,,,,,,979
+ranken technical college,ranken technical college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1092
+rasmussen university-illinois,rasmussen university-illinois,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1246
+red rocks community college,red rocks community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1219
+reinhardt university,reinhardt university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,684
+remington college-memphis campus,remington college-memphis campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1232
+renton technical college,renton technical college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1210
+rhode island college,rhode island college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,444
+rider university,rider university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,420
+rio hondo college,rio hondo college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1198
+rivier university,rivier university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,587
+roberts wesleyan university,roberts wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1134
+rochester college,rochester college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,880
+rockford university,rockford university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26
+rockhurst university,rockhurst university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,425
+rocky mountain college,rocky mountain college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346
+roger williams university,roger williams university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,539
+rogers state university,rogers state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,911
+rollins college,rollins college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fl,264,Winter Park,Florida,,,,,,,,96,,,,,,,,,,,,,,,,,129
+rosemont college,rosemont college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,309
+saginaw valley state university,saginaw valley state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,875
+st. ambrose university,saint ambrose university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,658
+st. andrews university,saint andrews university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,942
+st. augustine college,saint augustine college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,712
+st. augustine's university,saint augustine's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,872
+st. bonaventure university,saint bonaventure university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,173
+st. cloud state university,saint cloud state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,928
+st. edward's university,saint edward's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502
+saint elizabeth university,saint elizabeth university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,963
+st. francis college,saint francis college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,373
+saint francis university,saint francis university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,628
+st. johns river state college,saint johns river state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1128
+saint joseph's college of maine,saint joseph's college of maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,756
+saint joseph's university,saint joseph's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,348
+st. joseph's university,saint joseph's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1124
+saint leo university,saint leo university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,894
+saint martin's university,saint martin's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,533
+saint mary-of-the-woods college,saint mary-of-the-woods college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,474
+saint mary's college of california,saint mary's college of california,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ca,197,Moraga,California,,,,,,,,70,,,,,,,,,,,,,,,,,237
+saint mary's university of minnesota,saint mary's university of minnesota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,382
+"st. mary's university, texas","saint mary's university, texas",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,168
+saint peter's university,saint peter's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,299
+st. petersburg college,saint petersburg college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1120
+st. thomas aquinas college,saint thomas aquinas college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,649
+st. thomas university,saint thomas university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,909
+saint xavier university,saint xavier university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,676
+salem state university,salem state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,614
+salem university,salem university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,829
+salisbury university,salisbury university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,861
+salve regina university,salve regina university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,409
+san diego christian college,san diego christian college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,527
+san diego mesa college,san diego mesa college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1177
+san francisco state university,san francisco state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,276
+san jose state university,san jose state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,433
+san juan community college,san juan community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1235
+santa ana college,santa ana college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1207
+santa fe college,santa fe college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1100
+santa monica college,santa monica college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1040
+savannah state university,savannah state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401
+schoolcraft college,schoolcraft college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1122
+schreiner university,schreiner university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,263
+seattle central college,seattle central college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1084
+seattle university,seattle university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,wa,122,Seattle,Washington,,,,,,,,46,,,,,,,,,,,,,,,,,
+seminole state college of florida,seminole state college of florida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1174
+seton hill university,seton hill university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,752
+shasta college,shasta college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1137
+shaw university,shaw university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51
+shawnee state university,shawnee state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,754
+shepherd university,shepherd university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,780
+shippensburg university of pennsylvania,shippensburg university of pennsylvania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,851
+shorter university,shorter university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,714
+siena college,siena college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,451
+siena heights university,siena heights university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,760
+simmons university,simmons university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ma,128,Boston,Massachusetts,,,,,,,,49,,,,,,,,,,,,,,,,,
+simpson college,simpson college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,315
+skagit valley college,skagit valley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1149
+skyline college,skyline college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1193
+slippery rock university,slippery rock university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1147
+smith colleges,smith colleges,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ny,160,Geneva,New York,,,,,,,,57,,,,,,,,,,,,,,,,,
+snow college,snow college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,895
+solano community college,solano community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1154
+sonoma state university,sonoma state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,475
+south carolina state university,south carolina state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,287
+south florida state college,south florida state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1070
+south georgia state college,south georgia state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,853
+south seattle college,south seattle college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1195
+south texas college,south texas college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1204
+south university virginia beach,south university virginia beach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1250
+south university-columbia,south university-columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1229
+south university-high point,south university-high point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1253
+southeast missouri state university,southeast missouri state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,408
+southeastern baptist theological seminary,southeastern baptist theological seminary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,562
+southeastern louisiana university,southeastern louisiana university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,804
+southeastern oklahoma state university,southeastern oklahoma state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,677
+southeastern university,southeastern university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1131
+southern adventist university,southern adventist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,832
+southern arkansas university,southern arkansas university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,781
+southern connecticut state university,southern connecticut state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,840
+southern nazarene university,southern nazarene university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,645
+southern new hampshire university,southern new hampshire university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1205
+southern oregon university,southern oregon university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,863
+southern university,southern university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,360
+southern university at new orleans,southern university at new orleans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,611
+southern utah university,southern utah university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1078
+southern wesleyan university,southern wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,528
+southwest baptist university,southwest baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,783
+southwest florida college,southwest florida college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1186
+southwest minnesota state university,southwest minnesota state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1048
+southwestern adventist university,southwestern adventist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,675
+southwestern assemblies of god university,southwestern assemblies of god university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,324
+southwestern christian college,southwestern christian college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,319
+southwestern christian university,southwestern christian university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,904
+southwestern college,southwestern college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,513
+southwestern oklahoma state university,southwestern oklahoma state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1009
+spokane community college,spokane community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1183
+spokane falls community college,spokane falls community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1076
+spring arbor university,spring arbor university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,544
+spring hill college,spring hill college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138
+springfield college,springfield college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,192
+"state college of florida, manatee–sarasota","state college of florida, manatee–sarasota",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1184
+state university of new york at canton,state university of new york at canton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,990
+state university of new york at cobleskill,state university of new york at cobleskill,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,724
+state university of new york at cortland,state university of new york at cortland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,695
+state university of new york at delhi,state university of new york at delhi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,763
+state university of new york at fredonia,state university of new york at fredonia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,383
+state university of new york at geneseo,state university of new york at geneseo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,540
+state university of new york at morrisville,state university of new york at morrisville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1075
+state university of new york at new paltz,state university of new york at new paltz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,637
+state university of new york at old westbury,state university of new york at old westbury,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,741
+state university of new york at oneonta,state university of new york at oneonta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,778
+state university of new york at oswego,state university of new york at oswego,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,439
+state university of new york at plattsburgh,state university of new york at plattsburgh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,617
+state university of new york at potsdam,state university of new york at potsdam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,521
+state university of new york maritime college,state university of new york maritime college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,224
+stephens college,stephens college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,217
+sterling college,sterling college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,730
+sterling college,sterling college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,816
+stetson university,stetson university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139
+stevenson university,stevenson university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,629
+stillman college,stillman college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,318
+stockton university,stockton university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,977
+suffolk university,suffolk university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,197
+sul ross state university,sul ross state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,344
+sullivan university,sullivan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,852
+suny brockport,suny brockport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,823
+suny polytechnic institute,suny polytechnic institute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,663
+tabor college,tabor college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,682
+tacoma community college,tacoma community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1157
+talladega college,talladega college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,274
+tallahassee community college,tallahassee community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,962
+tarleton state university,tarleton state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,993
+taylor university,taylor university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,440
+tennessee wesleyan university,tennessee wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,339
+texas a&m international university,texas a&m international university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,986
+texas a&m university–central texas,texas a&m university–central texas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1180
+texas a&m university–san antonio,texas a&m university–san antonio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1153
+texas a&m university–texarkana,texas a&m university–texarkana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1086
+texas college,texas college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136
+texas lutheran university,texas lutheran university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,641
+the art institute of virginia beach,the art institute of virginia beach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199
+the citadel,the citadel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,337
+the college of new jersey,the college of new jersey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,547
+the college of the florida keys,the college of the florida keys,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1108
+the master's university,the master's university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,664
+the north coast college,the north coast college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1242
+thiel college,thiel college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,164
+thomas college,thomas college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,404
+thomas more university,thomas more university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,873
+thomas university,thomas university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,995
+tiffin university,tiffin university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,735
+toccoa falls college,toccoa falls college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,824
+touro university worldwide,touro university worldwide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,946
+trine university,trine university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,707
+trinity baptist college,trinity baptist college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,732
+trinity christian college,trinity christian college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,447
+trinity international university-florida,trinity international university-florida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1239
+trinity washington university,trinity washington university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,194
+troy university,troy university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,793
+truett mcconnell university,truett mcconnell university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1061
+truman state university,truman state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,316
+tusculum university,tusculum university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,876
+tuskegee university,tuskegee university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47
+tyler junior college,tyler junior college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1132
+"union college, kentucky","union college, kentucky",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,532
+"union college, nebraska","union college, nebraska",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,603
+united states coast guard academy,united states coast guard academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90
+united states merchant marine academy,united states merchant marine academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63
+united states university,united states university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,671
+unity environmental university,unity environmental university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1224
+universidad del este,universidad del este,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1095
+universidad del sagrado corazón,universidad del sagrado corazón,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,848
+university of alaska anchorage,university of alaska anchorage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,812
+university of alaska southeast,university of alaska southeast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,588
+university of antelope valley,university of antelope valley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,565
+university of arizona global campus,university of arizona global campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1225
+university of arkansas at monticello,university of arkansas at monticello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,742
+university of arkansas at pine bluff,university of arkansas at pine bluff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,405
+university of arkansas grantham,university of arkansas grantham,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1222
+university of arkansas–fort smith,university of arkansas–fort smith,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1200
+university of baltimore,university of baltimore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,191
+university of central missouri,university of central missouri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,867
+university of central oklahoma,university of central oklahoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,860
+university of cincinnati blue ash college,university of cincinnati blue ash college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1077
+university of cincinnati clermont college,university of cincinnati clermont college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1063
+university of dallas,university of dallas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124
+university of dubuque,university of dubuque,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,543
+university of evansville,university of evansville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134
+university of florida-online,university of florida-online,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1227
+university of guam,university of guam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,545
+university of hawaiʻi – west oʻahu,university of hawaiʻi – west oʻahu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,935
+university of hawaiʻi maui college,university of hawaiʻi maui college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1089
+university of holy cross,university of holy cross,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,831
+university of houston–clear lake,university of houston–clear lake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,771
+university of houston–downtown,university of houston–downtown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1116
+university of houston–victoria,university of houston–victoria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1051
+university of illinois springfield,university of illinois springfield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,350
+university of jamestown,university of jamestown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,212
+university of lynchburg,university of lynchburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,605
+university of maine at augusta,university of maine at augusta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,906
+university of maine at farmington,university of maine at farmington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,715
+university of maine at fort kent,university of maine at fort kent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,885
+university of maine at presque isle,university of maine at presque isle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,801
+university of maine–machias*,university of maine–machias*,161244,37%,186,35%,76,-5%,94,46,-4%,133,,33480,125,7259,11,0,122,193,180,112,0%,187,NO,0,9%,67,91,193,187,me,,,,,,,,,,,,153,,,,,,,,,,,,,,,,
+university of mary hardin–baylor,university of mary hardin–baylor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1046
+university of maryland global campus,university of maryland global campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1208
+university of michigan–dearborn,university of michigan–dearborn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,750
+university of minnesota crookston,university of minnesota crookston,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,785
+university of minnesota duluth,university of minnesota duluth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,621
+university of mobile,university of mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,758
+university of montana western,university of montana western,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,834
+university of montevallo,university of montevallo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,576
+university of mount olive,university of mount olive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,669
+university of mount union,university of mount union,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,280
+university of nebraska at kearney,university of nebraska at kearney,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,566
+university of new haven,university of new haven,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,480
+university of north alabama,university of north alabama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,776
+university of north carolina at pembroke,university of north carolina at pembroke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,807
+university of north georgia,university of north georgia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1071
+university of north texas at dallas,university of north texas at dallas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,520
+university of northern iowa,university of northern iowa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,561
+university of northwestern – st. paul,university of northwestern – saint paul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,737
+university of northwestern ohio,university of northwestern ohio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1038
+university of pikeville,university of pikeville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,326
+university of pittsburgh at bradford,university of pittsburgh at bradford,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,519
+university of pittsburgh at johnstown,university of pittsburgh at johnstown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,590
+university of portland,university of portland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,163
+university of providence,university of providence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,647
+university of puerto rico at aguadilla,university of puerto rico at aguadilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1142
+university of puerto rico at arecibo,university of puerto rico at arecibo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1019
+university of puerto rico at bayamón,university of puerto rico at bayamón,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1202
+university of puerto rico at carolina,university of puerto rico at carolina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1185
+university of puerto rico at humacao,university of puerto rico at humacao,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1105
+university of puerto rico at mayagüez,university of puerto rico at mayagüez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,927
+university of puerto rico at ponce,university of puerto rico at ponce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1148
+university of puerto rico at utuado,university of puerto rico at utuado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1066
+university of redlands,university of redlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,169
+university of rio grande,university of rio grande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1237
+university of saint francis,university of saint francis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,833
+university of saint mary,university of saint mary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,887
+university of st. thomas,university of saint thomas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,428
+university of scranton,university of scranton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,308
+university of silicon valley,university of silicon valley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,988
+university of sioux falls,university of sioux falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,564
+university of south carolina aiken,university of south carolina aiken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005
+university of south carolina beaufort,university of south carolina beaufort,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,961
+university of south carolina upstate,university of south carolina upstate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,902
+university of southern indiana,university of southern indiana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1014
+university of southern maine,university of southern maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,665
+university of tampa,university of tampa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,670
+university of tennessee at martin,university of tennessee at martin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,679
+university of tennessee southern,university of tennessee southern,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,314
+university of texas permian basin,university of texas permian basin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1088
+university of the district of columbia,university of the district of columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213
+university of the ozarks,university of the ozarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,767
+university of the southwest,university of the southwest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,709
+university of the virgin islands,university of the virgin islands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,289
+university of valley forge,university of valley forge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,738
+university of washington bothell,university of washington bothell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,925
+university of washington tacoma,university of washington tacoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,789
+university of west alabama,university of west alabama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,874
+university of west florida,university of west florida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,842
+university of wisconsin–eau claire,university of wisconsin–eau claire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,987
+university of wisconsin–green bay,university of wisconsin–green bay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1065
+university of wisconsin–la crosse,university of wisconsin–la crosse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1053
+university of wisconsin–oshkosh,university of wisconsin–oshkosh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1082
+university of wisconsin–parkside,university of wisconsin–parkside,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,966
+university of wisconsin–platteville,university of wisconsin–platteville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1087
+university of wisconsin–river falls,university of wisconsin–river falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,877
+university of wisconsin–stevens point,university of wisconsin–stevens point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,881
+university of wisconsin–stout,university of wisconsin–stout,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,994
+university of wisconsin–superior,university of wisconsin–superior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,950
+university of wisconsin–whitewater,university of wisconsin–whitewater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1047
+upper iowa university,upper iowa university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,616
+ursuline college,ursuline college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,375
+utah tech university,utah tech university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1062
+utah valley university,utah valley university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1156
+utica university,utica university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,882
+valencia college,valencia college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1192
+valley city state university,valley city state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,811
+vanguard university,vanguard university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,711
+vaughn college of aeronautics and technology,vaughn college of aeronautics and technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,753
+vermont technical college,vermont technical college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,751
+villa maria college,villa maria college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,765
+vincennes university,vincennes university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,996
+virginia state university,virginia state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504
+virginia university of lynchburg,virginia university of lynchburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,430
+viterbo university,viterbo university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,674
+voorhees university,voorhees university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1165
+wade college,wade college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,761
+wagner college,wagner college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99
+wake forest university,wake forest university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nc,61,Winston-Salem,North Carolina,,,,,,,,18,,,,,,,,,,,,,,,,,
+waldorf university,waldorf university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1081
+walla walla university,walla walla university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,236
+walsh university,walsh university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,461
+warner pacific university,warner pacific university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,214
+warner university,warner university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,631
+washington adventist university,washington adventist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,238
+wayland baptist university,wayland baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,583
+wayne state college,wayne state college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,933
+waynesburg university,waynesburg university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,448
+webber international university,webber international university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,568
+weber state university,weber state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1017
+webster university,webster university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,160
+welch college,welch college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,813
+wenatchee valley college,wenatchee valley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1033
+wentworth institute of technology,wentworth institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,599
+wesleyan college,wesleyan college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109
+wesleyan university,wesleyan university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oh,204,Delaware,Ohio,,,,,,,,73,,,,,,,,,,,,,,,,,
+west chester university,west chester university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,901
+west liberty university,west liberty university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,495
+west los angeles college,west los angeles college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1188
+west texas a&m university,west texas a&m university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,953
+west virginia state university,west virginia state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,321
+west virginia university at parkersburg,west virginia university at parkersburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,900
+west virginia university institute of technology,west virginia university institute of technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,717
+west virginia wesleyan college,west virginia wesleyan college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,195
+western carolina university,western carolina university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,841
+western colorado university,western colorado university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,975
+western connecticut state university,western connecticut state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,777
+western governors university,western governors university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1220
+western illinois university,western illinois university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,567
+western nevada college,western nevada college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1073
+western new mexico university,western new mexico university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,559
+western oregon university,western oregon university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,651
+western washington university,western washington university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,673
+westfield state university,westfield state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,585
+westminster college (utah),westminster college (utah),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ut,217,Salt Lake City,Utah,,,,,,,,79,,,,,,,,,,,,,,,,,1150
+whatcom community college,whatcom community college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1176
+wheeling university,wheeling university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,718
+whitworth university,whitworth university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,396
+wilberforce university,wilberforce university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38
+wiley college,wiley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,112
+william jewell college,william jewell college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142
+william paterson university,william paterson university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,864
+william peace university,william peace university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,372
+william penn university,william penn university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,607
+williams baptist university,williams baptist university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1215
+wilmington college,wilmington college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,292
+wilson college,wilson college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,446
+winona state university,winona state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,866
+winston-salem state university,winston-salem state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,182
+winthrop university,winthrop university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,646
+wisconsin lutheran college,wisconsin lutheran college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,739
+woodbury university,woodbury university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,222
+worcester state university,worcester state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,926
+xavier university,xavier university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,307
+xavier university of louisiana,xavier university of louisiana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,306
+yakima valley college,yakima valley college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1194
+york college of pennsylvania,york college of pennsylvania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,879
+"york college, city university of new york","york college, city university of new york",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,898
+york university,york university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1133
+youngstown state university,youngstown state university,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,633

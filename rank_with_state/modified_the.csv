@@ -1,0 +1,101 @@
+,Name,THE_rank,THE_US_rank 2022,City,State,state
+0,Amherst College,1,22,Amherst,Massachusetts,MA
+1,Williams College,2,23,Williamstown,Massachusetts,MA
+2,Pomona College,3,25,Claremont,California,CA
+3,Swarthmore College,4,29,Swarthmore,Pennsylvania,PA
+4,Wellesley College,5,31,Wellesley,Massachusetts,MA
+5,Claremont McKenna College,6,34,Claremont,California,CA
+6,Carleton College,7,35,Northfield,Minnesota,MN
+7,Haverford College,8,36,Haverford,Pennsylvania,PA
+8,Bowdoin College,9,38,Brunswick,Maine,ME
+9,Smith College,10,39,Northampton,Massachusetts,MA
+10,Middlebury College,11,40,Middlebury,Vermont,VT
+11,Wesleyan University,12,43,Middletown,Connecticut,CT
+12,United States Military Academy,13,47,West Point,New York,NY
+13,Barnard College,14,50,New York,New York,NY
+14,Colgate University,15,52,Hamilton,New York,NY
+15,Mount Holyoke College,16,55,South Hadley,Massachusetts,MA
+16,Hamilton College,17,58,Clinton,New York,NY
+17,Wake Forest University,18,61,Winston-Salem,North Carolina,NC
+18,Bates College,19,64,Lewiston,Maine,ME
+19,Vassar College,20,65,Poughkeepsie,New York,NY
+20,Davidson College,21,66,Davidson,North Carolina,NC
+21,Scripps College,22,67,Claremont,California,CA
+22,Bryn Mawr College,23,68,Bryn Mawr,Pennsylvania,PA
+23,Grinnell College,24,69,Grinnell,Iowa,IA
+24,Lee University,25,73,Lexington,Virginia,VA
+25,Lafayette College,26,77,Easton,Pennsylvania,PA
+26,Bucknell University,27,81,Lewisburg,Pennsylvania,PA
+27,Franklin & Marshall College,28,84,Lancaster,Pennsylvania,PA
+28,Pitzer College,29,88,Claremont,California,CA
+29,Macalester College,30,89,Saint Paul,Minnesota,MN
+30,Reed College,31,92,Portland,Oregon,OR
+31,Kenyon College,32,93,Gambier,Ohio,OH
+32,Occidental College,33,95,Los Angeles,California,CA
+33,Whitman College,34,98,Walla Walla,Washington,WA
+34,Dickinson College,35,99,Carlisle,Pennsylvania,PA
+35,Skidmore College,36,102,Saratoga Springs,New York,NY
+36,Trinity College,37,104,Hartford,Connecticut,CT
+37,Trinity University,38,106,San Antonio,Texas,TX
+38,Rhodes College,39,108,Memphis,Tennessee,TN
+39,Connecticut College,40,109,New London,Connecticut,CT
+40,Oberlin College,41,112,Oberlin,Ohio,OH
+41,Denison University,42,114,Granville,Ohio,OH
+42,Colorado College,43,115,Colorado Springs,Colorado,CO
+43,College of the Holy Cross,44,117,Worcester,Massachusetts,MA
+44,DePauw University,45,120,Greencastle,Indiana,IN
+45,Seattle University,46,122,Seattle,Washington,WA
+46,Gettysburg College,46,122,Gettysburg,Pennsylvania,PA
+47,Spelman College,48,126,Atlanta,Georgia,GA
+48,Simmons University,49,128,Boston,Massachusetts,MA
+49,Union College,50,134,Schenectady,New York,NY
+50,Elon University,51,143,Elon,North Carolina,NC
+51,Willamette University,52,147,Salem,Oregon,OR
+52,Berea College,53,148,Berea,Kentucky,KY
+53,Furman University,54,149,Greenville,South Carolina,SC
+54,St Olaf College,55,150,Northfield,Minnesota,MN
+55,The College of Wooster,55,150,Wooster,Ohio,OH
+56,Smith Colleges,57,160,Geneva,New York,NY
+57,Wheaton College (Massachusetts),57,160,Norton,Massachusetts,MA
+58,Linfield College - McMinnville campus,57,160,McMinnville,Oregon,OR
+59,Allegheny College,60,164,Meadville,Pennsylvania,PA
+60,Muhlenberg College,61,166,Allentown,Pennsylvania,PA
+61,Lawrence University,62,168,Appleton,Wisconsin,WI
+62,Kalamazoo College,63,172,Kalamazoo,Michigan,MI
+63,Wheaton College (Illinois),64,173,Wheaton,Illinois,IL
+64,Sewanee-The University of the South,65,190,Sewanee,Tennessee,TN
+65,Lake Forest College,66,192,Lake Forest,Illinois,IL
+66,Gonzaga University,66,192,Spokane,Washington,WA
+67,Beloit College,66,192,Beloit,Wisconsin,WI
+68,Lawrence University,66,192,Canton,New York,NY
+69,Saint Mary's College of California,70,197,Moraga,California,CA
+70,Westmont College,70,197,Santa Barbara,California,CA
+71,Sarah Lawrence College,72,200,Bronxville,New York,NY
+72,Wesleyan University,73,204,Delaware,Ohio,OH
+73,Washington College,73,204,Chestertown,Maryland,MD
+74,Gustavus Adolphus College,75,206,Saint Peter,Minnesota,MN
+75,Susquehanna University,76,207,Selinsgrove,Pennsylvania,PA
+76,Earlham College,76,207,Richmond,Indiana,IN
+77,Wofford College,78,210,Spartanburg,South Carolina,SC
+78,Westminster College (Utah),79,217,Salt Lake City,Utah,UT
+79,Providence College,80,219,Providence,Rhode Island,RI
+80,Stonehill College,80,219,Easton,Massachusetts,MA
+81,College of Saint Benedict,82,223,Saint Joseph,Minnesota,MN
+82,Centre College,82,223,Danville,Kentucky,KY
+83,Miami University,84,227,Oxford,Ohio,OH
+84,Knox College,85,229,Galesburg,Illinois,IL
+85,Ithaca College,86,231,Ithaca,New York,NY
+86,Lewis & Clark College,87,234,Portland,Oregon,OR
+87,Mount Saint Mary's University,88,236,Los Angeles,California,CA
+88,Southwestern University,89,238,Georgetown,Texas,TX
+89,Adelphi University,90,238,Garden City,New York,NY
+90,Mercer University,91,244,Macon,Georgia,GA
+91,Albion College,91,244,Albion,Michigan,MI
+92,Manhattan College,93,256,Riverdale,New York,NY
+93,Saint Anselm College,93,256,Manchester,New Hampshire,NH
+94,Austin College,95,261,Sherman,Texas,TX
+95,Rollins College,96,264,Winter Park,Florida,FL
+96,Hope College,96,264,Holland,Michigan,MI
+97,Luther College,98,269,Decorah,Iowa,IA
+98,Augustana College (Illinois),99,271,Rock Island,Illinois,IL
+99,Bard College,100,273,Annandale-On-Hudson,New York,NY

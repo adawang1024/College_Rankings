@@ -1,0 +1,153 @@
+Name,DC_Ranking,DC_economic_score,DC_cost,DC_earnings,DC_graduation_rate
+Claremont McKenna College,1,0.97,"$19,489","$104,736",92%
+Harvey Mudd College,2,1.08,"$39,671","$138,687",93%
+Colby College,3,1.37,"$16,507","$80,490",90%
+Pomona College,4,1.41,"$18,084","$77,779",94%
+Washington and Lee University,5,1.43,"$29,479","$94,810",93%
+Swarthmore College,6,1.5,"$21,595","$80,257",97%
+Bowdoin College,7,1.52,"$18,533","$82,735",94%
+Williams College,8,1.59,"$26,775","$88,665",96%
+Colgate University,9,1.6,"$24,052","$85,139",91%
+Wellesley College,10,1.61,"$23,052","$84,803",94%
+Augustana College,11,1.83,"$11,780","$62,971",76%
+Amherst College,12,1.86,"$25,035","$77,644",96%
+Washington College,13,1.88,"$12,606","$65,518",70%
+Hamilton College,14,2.11,"$24,837","$78,411",90%
+Barnard College,15,2.13,"$27,999","$80,516",90%
+Virginia Military Institute,16,2.16,"$21,215","$77,369",84%
+Middlebury College,17,2.17,"$25,185","$76,310",94%
+Berea College,18,2.18,"$2,601","$43,150",66%
+Wesleyan University,19,2.36,"$28,340","$73,897",92%
+Lafayette College,20,2.39,"$36,995","$91,410",89%
+College of the Holy Cross,21,2.43,"$39,310","$90,543",93%
+University of Richmond,22,2.47,"$28,649","$76,178",87%
+Trinity University,23,2.51,"$23,567","$71,668",79%
+New College of Florida,24,2.54,"$7,091","$48,082",65%
+Saint Johns University,25,2.55,"$25,169","$76,786",74%
+Centre College,26,2.58,"$22,024","$66,240",82%
+Union College,27,2.59,"$35,375","$88,604",86%
+Bucknell University,28,2.59,"$42,198","$93,807",88%
+Haverford College,29,2.6,"$21,464","$79,966",92%
+Wabash College,30,2.63,"$22,067","$69,952",75%
+Grinnell College,31,2.76,"$17,772","$62,830",87%
+Trinity College,32,2.8,"$37,118","$90,779",83%
+DePauw University,33,2.81,"$25,673","$70,527",87%
+Gettysburg College,34,2.87,"$28,320","$71,517",84%
+"Linfield University, McMinnville",35,2.99,"$29,934","$78,638",77%
+Muhlenberg College,36,3.01,"$27,729","$69,107",85%
+Stonehill College,37,3.05,"$29,952","$77,745",82%
+Bates College,38,3.15,"$29,341","$69,498",92%
+St Olaf College,39,3.16,"$21,996","$65,543",85%
+Franklin and Marshall College,40,3.2,"$33,802","$76,124",85%
+Rhodes College,41,3.21,"$26,604","$66,651",82%
+Dickinson College,42,3.21,"$30,345","$70,204",84%
+Carleton College,43,3.23,"$30,838","$75,525",93%
+Kalamazoo College,44,3.28,"$22,567","$65,590",82%
+Connecticut College,45,3.28,"$32,664","$75,001",82%
+Albion College,46,3.44,"$17,331","$58,799",68%
+Washington & Jefferson College,47,3.61,"$25,625","$67,918",68%
+Gustavus Adolphus College,48,3.64,"$24,224","$65,607",78%
+Furman University,49,3.64,"$31,357","$68,635",80%
+Wofford College,50,3.67,"$29,236","$68,964",81%
+Hobart William Smith Colleges,51,3.67,"$29,256","$68,831",76%
+Saint Anselm College,52,3.76,"$35,038","$73,371",82%
+The University of the South,53,3.79,"$26,357","$64,911",80%
+Presbyterian College,54,3.8,"$21,157","$60,194",64%
+"Hampden, Sydney College",55,3.83,"$25,214","$67,640",67%
+St Lawrence University,56,3.85,"$28,344","$67,258",80%
+Georgetown College,57,3.87,"$14,522","$52,074",53%
+Austin College,58,3.87,"$22,764","$61,296",70%
+Ursinus College,59,3.92,"$31,493","$73,721",74%
+Oglethorpe University,60,3.96,"$20,638","$55,232",51%
+Drew University,61,3.99,"$24,892","$63,646",70%
+Occidental College,62,4,"$37,334","$75,951",83%
+Colorado College,63,4.04,"$28,892","$65,222",88%
+Vassar College,64,4.07,"$35,701","$71,366",88%
+Hendrix College,65,4.09,"$22,780","$60,376",66%
+Coe College,66,4.12,"$18,673","$57,125",62%
+St. Mary's College of Maryland,67,4.13,"$18,736","$60,110",73%
+Albright College,68,4.2,"$21,038","$58,700",62%
+Hartwick College,69,4.24,"$23,430","$61,107",59%
+University of Mary Washington,70,4.29,"$22,066","$60,613",68%
+Allegheny College,71,4.35,"$24,838","$62,069",73%
+Wheaton College,72,4.44,"$26,877","$63,756",87%
+Emmanuel College,73,4.44,"$30,487","$68,245",62%
+Skidmore College,74,4.44,"$34,165","$69,363",86%
+Saint Mary's College,75,4.48,"$25,209","$59,354",80%
+Susquehanna University,76,4.48,"$27,370","$61,723",75%
+Denison University,77,4.53,"$34,134","$67,753",81%
+Westmont College,78,4.54,"$31,227","$64,778",71%
+Lycoming College,79,4.54,"$18,549","$56,210",60%
+"University of Minnesota, Morris",80,4.56,"$10,541","$50,919",58%
+Transylvania University,81,4.64,"$23,734","$54,705",72%
+Saint Vincent College,82,4.65,"$22,109","$59,982",73%
+Saint Michael's College,83,4.65,"$25,392","$61,317",74%
+College of Saint Benedict,84,4.68,"$27,340","$63,260",84%
+Kenyon College,85,4.7,"$39,277","$71,830",89%
+Macalester College,86,4.74,"$29,697","$63,878",92%
+Hope College,87,4.75,"$23,985","$58,427",75%
+Whitman College,88,4.76,"$35,627","$67,589",87%
+Bryn Mawr College,89,4.77,"$41,833","$75,217",84%
+Wheaton College,90,4.78,"$32,248","$67,725",77%
+Concordia College at Moorhead,91,4.79,"$23,793","$59,317",67%
+University of Puget Sound,92,4.82,"$37,164","$69,594",77%
+The College of Wooster,93,4.94,"$24,995","$59,629",75%
+Luther College,94,4.94,"$26,138","$59,850",77%
+Lake Forest College,95,4.96,"$27,904","$61,825",76%
+Wartburg College,96,5.1,"$22,869","$56,201",68%
+Smith College,97,5.11,"$31,087","$64,027",87%
+Wittenberg University,98,5.18,"$22,729","$54,947",62%
+Meredith College,99,5.25,"$20,269","$51,539",66%
+Southwestern University,100,5.37,"$29,104","$56,878",74%
+Whittier College,101,5.44,"$26,635","$59,492",66%
+Agnes Scott College,102,5.48,"$22,358","$56,274",73%
+Franklin College,103,5.59,"$18,419","$55,376",63%
+Saint Norbert College,104,5.64,"$25,644","$58,363",72%
+Illinois College,105,5.66,"$17,512","$52,575",66%
+Lewis & Clark College,106,5.74,"$33,819","$62,205",74%
+Westminster College,107,5.77,"$21,969","$53,861",95%
+Bridgewater College,108,5.83,"$18,897","$53,453",64%
+Roanoke College,109,5.93,"$27,780","$58,047",71%
+Millsaps College,110,5.96,"$26,812","$53,848",68%
+Soka University of America,111,5.98,"$21,267","$55,017",87%
+Centenary College of Louisiana,112,6.04,"$22,729","$50,330",56%
+Central College,113,6.05,"$22,578","$54,317",68%
+Juniata College,114,6.1,"$25,378","$56,918",74%
+Beloit College,115,6.15,"$19,672","$53,260",77%
+The King's College,116,6.17,"$33,219","$58,065",52%
+"Randolph, Macon College",117,6.22,"$27,462","$58,448",64%
+Lawrence University,118,6.4,"$22,763","$55,789",78%
+Hanover College,119,6.41,"$24,059","$53,957",70%
+Willamette University,120,6.44,"$28,978","$56,911",74%
+Ripon College,121,6.51,"$21,825","$54,902",68%
+Westminster College,122,6.6,"$26,380","$52,199",58%
+Ohio Wesleyan University,123,6.73,"$25,814","$55,624",66%
+Mount Holyoke College,124,6.8,"$31,444","$58,418",85%
+Simpson University,125,6.82,"$24,437","$54,340",56%
+Ouachita Baptist University,126,6.89,"$23,086","$51,673",59%
+Thomas Aquinas College,127,7,"$27,202","$55,619",81%
+Aquinas College,128,7.12,"$17,682","$49,584",65%
+Spelman College,129,7.14,"$38,319","$59,993",77%
+Reed College,130,7.22,"$32,966","$62,927",78%
+Cornell College,131,7.28,"$24,164","$53,460",67%
+Knox College,132,7.5,"$26,205","$54,820",70%
+Gordon College,133,7.53,"$21,043","$52,119",73%
+Monmouth College,134,7.64,"$19,875","$51,110",59%
+"Hellenic College, Holy Cross Greek Orthodox School of Theology",135,7.88,"$29,312","$51,724",57%
+Oberlin College,136,7.9,"$37,377","$58,343",86%
+Ave Maria University,137,8.03,"$21,131","$49,520",54%
+University of North Carolina at Asheville,138,8.34,"$13,637","$44,030",64%
+Salem College,139,8.36,"$16,717","$44,640",67%
+University of Virginia's College at Wise,140,9.05,"$9,536","$45,325",51%
+Goucher College,141,9.11,"$27,204","$53,023",68%
+Eckerd College,142,9.44,"$31,954","$51,819",67%
+Morehouse College,143,9.49,"$36,836","$52,889",58%
+Virginia Wesleyan University,144,9.74,"$22,807","$50,074",53%
+Guilford College,145,9.8,"$23,571","$47,590",52%
+Earlham College,146,10.75,"$25,496","$50,797",67%
+Massachusetts College of Liberal Arts,147,11.55,"$17,630","$48,102",59%
+SUNY at Purchase College,148,11.92,"$19,598","$45,092",66%
+Houghton University,149,13.54,"$19,831","$46,721",70%
+Bethany Lutheran College,150,13.82,"$17,362","$46,110",61%
+Marymount Manhattan College,151,14.02,"$39,478","$49,131",58%
+Dillard University,153,28.4,"$19,117","$39,196",49%

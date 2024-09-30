@@ -1,0 +1,1258 @@
+Name,AI_Ranking
+Swarthmore College,1
+Amherst College,2
+Bryn Mawr College,3
+Williams College,4
+Smith College,5
+Oberlin College,6
+Antioch College,7
+Wesleyan University,8
+Cooper Union,9
+Bennington College,10
+Wellesley College,11
+Vassar College,12
+Haverford College,13
+Reed College,14
+Sarah Lawrence College,15
+Fisk University,16
+Mount Holyoke College,17
+United States Military Academy,18
+Barnard College,19
+Bowdoin College,20
+Hampshire College,21
+Bard College,22
+"Union College, New York",23
+Pomona College,24
+Antioch University,25
+Rockford University,26
+Washington and Lee University,27
+Wabash College,28
+Harvey Mudd College,29
+DePauw University,30
+Naropa University,31
+United States Naval Academy,32
+Goucher College,33
+Earlham College,34
+"Lincoln University, Pennsylvania",35
+Bates College,36
+Carleton College,37
+Wilberforce University,38
+Morehouse College,39
+Transylvania University,40
+Kenyon College,41
+Washington College,42
+Hamilton College,43
+Wheaton College,44
+Claremont McKenna College,45
+Occidental College,46
+Tuskegee University,47
+Washington & Jefferson College,48
+Colgate University,49
+Virginia Military Institute,50
+Shaw University,51
+Connecticut College,52
+Knox College,53
+Grinnell College,54
+Willamette University,55
+Spelman College,56
+College of the Holy Cross,57
+Lawrence University,58
+Colby College,59
+Trinity College,60
+Pitzer College,61
+Ohio Wesleyan University,62
+United States Merchant Marine Academy,63
+Beloit College,64
+Scripps College,65
+Colorado College,66
+Davidson College,67
+Maharishi International University,68
+Evergreen State College,69
+Allegheny College,70
+Hampden–Sydney College,71
+Dickinson College,72
+Lafayette College,73
+Goddard College,74
+Denison University,75
+Middlebury College,76
+Kalamazoo College,77
+Wittenberg University,78
+Tougaloo College,79
+Hobart and William Smith Colleges,80
+Coe College,81
+Brooklyn College,82
+United States Air Force Academy,83
+Furman University,84
+Dillard University,85
+Hillsdale College,86
+Golden Gate University,87
+Whittier College,88
+New College of Florida,89
+United States Coast Guard Academy,90
+University of Richmond,91
+Manchester University,92
+Drew University,93
+Berea College,94
+Wells College,95
+Whitman College,96
+Albion College,97
+Macalester College,98
+Wagner College,99
+Virginia Union University,100
+Agnes Scott College,101
+Bushnell University,102
+Hendrix College,103
+Lake Forest College,104
+College of Wooster,105
+American Jewish University,106
+Ursinus College,107
+Hollins University,108
+Wesleyan College,109
+Millsaps College,110
+Hanover College,111
+Wiley College,112
+Alfred University,113
+Marietta College,114
+Centre College,115
+Bob Jones University,116
+Drury University,117
+Meredith College,118
+Chicago State University,119
+Goshen College,120
+Eureka College,121
+Bucknell University,122
+Cornell College,123
+University of Dallas,124
+Manhattanville College,125
+St. Olaf College,126
+University of Puget Sound,127
+Wheaton College,128
+Rollins College,129
+Pacific Union College,130
+Elmira College,131
+Hartwick College,132
+Illinois Wesleyan University,133
+University of Evansville,134
+Guilford College,135
+Texas College,136
+Warren Wilson College,137
+Spring Hill College,138
+Stetson University,139
+New York Institute of Technology,140
+College of the Atlantic,141
+William Jewell College,142
+Sweet Briar College,143
+Austin College,144
+McDaniel College,145
+Gettysburg College,146
+Notre Dame de Namur University,147
+Chestnut Hill College,148
+Westmont College,149
+Franklin & Marshall College,150
+Southwestern University,151
+Olivet College,152
+Illinois College,153
+Hiram College,154
+Soka University of America,155
+Gustavus Adolphus College,156
+Hamline University,157
+Bennett College,158
+Muhlenberg College,159
+Webster University,160
+Johnson C. Smith University,161
+Prescott College,162
+University of Portland,163
+Thiel College,164
+Sewanee: The University of the South,165
+St. Lawrence University,166
+Bethany College,167
+"St. Mary's University, Texas",168
+University of Redlands,169
+Hunter College,170
+Hope College,171
+Manhattan College,172
+St. Bonaventure University,173
+College of Saint Rose,174
+Salem College,175
+Bard College at Simon's Rock,176
+Lewis & Clark College,177
+Huntingdon College,178
+Calvin University,179
+Principia College,180
+Loyola University Maryland,181
+Winston-Salem State University,182
+Monmouth College,183
+Trinity University,184
+Norwich University,185
+Ottawa University,186
+John Carroll University,187
+Saint Mary's College,188
+Kettering University,189
+Erskine College,190
+University of Baltimore,191
+Springfield College,192
+Ripon College,193
+Trinity Washington University,194
+West Virginia Wesleyan College,195
+Rhodes College,196
+Suffolk University,197
+Randolph College,198
+Eastern Mennonite University,199
+St. Mary's College of Maryland,200
+Elizabethtown College,201
+Emory and Henry College,202
+Niagara University,203
+Bluffton University,204
+Cheyney University of Pennsylvania,205
+Butler University,206
+Emerson College,207
+Oglethorpe University,208
+"Westminster College, Missouri",209
+Skidmore College,210
+Dominican University of California,211
+University of Jamestown,212
+University of the District of Columbia,213
+Warner Pacific University,214
+Milligan University,215
+Randolph–Macon College,216
+Stephens College,217
+Centenary College of Louisiana,218
+Central Methodist University,219
+Augustana College,220
+Catawba College,221
+Woodbury University,222
+Bradley University,223
+State University of New York Maritime College,224
+Alabama State University,225
+Alma College,226
+Mars Hill University,227
+Franklin College,228
+Greensboro College,229
+Graceland University,230
+Ave Maria University,231
+Providence College,232
+La Salle University,233
+Geneva College,234
+Eastern Nazarene College,235
+Walla Walla University,236
+Saint Mary's College of California,237
+Washington Adventist University,238
+Livingstone College,239
+Presbyterian College,240
+Paul Quinn College,241
+Saint Anselm College,242
+Miles College,243
+Wofford College,244
+Loras College,245
+Juniata College,246
+New England College,247
+La Sierra University,248
+Thomas More College of Liberal Arts,249
+Maine Maritime Academy,250
+State University of New York at Purchase,251
+Fairleigh Dickinson University,252
+Montreat College,253
+Rust College,254
+Friends University,255
+Georgetown College,256
+Hood College,257
+Saint Vincent College,258
+Saint Michael's College,259
+Keuka College,260
+Maryville College,261
+Luther College,262
+Schreiner University,263
+Quincy University,264
+Cumberland University,265
+Ithaca College,266
+Franklin Pierce University,267
+Howard Payne University,268
+Bacone College,269
+Birmingham–Southern College,270
+Thomas Aquinas College,271
+Ashland University,272
+North Carolina Central University,273
+Talladega College,274
+Alcorn State University,275
+San Francisco State University,276
+Ohio Northern University,277
+Baruch College,278
+Mount St. Mary's University,279
+University of Mount Union,280
+Lake Erie College,281
+Marymount Manhattan College,282
+Methodist University,283
+Fairfield University,284
+City University of Seattle,285
+Carlow University,286
+South Carolina State University,287
+Iowa Wesleyan University,288
+University of the Virgin Islands,289
+University of Minnesota Morris,290
+Abilene Christian University,291
+Wilmington College,292
+College of Saint Benedict and Saint John's University,293
+Huston–Tillotson University,294
+Le Moyne College,295
+Langston University,296
+Finlandia University,297
+Queens University of Charlotte,298
+Saint Peter's University,299
+"Queens College, City University of New York",300
+Eckerd College,301
+Dean College,302
+University of New Hampshire at Manchester,303
+New Mexico Institute of Mining and Technology,304
+Asbury University,305
+Xavier University of Louisiana,306
+Xavier University,307
+University of Scranton,308
+Rosemont College,309
+Florida Southern College,310
+Pacific Lutheran University,311
+Houghton University,312
+Boricua College,313
+University of Tennessee Southern,314
+Simpson College,315
+Truman State University,316
+Adrian College,317
+Stillman College,318
+Southwestern Christian College,319
+McKendree University,320
+West Virginia State University,321
+Philander Smith University,322
+Chaminade University of Honolulu,323
+Southwestern Assemblies of God University,324
+Allen University,325
+University of Pikeville,326
+Metropolitan College of New York,327
+Hardin–Simmons University,328
+DigiPen Institute of Technology,329
+Eastern University,330
+Faulkner University,331
+Kentucky State University,332
+Dakota Wesleyan University,333
+McMurry University,334
+Elmhurst University,335
+Oklahoma Baptist University,336
+The Citadel,337
+College of Idaho,338
+Tennessee Wesleyan University,339
+Oklahoma Christian University,340
+Oakwood University,341
+Berry College,342
+Roanoke College,343
+Sul Ross State University,344
+Milwaukee School of Engineering,345
+Rocky Mountain College,346
+Alverno College,347
+Saint Joseph's University,348
+Cambridge College,349
+University of Illinois Springfield,350
+Oral Roberts University,351
+American International College,352
+Gordon College,353
+University of the West,354
+Notre Dame of Maryland University,355
+Massachusetts Maritime Academy,356
+University of Science and Arts of Oklahoma,357
+Lycoming College,358
+Emporia State University,359
+Southern University,360
+Columbia College Chicago,361
+Covenant College,362
+Stonehill College,363
+Alaska Pacific University,364
+Muskingum University,365
+Paine College,366
+Jacksonville University,367
+King University,368
+College of Charleston,369
+Lane College,370
+Converse University,371
+William Peace University,372
+St. Francis College,373
+New Mexico Highlands University,374
+Ursuline College,375
+"Westminster College, Pennsylvania",376
+Emmanuel College,377
+Bentley University,378
+Doane University,379
+Paul Smith's College,380
+Carthage College,381
+Saint Mary's University of Minnesota,382
+State University of New York at Fredonia,383
+Chowan University,384
+Arcadia University,385
+Franciscan University of Steubenville,386
+Bryant University,387
+Cedar Crest College,388
+Young Harris College,389
+Hastings College,390
+Kentucky Wesleyan College,391
+Florida Memorial University,392
+Belmont Abbey College,393
+Mitchell College,394
+Coppin State University,395
+Whitworth University,396
+Brevard College,397
+North Central College,398
+Indiana Wesleyan University,399
+North Park University,400
+Savannah State University,401
+Bethune–Cookman University,402
+University of Mary Washington,403
+Thomas College,404
+University of Arkansas at Pine Bluff,405
+Albertus Magnus College,406
+Cazenovia College,407
+Southeast Missouri State University,408
+Salve Regina University,409
+Malone University,410
+Carroll University,411
+Massachusetts College of Liberal Arts,412
+Miami University Middletown,413
+Newberry College,414
+Eastern New Mexico University,415
+Middlebury Institute of International Studies at Monterey,416
+Barton College,417
+Albright College,418
+East–West University,419
+Rider University,420
+Kuyper College,421
+Delta State University,422
+Wartburg College,423
+Penn State Greater Allegheny,424
+Rockhurst University,425
+LaGrange College,426
+Point Park University,427
+University of St. Thomas,428
+Five Towns College,429
+Virginia University of Lynchburg,430
+Millikin University,431
+Benedictine College,432
+San Jose State University,433
+Otterbein University,434
+Antioch University Midwest,435
+Lubbock Christian University,436
+Concordia University Texas,437
+Morris College,438
+State University of New York at Oswego,439
+Taylor University,440
+John Jay College of Criminal Justice,441
+Central College,442
+Mississippi University for Women,443
+Rhode Island College,444
+DeSales University,445
+Wilson College,446
+Trinity Christian College,447
+Waynesburg University,448
+Cairn University,449
+"Lincoln University, Missouri",450
+Siena College,451
+Grace College & Seminary,452
+Chadron State College,453
+Midland University,454
+Lake Superior State University,455
+Hope International University,456
+Bryant & Stratton College,457
+University of North Carolina at Asheville,458
+Dickinson State University,459
+Elizabeth City State University,460
+Walsh University,461
+Pfeiffer University,462
+Point Loma Nazarene University,463
+John Brown University,464
+St. Norbert College,465
+Christian Brothers University,466
+Radford University,467
+Bethany College,468
+National American University,469
+Monmouth University,470
+Benedict College,471
+Henderson State University,472
+Martin University,473
+Saint Mary-of-the-Woods College,474
+Sonoma State University,475
+Amberton University,476
+Holy Names University,477
+Bethel College,478
+Anna Maria College,479
+University of New Haven,480
+Briar Cliff University,481
+John Paul the Great Catholic University,482
+College of Mount Saint Vincent,483
+Ferrum College,484
+Judson University,485
+Potomac State College of West Virginia University,486
+Notre Dame College,487
+Fort Valley State University,488
+Augsburg University,489
+Marymount University,490
+"Anderson College, Indiana",491
+Linfield University,492
+Pittsburg State University,493
+Arkansas Baptist College,494
+West Liberty University,495
+Cabrini University,496
+Southern Virginia University,497
+Claflin University,498
+Kansas Wesleyan University,499
+Concordia University Ann Arbor,500
+Minot State University,501
+St. Edward's University,502
+Fontbonne University,503
+Virginia State University,504
+Brescia University,505
+Brenau University,506
+Avila University,507
+Blackburn College,508
+Fashion Institute of Technology,509
+North Central University,510
+Penn State Schuylkill,511
+Bowie State University,512
+Southwestern College,513
+Grambling State University,514
+Alderson Broaddus University,515
+Cottey College,516
+University of Pittsburgh at Greensburg,517
+Nebraska Wesleyan University,518
+University of Pittsburgh at Bradford,519
+University of North Texas at Dallas,520
+State University of New York at Potsdam,521
+New Saint Andrews College,522
+Kentucky Christian University,523
+Keene State College,524
+Lawrence Technological University,525
+Concordia College,526
+San Diego Christian College,527
+Southern Wesleyan University,528
+Framingham State University,529
+Norfolk State University,530
+Florida Polytechnic University,531
+"Union College, Kentucky",532
+Saint Martin's University,533
+Baldwin Wallace University,534
+Ouachita Baptist University,535
+Madonna University,536
+The King's College,537
+Marywood University,538
+Roger Williams University,539
+State University of New York at Geneseo,540
+Medgar Evers College,541
+Concordia University Irvine,542
+University of Dubuque,543
+Spring Arbor University,544
+University of Guam,545
+Heidelberg University,546
+The College of New Jersey,547
+Peirce College,548
+Lebanon Valley College,549
+Hawaii Pacific University,550
+High Point University,551
+California State University Maritime Academy,552
+Houston Christian University,553
+Bloomfield College,554
+Holy Family University,555
+Cornerstone University,556
+Northwestern College,557
+Harris–Stowe State University,558
+Western New Mexico University,559
+Georgian Court University,560
+University of Northern Iowa,561
+Southeastern Baptist Theological Seminary,562
+Andrew College,563
+University of Sioux Falls,564
+University of Antelope Valley,565
+University of Nebraska at Kearney,566
+Western Illinois University,567
+Webber International University,568
+Aquinas College,569
+Curry College,570
+Capital University,571
+Virginia Wesleyan University,572
+Provo College,573
+Plymouth State University,574
+Indiana Institute of Technology,575
+University of Montevallo,576
+Johnson State College,577
+Marist College,578
+Belhaven University,579
+Buffalo State University,580
+Marian University,581
+Miami University Hamilton,582
+Wayland Baptist University,583
+Neumann University,584
+Westfield State University,585
+Elms College,586
+Rivier University,587
+University of Alaska Southeast,588
+Dominican University,589
+University of Pittsburgh at Johnstown,590
+Alice Lloyd College,591
+Governors State University,592
+College of Saint Mary,593
+Oakland City University,594
+Lyon College,595
+Penn State DuBois,596
+Berkeley College,597
+American National University,598
+Wentworth Institute of Technology,599
+Florida College,600
+Jarvis Christian University,601
+Delaware Valley University,602
+"Union College, Nebraska",603
+Ohio Dominican University,604
+University of Lynchburg,605
+Holy Cross College,606
+William Penn University,607
+Longwood University,608
+Evangel University,609
+California Lutheran University,610
+Southern University at New Orleans,611
+"California State University, Los Angeles",612
+Culver–Stockton College,613
+Salem State University,614
+Corban University,615
+Upper Iowa University,616
+State University of New York at Plattsburgh,617
+Indiana University East,618
+Penn State Mont Alto,619
+Castleton University,620
+University of Minnesota Duluth,621
+Central State University,622
+Merrimack College,623
+Concord University,624
+Susquehanna University,625
+Hesston College,626
+Mount Mercy University,627
+Saint Francis University,628
+Stevenson University,629
+LeMoyne–Owen College,630
+Warner University,631
+Concordia University Chicago,632
+Youngstown State University,633
+Mount Mary University,634
+Adams State University,635
+Augustana University,636
+State University of New York at New Paltz,637
+Hodges University,638
+Charleston Southern University,639
+Georgia Southwestern State University,640
+Texas Lutheran University,641
+Bay Path University,642
+Mount Saint Mary College,643
+Penn State Hazleton,644
+Southern Nazarene University,645
+Winthrop University,646
+University of Providence,647
+Beacon College,648
+St. Thomas Aquinas College,649
+Northeastern Illinois University,650
+Western Oregon University,651
+Christopher Newport University,652
+Fort Lewis College,653
+Bridgewater College,654
+Oklahoma Wesleyan University,655
+Minnesota State University Moorhead,656
+Frostburg State University,657
+St. Ambrose University,658
+Mississippi Valley State University,659
+Arizona Christian University,660
+Lourdes University,661
+Francis Marion University,662
+SUNY Polytechnic Institute,663
+The Master's University,664
+University of Southern Maine,665
+Northern Michigan University,666
+Huntington University,667
+Murray State University,668
+University of Mount Olive,669
+University of Tampa,670
+United States University,671
+College of the Ozarks,672
+Western Washington University,673
+Viterbo University,674
+Southwestern Adventist University,675
+Saint Xavier University,676
+Southeastern Oklahoma State University,677
+North Greenville University,678
+University of Tennessee at Martin,679
+Amridge University,680
+Fisher College,681
+Tabor College,682
+Lehman College,683
+Reinhardt University,684
+"California State University, Northridge",685
+Bryn Athyn College,686
+Mayville State University,687
+Alvernia University,688
+Simpson University,689
+Northland College,690
+City College,691
+Grand View University,692
+Bay State College,693
+"Anderson University, South Carolina",694
+State University of New York at Cortland,695
+Fairmont State University,696
+Pennsylvania College of Technology,697
+Northwestern Oklahoma State University,698
+Greenville University,699
+Auburn University at Montgomery,700
+Ohio State University at Mansfield,701
+Central Connecticut State University,702
+McPherson College,703
+Bryan College,704
+LeTourneau University,705
+Academy of Art University,706
+Trine University,707
+"California State Polytechnic University, Humboldt",708
+University of the Southwest,709
+Endicott College,710
+Vanguard University,711
+St. Augustine College,712
+Peru State College,713
+Shorter University,714
+University of Maine at Farmington,715
+Colby–Sawyer College,716
+West Virginia University Institute of Technology,717
+Wheeling University,718
+Landmark College,719
+East Texas Baptist University,720
+Prairie View A&M University,721
+Donnelly College,722
+"California State University, Chico",723
+State University of New York at Cobleskill,724
+Penn State Lehigh Valley,725
+Northeastern State University,726
+Lynn University,727
+Columbia International University,728
+Cedarville University,729
+Sterling College,730
+Eastern Illinois University,731
+Trinity Baptist College,732
+Northwest Missouri State University,733
+King's College,734
+Tiffin University,735
+Central Washington University,736
+University of Northwestern – St. Paul,737
+University of Valley Forge,738
+Wisconsin Lutheran College,739
+Flagler College,740
+State University of New York at Old Westbury,741
+University of Arkansas at Monticello,742
+Northern Marianas College,743
+Appalachian State University,744
+Bemidji State University,745
+Eastern Oregon University,746
+Lee University,747
+Penn State New Kensington,748
+Olivet Nazarene University,749
+University of Michigan–Dearborn,750
+Vermont Technical College,751
+Seton Hill University,752
+Vaughn College of Aeronautics and Technology,753
+Shawnee State University,754
+Ramapo College,755
+Saint Joseph's College of Maine,756
+Midway University,757
+University of Mobile,758
+Alliance University,759
+Siena Heights University,760
+Wade College,761
+Eastern Washington University,762
+State University of New York at Delhi,763
+Assumption University,764
+Villa Maria College,765
+Fitchburg State University,766
+University of the Ozarks,767
+Northwest University,768
+Carroll College,769
+Park University,770
+University of Houston–Clear Lake,771
+Defiance College,772
+Brigham Young University–Hawaii,773
+Granite State College,774
+Bethany Lutheran College,775
+University of North Alabama,776
+Western Connecticut State University,777
+State University of New York at Oneonta,778
+Mount St. Joseph University,779
+Shepherd University,780
+Southern Arkansas University,781
+Champlain College,782
+Southwest Baptist University,783
+MidAmerica Nazarene University,784
+University of Minnesota Crookston,785
+Alabama A&M University,786
+Heritage University,787
+Antioch University Santa Barbara,788
+University of Washington Tacoma,789
+Missouri Valley College,790
+Lander University,791
+Averett University,792
+Troy University,793
+Louisiana Christian University,794
+"California State University, Long Beach",795
+Jacksonville State University,796
+East Central University,797
+Marian University,798
+Magdalen College of the Liberal Arts,799
+Gwynedd Mercy University,800
+University of Maine at Presque Isle,801
+"California State University, Fullerton",802
+Midwestern State University,803
+Southeastern Louisiana University,804
+"California State University, Sacramento",805
+Louisiana State University Shreveport,806
+University of North Carolina at Pembroke,807
+Eastern Kentucky University,808
+New Jersey City University,809
+Mercy College,810
+Valley City State University,811
+University of Alaska Anchorage,812
+Welch College,813
+Alpena Community College,814
+Albany State University,815
+Sterling College,816
+Messiah University,817
+Mercyhurst University,818
+Coastal Carolina University,819
+McNeese State University,820
+Penn State Berks,821
+"California State University, East Bay",822
+SUNY Brockport,823
+Toccoa Falls College,824
+Georgia College & State University,825
+Angelo State University,826
+Antioch University Seattle,827
+Morehead State University,828
+Salem University,829
+Fresno Pacific University,830
+University of Holy Cross,831
+Southern Adventist University,832
+University of Saint Francis,833
+University of Montana Western,834
+Buena Vista University,835
+James Madison University,836
+Alfred State College,837
+Caldwell University,838
+Lewis University,839
+Southern Connecticut State University,840
+Western Carolina University,841
+University of West Florida,842
+Centenary University,843
+Cameron University,844
+College of Staten Island,845
+University of Virginia's College at Wise,846
+Ohio State University at Lima,847
+Universidad del Sagrado Corazón,848
+Eastern Connecticut State University,849
+Edward Waters University,850
+Shippensburg University of Pennsylvania,851
+Sullivan University,852
+South Georgia State College,853
+Iona University,854
+Plaza College,855
+Penn State Harrisburg,856
+Aspen University,857
+Oklahoma Panhandle State University,858
+Moravian University,859
+University of Central Oklahoma,860
+Salisbury University,861
+Morningside University,862
+Southern Oregon University,863
+William Paterson University,864
+Atlantis University,865
+Winona State University,866
+University of Central Missouri,867
+Penn State Altoona,868
+Black Hills State University,869
+Piedmont University,870
+"California State Polytechnic University, Pomona",871
+St. Augustine's University,872
+Thomas More University,873
+University of West Alabama,874
+Saginaw Valley State University,875
+Tusculum University,876
+University of Wisconsin–River Falls,877
+Harrisburg University of Science and Technology,878
+York College of Pennsylvania,879
+Rochester College,880
+University of Wisconsin–Stevens Point,881
+Utica University,882
+Dunwoody College of Technology,883
+Brazosport College,884
+University of Maine at Fort Kent,885
+Coker University,886
+University of Saint Mary,887
+Kean University,888
+Charter Oak State College,889
+Lenoir–Rhyne University,890
+East Stroudsburg University of Pennsylvania,891
+Penn State York,892
+Indiana University South Bend,893
+Saint Leo University,894
+Snow College,895
+"Minnesota State University, Mankato",896
+Northern State University,897
+"York College, City University of New York",898
+Pontifical Catholic University of Puerto Rico at Mayagüez,899
+West Virginia University at Parkersburg,900
+West Chester University,901
+University of South Carolina Upstate,902
+"Embry–Riddle Aeronautical University, Prescott",903
+Southwestern Christian University,904
+Mount Aloysius College,905
+University of Maine at Augusta,906
+Canisius University,907
+National University,908
+St. Thomas University,909
+Nicholls State University,910
+Rogers State University,911
+Midland College,912
+Chipola College,913
+Lindsey Wilson College,914
+Limestone University,915
+Dakota State University,916
+Keystone College,917
+California Baptist University,918
+Bridgewater State University,919
+Ohio University Eastern Campus,920
+Hannibal–LaGrange University,921
+Columbia College,922
+Lancaster Bible College,923
+Bluefield University,924
+University of Washington Bothell,925
+Worcester State University,926
+University of Puerto Rico at Mayagüez,927
+St. Cloud State University,928
+Lakeland University,929
+Austin Peay State University,930
+Farmingdale State College,931
+Caribbean University,932
+Wayne State College,933
+"California State University, Stanislaus",934
+University of Hawaiʻi – West Oʻahu,935
+Lasell University,936
+American Samoa Community College,937
+New England Institute of Technology,938
+Missouri Southern State University,939
+Ohio State University at Newark,940
+Montana Technological University,941
+St. Andrews University,942
+Fayetteville State University,943
+Missouri Western State University,944
+Felician University,945
+Touro University Worldwide,946
+Oregon Institute of Technology,947
+Grand Valley State University,948
+Ohio State University at Marion,949
+University of Wisconsin–Superior,950
+Montana State University–Northern,951
+Bluefield State University,952
+West Texas A&M University,953
+Penn State Behrend,954
+Georgia Military College,955
+Athens State University,956
+Kent State University at Salem,957
+Northern New Mexico College,958
+Central Penn College,959
+Dalton State College,960
+University of South Carolina Beaufort,961
+Tallahassee Community College,962
+Saint Elizabeth University,963
+Bethel University,964
+Penn State Abington,965
+University of Wisconsin–Parkside,966
+Baker College,967
+Northwestern State University,968
+Fort Hays State University,969
+Blue Mountain College,970
+Brewton–Parker College,971
+Point University,972
+Crown College,973
+"California Polytechnic State University, San Luis Obispo",974
+Western Colorado University,975
+Millersville University of Pennsylvania,976
+Stockton University,977
+Penn State Shenango,978
+Randall University,979
+Northwestern Michigan College,980
+Montana State University Billings,981
+Davis & Elkins College,982
+Providence Christian College,983
+Kent State University at Ashtabula,984
+"California State University, Monterey Bay",985
+Texas A&M International University,986
+University of Wisconsin–Eau Claire,987
+University of Silicon Valley,988
+Ohio University Southern Campus,989
+State University of New York at Canton,990
+Crowley's Ridge College,991
+Calumet College of St. Joseph,992
+Tarleton State University,993
+University of Wisconsin–Stout,994
+Thomas University,995
+Vincennes University,996
+Monroe College,997
+Indiana University Northwest,998
+Davenport University,999
+Kutztown University of Pennsylvania,1000
+ECPI University,1001
+Peninsula College,1002
+Bismarck State College,1003
+Lackawanna College,1004
+University of South Carolina Aiken,1005
+Campbellsville University,1006
+Bayamón Central University,1007
+American University of Puerto Rico,1008
+Southwestern Oklahoma State University,1009
+Florida Gulf Coast University,1010
+Mount Vernon Nazarene University,1011
+Ohio Christian University,1012
+East Georgia State College,1013
+University of Southern Indiana,1014
+Columbus State University,1015
+Everglades University,1016
+Weber State University,1017
+Pacific Islands University,1018
+University of Puerto Rico at Arecibo,1019
+"California State University, Bakersfield",1020
+Colorado Mountain College,1021
+Clayton State University,1022
+"California State University, San Bernardino",1023
+"California State University, Dominguez Hills",1024
+Pittsburgh Technical College,1025
+Indiana University Southeast,1026
+Penn State Brandywine,1027
+Clinton College,1028
+Feather River College,1029
+Penn State Fayette,1030
+Louisiana State University of Alexandria,1031
+Colorado State University Pueblo,1032
+Wenatchee Valley College,1033
+Foothill College,1034
+Community College of Denver,1035
+Empire State University,1036
+Hilbert College,1037
+University of Northwestern Ohio,1038
+Arkansas Tech University,1039
+Santa Monica College,1040
+Jackson College,1041
+Medaille University,1042
+Indiana University Kokomo,1043
+Columbia College,1044
+Northwest Nazarene University,1045
+University of Mary Hardin–Baylor,1046
+University of Wisconsin–Whitewater,1047
+Southwest Minnesota State University,1048
+California State University Channel Islands,1049
+Colorado Mesa University,1050
+University of Houston–Victoria,1051
+Metropolitan State University of Denver,1052
+University of Wisconsin–La Crosse,1053
+Middle Georgia State University,1054
+"Concordia University, St. Paul",1055
+Great Basin College,1056
+Central Christian College of Kansas,1057
+Lewis–Clark State College,1058
+Ohio University – Chillicothe,1059
+Maranatha Baptist University,1060
+Truett McConnell University,1061
+Utah Tech University,1062
+University of Cincinnati Clermont College,1063
+Concordia University Nebraska,1064
+University of Wisconsin–Green Bay,1065
+University of Puerto Rico at Utuado,1066
+University of Puerto Rico at Cayey,1067
+College of Coastal Georgia,1068
+Atlanta Metropolitan State College,1069
+South Florida State College,1070
+University of North Georgia,1071
+Freed–Hardeman University,1072
+Western Nevada College,1073
+Abraham Baldwin Agricultural College,1074
+State University of New York at Morrisville,1075
+Spokane Falls Community College,1076
+University of Cincinnati Blue Ash College,1077
+Southern Utah University,1078
+Mount Marty University,1079
+Charter College,1080
+Waldorf University,1081
+University of Wisconsin–Oshkosh,1082
+New York City College of Technology,1083
+Seattle Central College,1084
+Kent State University at Stark,1085
+Texas A&M University–Texarkana,1086
+University of Wisconsin–Platteville,1087
+University of Texas Permian Basin,1088
+University of Hawaiʻi Maui College,1089
+Cascadia College,1090
+Florida Gateway College,1091
+Ranken Technical College,1092
+La Roche University,1093
+Humphreys University,1094
+Universidad del Este,1095
+Columbia Basin College,1096
+Dominican University New York,1097
+Antelope Valley College,1098
+Lees–McRae College,1099
+Santa Fe College,1100
+Bellevue University,1101
+Dordt University,1102
+Missouri Baptist University,1103
+California State University San Marcos,1104
+University of Puerto Rico at Humacao,1105
+Grays Harbor College,1106
+Highline College,1107
+The College of the Florida Keys,1108
+Interamerican University of Puerto Rico at Ponce,1109
+Central Baptist College,1110
+North Florida College,1111
+Metropolitan University,1112
+Life Pacific University,1113
+Purdue University Northwest,1114
+American InterContinental University,1115
+University of Houston–Downtown,1116
+"Mount Saint Mary's University, Los Angeles",1117
+Centralia College,1118
+Gordon State College,1119
+St. Petersburg College,1120
+"Embry–Riddle Aeronautical University, Daytona Beach",1121
+Schoolcraft College,1122
+Modesto Junior College,1123
+St. Joseph's University,1124
+Florida SouthWestern State College,1125
+Full Sail University,1126
+Georgia Highlands College,1127
+St. Johns River State College,1128
+Gulf Coast State College,1129
+Olympic College,1130
+Southeastern University,1131
+Tyler Junior College,1132
+York University,1133
+Roberts Wesleyan University,1134
+College of Central Florida,1135
+Daytona State College,1136
+Shasta College,1137
+Clover Park Technical College,1138
+Colorado Christian University,1139
+Post University,1140
+Pensacola State College,1141
+University of Puerto Rico at Aguadilla,1142
+Penn State Scranton,1143
+Lake Washington Institute of Technology,1144
+Oklahoma State University–Oklahoma City,1145
+Northwest Florida State College,1146
+Slippery Rock University,1147
+University of Puerto Rico at Ponce,1148
+Skagit Valley College,1149
+"Westminster College, Utah",1150
+Florida State College at Jacksonville,1151
+Bellingham Technical College,1152
+Texas A&M University–San Antonio,1153
+Solano Community College,1154
+Florida National University,1155
+Utah Valley University,1156
+Tacoma Community College,1157
+Miami Dade College,1158
+College of Westchester,1159
+Bellevue College,1160
+Nazareth University,1161
+Polk State College,1162
+Georgia Gwinnett College,1163
+Indiana University–Purdue University Fort Wayne,1164
+Voorhees University,1165
+Purdue Global,1166
+Indian River State College,1167
+Pueblo Community College,1168
+"Newman University, Wichita",1169
+Bethel University,1170
+Henry Ford College,1171
+North Seattle College,1172
+Molloy University,1173
+Seminole State College of Florida,1174
+Cypress College,1175
+Whatcom Community College,1176
+San Diego Mesa College,1177
+Palm Beach State College,1178
+Broward College,1179
+Texas A&M University–Central Texas,1180
+College of Southern Nevada,1181
+Eastern Florida State College,1182
+Spokane Community College,1183
+"State College of Florida, Manatee–Sarasota",1184
+University of Puerto Rico at Carolina,1185
+Southwest Florida College,1186
+Oklahoma State University Institute of Technology,1187
+West Los Angeles College,1188
+Pasco–Hernando State College,1189
+Fremont University,1190
+Edmonds College,1191
+Valencia College,1192
+Skyline College,1193
+Yakima Valley College,1194
+South Seattle College,1195
+Green River College,1196
+Clark College,1197
+Rio Hondo College,1198
+The Art Institute of Virginia Beach,1199
+University of Arkansas–Fort Smith,1200
+Lake–Sumter State College,1201
+University of Puerto Rico at Bayamón,1202
+Emmanuel University,1203
+South Texas College,1204
+Southern New Hampshire University,1205
+Jessup University,1206
+Santa Ana College,1207
+University of Maryland Global Campus,1208
+Daymar Institute,1209
+Renton Technical College,1210
+Mid-America Christian University,1211
+Bakersfield College,1212
+Glenville State University,1213
+American Public University System,1214
+Williams Baptist University,1215
+Brigham Young University–Idaho,1216
+North Carolina Wesleyan University,1217
+Nevada State University,1218
+Red Rocks Community College,1219
+Western Governors University,1220
+Excelsior University,1221
+University of Arkansas Grantham,1222
+MiraCosta College,1223
+Unity Environmental University,1224
+University of Arizona Global Campus,1225
+Adventist University of the Antilles,1226
+University of Florida-Online,1227
+Hussian College-Daymar College Clarksville,1228
+South University-Columbia,1229
+Beckfield College-Florence,1230
+"St. John's College, Annapolis",1231
+Remington College-Memphis Campus,1232
+American InterContinental University - Atlanta Campus,1233
+American National University-Pikeville,1234
+San Juan Community College,1235
+Pontifical Catholic University of Puerto Rico Arecibo Campus,1236
+University of Rio Grande,1237
+Kent State University-Tuscarawas Campus,1238
+Trinity International University-Florida,1239
+Central Methodist University College of Graduate and Extended Studies,1240
+Johnson and Wales University - Charlotte Campus,1241
+The North Coast College,1242
+Kent State University-Trumbull Campus,1243
+Fairleigh Dickinson University-Florham Campus,1244
+Herzing University-Akron,1245
+Rasmussen University-Illinois,1246
+Herzing University-Atlanta,1247
+Ottawa University - Kansas City,1248
+Art Institute of San Antonio,1249
+South University Virginia Beach,1250
+Bryant & Stratton College-Online,1251
+Florida Institute of Technology-Online,1252
+South University-High Point,1253
+DeVry University-Illinois,1254
+DeVry University-Ohio,1255
+Miller-Motte College-Wilmington,1256
+Huntington University of Health Sciences,1257
