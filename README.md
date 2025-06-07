@@ -1,12 +1,8 @@
-This readme file was generated on [YYYY-MM-DD] by Yiduo Wang.
+This readme file was generated on 2025-06-06 by Yiduo Wang.
 
-*Note:
-[text within square brackets should be changed to specific information about your dataset.]
-*help text within asterisks should be deleted before finalizing your document**
+Cross-Platform Rankings of U.S. Liberal Arts Colleges: A Unified Dataset (2024)
 
 # GENERAL INFORMATION
-
-Title: Cross-Platform Rankings of U.S. Liberal Arts Colleges: A Unified Dataset (2024)
 
 ## Author/Principal Investigator Information
 Name: Brian Brubach
