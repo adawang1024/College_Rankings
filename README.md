@@ -1,4 +1,4 @@
-This readme file was generated on 2025-06-06 by Yiduo Wang.
+This readme file was updated on 2025-06-06 by Yiduo Wang.
 
 # Cross-Platform Rankings of U.S. Liberal Arts Colleges: A Unified Dataset (2024)
 
