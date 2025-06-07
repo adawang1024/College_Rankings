@@ -38,84 +38,84 @@ Jump to section:
 
 ## Composition
 
-### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
+1. **What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?** *(Are there multiple types of instances (e.g., movies, users, and ratings; people and interactions between them; nodes and edges)? Please provide a description.)*
+    
+    Each instance in the dataset represents a single U.S. liberal arts college included in at least one major college ranking.
 
-_Are there multiple types of instances (e.g., movies, users, and ratings; people and
-interactions between them; nodes and edges)? Please provide a description._
+2. **How many instances are there in total (of each type, if appropriate)?**
+    
+    The dataset contains 1278 rows, each representing one college.
 
-### How many instances are there in total (of each type, if appropriate)?
+3. **Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** *(If the dataset is a sample, then what is the larger set? Is the sample representative of the larger set (e.g., geographic coverage)? If so, please describe how this representativeness was validated/verified. If it is not representative of the larger set, please describe why not (e.g., to cover a more diverse range of instances, because instances were withheld or unavailable).)*
+    
+    The dataset is a sample of U.S. postsecondary institutions, limited to liberal arts colleges that appear in at least one of five selected ranking systems. It is not representative of the larger set, as it specifically focuses on liberal arts colleges. These schools are often overlooked or penalized in rankings that emphasize financial return, so this dataset is designed to explore how such rankings may reflect or reinforce bias against institutions with broader educational missions.
 
-### Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?
+4. **What data does each instance consist of?** *(``Raw'' data (e.g., unprocessed text or images)or features? In either case, please provide a description.)*
+    
+    Each instance consists of features representing institutional characteristics. These include college rankings from five sources, demographic and financial data, enrollment statistics by gender and race, and institutional classifications. All variables are aggregated and cleaned from public sources. No raw or unprocessed data (e.g., text, images) are included; the dataset contains only derived features for quantitative analysis.
 
-_If the dataset is a sample, then what is the larger set? Is the sample representative
-of the larger set (e.g., geographic coverage)? If so, please describe how this
-representativeness was validated/verified. If it is not representative of the larger set,
-please describe why not (e.g., to cover a more diverse range of instances, because
-instances were withheld or unavailable)._
+5. **Is there a label or target associated with each instance? If so, please provide a description.**
+    
+    No, this dataset is not designed for supervised learning and does not include an explicit label or target variable. The goal is to support exploratory analysis and audit the behavior and potential biases in various college ranking systems.
 
-### What data does each instance consist of? 
 
-_“Raw” data (e.g., unprocessed text or images) or features? In either case, please
-provide a description._
+6. **Is any information missing from individual instances?** *(If so, please provide a description, explaining why this information is missing (e.g., because it was unavailable). This does not include intentionally removed information, but might include, e.g., redacted text.)*
+    
+    Yes, some variables contain missing values because data was unavailable from the original sources. For example, not all schools appear in every ranking system, and some demographic or financial metrics are incomplete in government datasets. Missing data is left as-is to preserve transparency.
 
-### Is there a label or target associated with each instance?
 
-_If so, please provide a description._
+7. **Are relationships between individual instances made explicit (e.g., users' movie ratings, social network links)?** *( If so, please describe how these relationships are made explicit.)*
+    
+    No explicit relationships exist between instances. Each row represents a single institution and is treated independently.
 
-### Is any information missing from individual instances?
+8. **Are there recommended data splits (e.g., training, development/validation, testing)?** *(If so, please provide a description of these splits, explaining the rationale behind them.)*
+    
+    This dataset is not intended for model training or predictive tasks, so no training/validation/testing splits are provided. However, for analytical purposes, users may consider splitting institutions into tuition buckets. While this does not fully isolate tuition effects, it can help make the relationship between rankings and key characteristics—such as women’s enrollment—clearer by reducing the confounding influence of cost differences across institutions.
 
-_If so, please provide a description, explaining why this information is missing (e.g.,
-because it was unavailable). This does not include intentionally removed information,
-but might include, e.g., redacted text._
 
-### Are relationships between individual instances made explicit (e.g., users’ movie ratings, social network links)?
+9. **Are there any errors, sources of noise, or redundancies in the dataset?** *(If so, please provide a description.)*
+    
+    Some data sources may contain inconsistencies such as differing naming conventions or rounding errors. We standardized institution names to reduce duplication and manually resolved a small number of inconsistencies. However, minor noise may remain, especially in scraped rankings and demographic figures.
 
-_If so, please describe how these relationships are made explicit._
+10. **Is the dataset self-contained, or does it link to or otherwise rely on external resources (e.g., websites, tweets, other datasets)?** *(If it links to or relies on external resources, a) are there guarantees that they will exist, and remain constant, over time; b) are there official archival versions of the complete dataset (i.e., including the external resources as they existed at the time the dataset was created); c) are there any restrictions (e.g., licenses, fees) associated with any of the external resources that might apply to a future user? Please provide descriptions of all external resources and any restrictions associated with them, as well as links or other access points, as appropriate.)*
+    
+   ///
 
-### Are there recommended data splits (e.g., training, development/validation, testing)?
 
-_If so, please provide a description of these splits, explaining the rationale behind them._
+11. **Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?** *(If so, please provide a description.)*
+    
+    No. All data is from public sources, including federal government datasets (e.g., College Scorecard) and publicly available ranking websites. No confidential or proprietary data is included.
 
-### Are there any errors, sources of noise, or redundancies in the dataset?
 
-_If so, please provide a description._
+12. **Does the dataset contain data that, if viewed directly, might be offensive, insulting, threatening, or might otherwise cause anxiety?** *(If so, please describe why.)*
+    
+    No. The dataset includes only institutional-level information such as enrollment, graduation rates, and rankings. It does not contain any personal, emotional, or potentially offensive content.
 
-### Is the dataset self-contained, or does it link to or otherwise rely on external resources (e.g., websites, tweets, other datasets)?
 
-_If it links to or relies on external resources, a) are there guarantees that they will
-exist, and remain constant, over time; b) are there official archival versions of the
-complete dataset (i.e., including the external resources as they existed at the time the
-dataset was created); c) are there any restrictions (e.g., licenses, fees) associated with
-any of the external resources that might apply to a future user? Please provide descriptions
-of all external resources and any restrictions associated with them, as well as links or other
-access points, as appropriate._
+13. **Does the dataset relate to people?** *(If not, you may skip the remaining questions in this section.)*
+    
+    Indirectly. The dataset reflects attributes of institutions, but includes aggregated demographic data (e.g., gender, race) of student populations.
 
-### Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals’ non-public communications)?
+14. **Does the dataset identify any subpopulations (e.g., by age, gender)?** *(If so, please describe how these subpopulations are identified and provide a description of their respective distributions within the dataset.)*
+    
+    Yes. The dataset includes institutional-level demographic breakdowns by gender and race/ethnicity. These are reported in aggregate and do not identify individuals.
 
-_If so, please provide a description._
 
-### Does the dataset contain data that, if viewed directly, might be offensive, insulting, threatening, or might otherwise cause anxiety?
+15. **Is it possible to identify individuals (i.e., one or more natural persons), either directly or indirectly (i.e., in combination with other data) from the dataset?** *(If so, please describe how.)*
+    
+    No. All data is at the institutional level and fully anonymized. No individual-level data is included.
 
-_If so, please describe why._
 
-### Does the dataset relate to people? 
+16. **Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals racial or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?** *(If so, please provide a description.)*
+    
+    It contains sensitive demographic and financial indicators in aggregate form, such as racial composition, Pell Grant recipient percentages, and net price for low-income families. However, this information is publicly reported and aggregated at the institutional level.
 
-_If not, you may skip the remaining questions in this section._
 
-### Does the dataset identify any subpopulations (e.g., by age, gender)?
+17. **Any other comments?**
+    
+    None.
 
-_If so, please describe how these subpopulations are identified and provide a description of
-their respective distributions within the dataset._
 
-### Is it possible to identify individuals (i.e., one or more natural persons), either directly or indirectly (i.e., in combination with other data) from the dataset?
-
-_If so, please describe how._
-
-### Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals racial or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?
-
-_If so, please provide a description._
-
-### Any other comments?
 
 ## Collection process
 
