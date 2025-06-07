@@ -131,7 +131,6 @@ Raw data was collected through a combination of web scraping, direct downloads, 
 # DATA-SPECIFIC INFORMATION FOR `final_lac_data.csv`
 * Number of variables: 85
 * Number of cases/rows: 1278
-* Variable List
 ## Core Dataset Variable Description
 ### Identifiers
 - **Name**: Official institution name.
