@@ -1,6 +1,8 @@
-# Datasheet for dataset "add dataset name here"
+# Datasheet for dataset "Cross-Platform Rankings of U.S. Liberal Arts Colleges: A Unified Dataset (2024)"
+By: Yiduo Wang `<yw103@wellesley.edu>` and Brian Brubach `<bb100@wellesley.edu>`
 
-Questions from the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper, v7.
+As part of a study auditing new college ranking algorithms for potential bias and adverse impact, we collected and standardized a dataset of college rankings from multiple sources, including Degree Choices, Academic Influence, U.S. News, Washington Monthly, and Times Higher Education, along with institutional data from the U.S. Department of Education. We call this dataset the Cross-Platform Rankings of U.S. Liberal Arts Colleges dataset; what follows below is the datasheet describing this data. If you use this dataset, please acknowledge it by citing the associated research project or contacting the authors.
+
 
 Jump to section:
 
@@ -14,31 +16,27 @@ Jump to section:
 
 ## Motivation
 
-_The questions in this section are primarily intended to encourage dataset creators
-to clearly articulate their reasons for creating the dataset and to promote transparency
-about funding interests._
+1. **For what purpose was the dataset created?** *(Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.)*
+    
+    The dataset was created to audit new college ranking algorithms—specifically Degree Choices and Academic Influence—for potential bias and disproportionate impact on underrepresented institutions. It integrates data scraped from these ranking websites with information from the U.S. Department of Education, covering 1278 colleges. This standardized dataset enables statistical analysis of ranking discrepancies and helps identify institutional factors associated with adverse impacts.
 
-### For what purpose was the dataset created? 
 
-_Was there a specific task in mind? Was there a specific gap that needed to be filled?
-Please provide a description._
+1. **Who created this dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?**
+    
+    The dataset was created by Yiduo Wang, an undergraduate student at Wellesley College at the time of creation, as part of a research project advised by Professor Brian Brubach in the Computer Science Department at Wellesley College.
 
-### Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
 
-### Who funded the creation of the dataset? 
+1. **Who funded the creation of the dataset?** *(If there is an associated grant, please provide the name of the grantor and the grant name and number.)*
+    
+    ?
 
-_If there is an associated grant, please provide the name of the grantor and the grant
-name and number._
 
-### Any other comments?
+1. **Any other comments?**
+    
+    None.
+
 
 ## Composition
-
-_Most of these questions are intended to provide dataset consumers with the
-information they need to make informed decisions about using the dataset for
-specific tasks. The answers to some of these questions reveal information
-about compliance with the EU’s General Data Protection Regulation (GDPR) or
-comparable regulations in other jurisdictions._
 
 ### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 
