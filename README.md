@@ -33,7 +33,7 @@ This dataset provides a merged view of liberal arts college rankings in the Unit
 
 ## Data Collection
 - **Date of data collection:** 2024-06 to 2024-07  
-- Data was collected by scraping publicly available ranking websites:
+- Ranking data was collected by scraping publicly available ranking websites:
 	-  **Academic Influence Ranking**  
 	  [https://academicinfluence.com/custom-college-rankings?rank=concentrated&level=bachelor&national=no&community=no&specialFocus=no#search-results](https://academicinfluence.com/custom-college-rankings?rank=concentrated&level=bachelor&national=no&community=no&specialFocus=no#search-results)
 	
@@ -48,7 +48,8 @@ This dataset provides a merged view of liberal arts college rankings in the Unit
 	
 	- **Wall Street Journal/Times Higher Education Liberal Arts Rankings (2022)**  
 	  [https://www.timeshighereducation.com/student/best-universities/best-liberal-arts-colleges-united-states](https://www.timeshighereducation.com/student/best-universities/best-liberal-arts-colleges-united-states)
-- Institutional names were standardized across sources to ensure accurate merging. Matching accuracy was manually verified using location information to resolve naming inconsistencies.
+	
+- College information was collected from the College Scorecard project (June 2024), developed by the U.S. Department of Education. The project includes institution-level data, offering insights into both overall institutional characteristics and specific fields of study. This dataset focuses on institution-level variables.
 
 ## Additional Related Data (Not Included)
 Raw ranking data files scraped from each source website were collected during the project but are not included in this release. Only one file is included in this dataset. It represents the final merged and cleaned version derived from the sources listed above. The raw files were used solely to construct the merged dataset.
@@ -58,12 +59,7 @@ Raw ranking data files scraped from each source website were collected during th
 - **Last updated:** 2025-06-06 
 - No prior versions exist.
 
-# METHODOLOGICAL INFORMATION
-
-## Description of methods used for collection/generation of data: 
-# Dataset Description
-
-## Description of Methods Used for Data Collection and Generation
+## Description of Methods Used for Data Collection 
 
 Raw data was collected through a combination of web scraping, direct downloads, and automated tools to compile college ranking information from multiple publicly available sources.
 
@@ -132,21 +128,67 @@ Raw data was collected through a combination of web scraping, direct downloads, 
 
 
 ## Methods for processing the data: 
-*describe how the submitted data were generated from the raw or collected data*
-
-## Instrument- or software-specific information needed to interpret the data: 
-*include full name and version of software, and any necessary packages or libraries needed to run scripts*
-
-*include any additional methodological information needed to interpret and/or use the data, as appropriate*
-* Standards and calibration information, if appropriate: 
-* Environmental/experimental conditions: 
-* Describe any quality-assurance procedures performed on the data: 
-* People involved with sample collection, processing, analysis and/or submission: 
-
+- An **outer merge** was used to combine data from multiple sources based on institutional name and state, preventing unintended exclusions.  
+- Institutional names were standardized across datasets to support accurate merging.  
+- Matching accuracy was manually verified using additional information—such as school websites—to resolve discrepancies and naming inconsistencies.
 
 # DATA-SPECIFIC INFORMATION FOR `final_lac_data.csv`
 * Number of variables: 85
-* Number of cases/rows: 
+* Number of cases/rows: 1278
 * Variable List: *list variable name(s), description(s), unit(s) and value labels as appropriate for each*
-* Missing data codes: *list code/symbol and definition*
-* Specialized formats or other abbreviations used: 
+## Core Dataset Variable Description
+### Identifiers
+- **Name**: Official institution name.
+- **Standardized Name**: Cleaned and standardized institution name for consistency across datasets.
+
+### Ranking Variables
+- **Academic Influence Ranking (Concentrated Influence)**: Ranking based on Academic Influence ["Concentrated Influence"](https://academicinfluence.com/about/concentrated-influence) metrics (accessed in June 2024). 
+- **Washington Monthly Ranking**: 2024 Liberal Arts Colleges Ranking published by Washington Monthly.
+- **Times Higher Education Ranking (2022)**: Top 100 liberal arts colleges in the United States using data from the Wall Street Journal/Times Higher Education US College Rankings in 2022.
+- **US News Ranking (with ties)**: 2024 liberal arts college ranking from U.S. News & World Report, including tied positions.  
+  - *Special data codes:*  
+    - **-2**: Institution is *unranked* by U.S. News.  
+    - **-1**: Institution is ranked within a *range only* (e.g., #186–204) at the end, without a specific rank assigned.
+- **Degree Choices Ranking**: Ranking of liberal arts colleges focused on relative financial value, as published by DegreeChoices (accessed in July 2024).
+  
+### School Information and Enrollment Demographics Variables
+- **Pell Students**: Percentage of students receiving Pell grants.
+- **UNITID**: Unique identification number assigned to postsecondary institutions as surveyed through IPEDS.
+- **OPEID**: identification number used by the U.S. Department of Education's Office of Postsecondary Education (OPE) and Federal Student Aid Office (FSA).
+- **URL**: Official college website URL.
+
+#### Enrollment by Gender
+- **Men Enroll**: Percentage of male enrolled students.
+- **Women Enroll**: Percentage of female enrolled students.
+
+#### Enrollment by Race/Ethnicity
+- **White Enroll**: Percentage of enrolled white students.
+- **Black Enroll**: Percentage of enrolled black students.
+- **Hispanic Enroll**: Number of enrolled Hispanic students.
+- **Asian Enroll**: Number of enrolled Asian students.
+- **AI/AN Enroll**: Number of enrolled American Indian or Alaska Native students.
+- **NH/PI Enroll**: Number of enrolled Native Hawaiian or Pacific Islander students.
+- **2+ Races Enroll**: Number of students enrolled identifying with two or more races.
+- **Non-Res Aliens Enroll**: Number of non-resident alien students enrolled.
+- **Race Unkn Enroll**: Number of enrolled students with unknown race/ethnicity.
+
+### Institutional Type & Designations
+(For all variables below, 1 = Yes, 0 = No)  
+- **Pub/Priv Type**: Classification as public or private institution.
+- **HBCU**: Indicator for Historically Black Colleges and Universities.
+- **PBI**: Indicator for Predominantly Black Institutions.
+- **ANNHI**: Indicator for Alaska Native and Native Hawaiian-serving Institutions.
+- **TRIBAL**: Indicator for Tribal Colleges and Universities.
+- **AANAPII**: Indicator for Asian American-/Native American-Pacific Islander-serving Institutions;
+- **HSI**: Indicator for Hispanic-serving Institutions.
+- **NANTI**: Indicator for Native American Non-Tribal Institutions.
+
+### Financial and Admission Metrics
+- **Avg Cost (4yr)**: Average annual total cost—including tuition, fees, books, and living expenses—for full-time, first-time undergraduates receiving Title IV aid. *(COSTT4_A in original source)*  
+- **Adm Rate**: Percentage of applicants admitted to the institution. *(ADM_RATE_ALL in original source)*  
+- **Comp Rate (100%)**: Percentage of students completing their program within 100% of the expected time. *(C100_4 in original source)*  
+
+## Additional Variables
+
+Additional columns of institutional information from Washington Monthly, Times Higher Education, US News, and DegreeChoices are included for reference. However, to maintain consistency, this research primarily focuses on variables provided by the College Scorecard.
+
