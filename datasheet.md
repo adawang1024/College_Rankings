@@ -91,7 +91,6 @@ Jump to section:
     
     No. The dataset includes only institutional-level information such as enrollment, graduation rates, and rankings. It does not contain any personal, emotional, or potentially offensive content.
 
-
 13. **Does the dataset relate to people?** *(If not, you may skip the remaining questions in this section.)*
     
     Indirectly. The dataset reflects attributes of institutions, but includes aggregated demographic data (e.g., gender, race) of student populations.
@@ -108,7 +107,7 @@ Jump to section:
 
 16. **Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals racial or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?** *(If so, please provide a description.)*
     
-    It contains sensitive demographic and financial indicators in aggregate form, such as racial composition, Pell Grant recipient percentages, and net price for low-income families. However, this information is publicly reported and aggregated at the institutional level.
+    It contains sensitive demographic and financial indicators in aggregate form, such as racial composition and Pell Grant recipient percentages. However, this information is publicly reported and aggregated at the institutional level.
 
 
 17. **Any other comments?**
@@ -117,67 +116,74 @@ Jump to section:
 
 
 
-## Collection process
+## Collection Process
 
-_\[T\]he answers to questions here may provide information that allow others to
-reconstruct the dataset without access to it._
 
-### How was the data associated with each instance acquired?
+1. **How was the data associated with each instance acquired?** *(Was the data directly observable (e.g., raw text, movie ratings), reported by subjects (e.g., survey responses), or indirectly inferred/derived from other data (e.g., part-of-speech tags, model-based guesses for age or language)? If data was reported by subjects or indirectly inferred/derived from other data, was the data validated/verified? If so, please describe how.)*
+    
+    The ranking data for each college was directly collected from publicly available online sources. Degree Choices and Academic Influence rankings were scraped using Python scripts with Selenium and BeautifulSoup. U.S. News ranking was obtained via a public available Python scraper ([kajchang/USNews-College-Scraper](https://github.com/kajchang/USNews-College-Scraper)). Washington Monthly ranking was downloaded as spreadsheets from their website. Times Higher Education rankings were extracted using the Chrome extension Instant Data Scraper. All data were cleaned and matched to institutional records from the U.S. Department of Education to ensure consistency and accuracy.
 
-_Was the data directly observable (e.g., raw text, movie ratings), reported by subjects (e.g.,
-survey responses), or indirectly inferred/derived from other data (e.g., part-of-speech tags,
-model-based guesses for age or language)? If data was reported by subjects or indirectly
-inferred/derived from other data, was the data validated/verified? If so, please describe how._
 
-### What mechanisms or procedures were used to collect the data (e.g., hardware apparatus or sensor, manual human curation, software program, software API)?
+1. **What mechanisms or procedures were used to collect the data (e.g., hardware apparatus or sensor, manual human curation, software program, software API)?** *(How were these mechanisms or procedures validated?)*
+    
+    Annotation was conducted using [TagEditor](https://github.com/d5555/TagEditor).
 
-_How were these mechanisms or procedures validated?_
 
-### If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?
+1. **If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?**
+    
+    See answer to question #2 in [Composition](#composition).
 
-### Who was involved in the data collection process (e.g., students, crowdworkers, contractors) and how were they compensated (e.g., how much were crowdworkers paid)?
 
-### Over what timeframe was the data collected?
+1. **Who was involved in the data collection process (e.g., students, crowdworkers, contractors) and how were they compensated (e.g., how much were crowdworkers paid)?**
+    
+    All collection and annotation was done by the two authors.
 
-_Does this timeframe match the creation timeframe of the data associated with the instances (e.g.
-recent crawl of old news articles)? If not, please describe the timeframe in which the data
-associated with the instances was created._
 
-### Were any ethical review processes conducted (e.g., by an institutional review board)?
+1. **Over what timeframe was the data collected?** *(Does this timeframe match the creation timeframe of the data associated with the instances (e.g., recent crawl of old news articles)?  If not, please describe the timeframe in which the data associated with the instances was created.)*
+    
+    The dataset was collected in the early Summer of 2019, which does not necessarily reflect the timeframe of the data collected.
 
-_If so, please provide a description of these review processes, including the outcomes, as well as
-a link or other access point to any supporting documentation._
 
-### Does the dataset relate to people?
+1. **Were any ethical review processes conducted (e.g., by an institutional review board)?** *(If so, please provide a description of these review processes, including the outcomes, as well as a link or other access point to any supporting documentation.)*
+    
+    No review processes were conducted with respect to the collection and annotation of this data (though review was done for other aspects of this work; see the paper linked at the top of the datasheet).
 
-_If not, you may skip the remainder of the questions in this section._
 
-### Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?
+1. **Does the dataset relate to people?** *(If not, you may skip the remaining questions in this section.)*
+    
+    Yes; the majority of the documents in the dataset are articles about people (either their Wikipedia entries or stories about them in periodicals).
 
-### Were the individuals in question notified about the data collection?
 
-_If so, please describe (or show with screenshots or other information) how notice was provided,
-and provide a link or other access point to, or otherwise reproduce, the exact language of the
-notification itself._
+1. **Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?**
+    
+    Other sources: Wikipedia and periodicals.
 
-### Did the individuals in question consent to the collection and use of their data?
 
-_If so, please describe (or show with screenshots or other information) how consent was
-requested and provided, and provide a link or other access point to, or otherwise reproduce, the
-exact language to which the individuals consented._
+1. **Were the individuals in question notified about the data collection?** *(If so, please describe (or show with screenshots or other information) how notice was provided, and provide a link or other access point to, or otherwise reproduce, the exact language of the notification itself.)*
+    
+    No, they were not notified.
 
-### If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses?
 
-_If so, please provide a description, as well as a link or other access point to the mechanism
-(if appropriate)._
+1. **Did the individuals in question consent to the collection and use of their data?** *(If so, please describe (or show with screenshots or other information) how consent was requested and provided, and provide a link or other access point to, or otherwise reproduce, the exact language to which the individuals consented.)*
+    
+    No. All documents are public. In the case of the AO3 stories, we explicitly contacted the authors and received permission to use their stories. (Several authors we contacted did not respond; we did not include their stories.)
 
-### Has an analysis of the potential impact of the dataset and its use on data subjects (e.g., a data protection impact analysis) been conducted?
 
-_If so, please provide a description of this analysis, including the outcomes, as well as a link
-or other access point to any supporting documentation._
+1. **If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses?** *(If so, please provide a description, as well as a link or other access point to the mechanism (if appropriate).)*
+    
+    N/A.
 
-### Any other comments?
 
+1. **Has an analysis of the potential impact of the dataset and its use on data subjects (e.g., a data protection impact analysis) been conducted?** *(If so, please provide a description of this analysis, including the outcomes, as well as a link or other access point to any supporting documentation.)*
+    
+    No. 
+
+
+1. **Any other comments?**
+    
+    None.
+
+   
 ## Preprocessing/cleaning/labeling
 
 _The questions in this section are intended to provide dataset consumers with the information
