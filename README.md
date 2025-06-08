@@ -1,4 +1,4 @@
-This readme file was updated on 2025-06-06 by Yiduo Wang.
+This readme file was updated on 2025-06-08 by Yiduo Wang.
 
 # Cross-Platform Rankings of U.S. Liberal Arts Colleges: A Unified Dataset (2024)
 
@@ -52,7 +52,7 @@ Raw ranking data files scraped from each source website were collected during th
 
 ## Version Information
 - **Number of versions:** 1  
-- **Last updated:** 2025-06-06 
+- **Last updated:** 2025-06-08
 - No prior versions exist.
 
 ## Description of Methods Used for Data Collection 
@@ -61,7 +61,7 @@ Raw data was collected through a combination of web scraping, direct downloads, 
 
 - **U.S. News & World Report** rankings were scraped using a publicly available Python scraper ([kajchang/USNews-College-Scraper](https://github.com/kajchang/USNews-College-Scraper)) that automates extraction of college rankings and metadata directly from the U.S. News website.
 
-- **Academic Influence** and **Degree Choices** rankings were collected using custom Python scripts leveraging libraries including `selenium` and `BeautifulSoup` . Sample code demonstrating the Academic Influence data scraping process is shown below:
+- **Academic Influence** and **Degree Choices** rankings were collected using Python scripts leveraging libraries including `selenium` and `BeautifulSoup`. Sample code demonstrating the Academic Influence data scraping process is shown below:
 
   ```python
 	import requests
@@ -121,6 +121,11 @@ Raw data was collected through a combination of web scraping, direct downloads, 
 	
 	# Save results to CSV
 	save_to_csv(all_colleges)
+  
+- **Washington Monthly** rankings were downloaded directly from the official website’s 2024 Liberal Arts Colleges guide ([washingtonmonthly.com](https://washingtonmonthly.com/2024-college-guide/liberal-arts/)). The data was originally provided in Excel format and was converted to CSV during the data merging process.
+
+- **Times Higher Education** rankings were collected using the Chrome browser extension *Instant Data Scraper*, which automated extraction of structured table data from the 2022 Best Liberal Arts Colleges in the United States webpage ([timeshighereducation.com](https://www.timeshighereducation.com/student/best-universities/best-liberal-arts-colleges-united-states)).
+
 
 
 ## Methods for processing the data: 
