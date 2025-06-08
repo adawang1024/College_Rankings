@@ -121,63 +121,40 @@ Jump to section:
 
 1. **How was the data associated with each instance acquired?** *(Was the data directly observable (e.g., raw text, movie ratings), reported by subjects (e.g., survey responses), or indirectly inferred/derived from other data (e.g., part-of-speech tags, model-based guesses for age or language)? If data was reported by subjects or indirectly inferred/derived from other data, was the data validated/verified? If so, please describe how.)*
     
-    The ranking data for each college was directly collected from publicly available online sources. Degree Choices and Academic Influence rankings were scraped using Python scripts with Selenium and BeautifulSoup. U.S. News ranking was obtained via a public available Python scraper ([kajchang/USNews-College-Scraper](https://github.com/kajchang/USNews-College-Scraper)). Washington Monthly ranking was downloaded as spreadsheets from their website. Times Higher Education rankings were extracted using the Chrome extension Instant Data Scraper. All data were cleaned and matched to institutional records from the U.S. Department of Education to ensure consistency and accuracy.
+    Each data instance represents directly observable information: publicly published college rankings and institutional data. These values were sourced from official websites and reflect explicit rankings reported by the publishers (e.g., U.S. News, Degree Choices, Academic Influence). 
 
 
 1. **What mechanisms or procedures were used to collect the data (e.g., hardware apparatus or sensor, manual human curation, software program, software API)?** *(How were these mechanisms or procedures validated?)*
     
-    Annotation was conducted using [TagEditor](https://github.com/d5555/TagEditor).
+    Data collection combined automated scraping and direct downloads:
 
+    - **Degree Choices** and **Academic Influence** rankings were collected using custom Python scripts with `Selenium` and `BeautifulSoup` to extract data from their websites.
+    - **U.S. News** rankings were obtained using a publicly available scraper ([kajchang/USNews-College-Scraper](https://github.com/kajchang/USNews-College-Scraper)).
+    - **Washington Monthly** rankings were downloaded as Excel files from the official website and converted to CSV format for processing.
+    - **Times Higher Education** rankings were extracted using the Chrome extension *Instant Data Scraper*, which automates table data extraction from web pages.
 
 1. **If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?**
     
-    See answer to question #2 in [Composition](#composition).
+    See answer to question #3 in [Composition](#composition).
 
 
 1. **Who was involved in the data collection process (e.g., students, crowdworkers, contractors) and how were they compensated (e.g., how much were crowdworkers paid)?**
     
-    All collection and annotation was done by the two authors.
+    The data collection was conducted by Yiduo Wang, an undergraduate student at Wellesley College, as part of a faculty-mentored research project under Professor Brian Brubach. No crowdworkers or external contractors were involved.
 
-
-1. **Over what timeframe was the data collected?** *(Does this timeframe match the creation timeframe of the data associated with the instances (e.g., recent crawl of old news articles)?  If not, please describe the timeframe in which the data associated with the instances was created.)*
+3. **Over what timeframe was the data collected?** *(Does this timeframe match the creation timeframe of the data associated with the instances (e.g., recent crawl of old news articles)?  If not, please describe the timeframe in which the data associated with the instances was created.)*
     
-    The dataset was collected in the early Summer of 2019, which does not necessarily reflect the timeframe of the data collected.
+    The data was collected between June and July 2024. This period does not fully align with the creation dates of the ranking data, as the most recent Wall Street Journal/Times Higher Education (WSJ/THE) U.S. College Rankings were published in 2022 and no subsequent editions have been released. Other rankings reflect the most recent data releases from 2024.
 
 
 1. **Were any ethical review processes conducted (e.g., by an institutional review board)?** *(If so, please provide a description of these review processes, including the outcomes, as well as a link or other access point to any supporting documentation.)*
     
-    No review processes were conducted with respect to the collection and annotation of this data (though review was done for other aspects of this work; see the paper linked at the top of the datasheet).
+    No review processes were conducted with respect to the collection of this data.
 
 
 1. **Does the dataset relate to people?** *(If not, you may skip the remaining questions in this section.)*
     
-    Yes; the majority of the documents in the dataset are articles about people (either their Wikipedia entries or stories about them in periodicals).
-
-
-1. **Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?**
-    
-    Other sources: Wikipedia and periodicals.
-
-
-1. **Were the individuals in question notified about the data collection?** *(If so, please describe (or show with screenshots or other information) how notice was provided, and provide a link or other access point to, or otherwise reproduce, the exact language of the notification itself.)*
-    
-    No, they were not notified.
-
-
-1. **Did the individuals in question consent to the collection and use of their data?** *(If so, please describe (or show with screenshots or other information) how consent was requested and provided, and provide a link or other access point to, or otherwise reproduce, the exact language to which the individuals consented.)*
-    
-    No. All documents are public. In the case of the AO3 stories, we explicitly contacted the authors and received permission to use their stories. (Several authors we contacted did not respond; we did not include their stories.)
-
-
-1. **If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses?** *(If so, please provide a description, as well as a link or other access point to the mechanism (if appropriate).)*
-    
-    N/A.
-
-
-1. **Has an analysis of the potential impact of the dataset and its use on data subjects (e.g., a data protection impact analysis) been conducted?** *(If so, please provide a description of this analysis, including the outcomes, as well as a link or other access point to any supporting documentation.)*
-    
-    No. 
-
+    The dataset includes demographic information aggregated at the institutional level, such as student enrollment by gender and socioeconomic indicators. However, it does not contain personal data about individual people.
 
 1. **Any other comments?**
     
