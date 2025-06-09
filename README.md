@@ -152,7 +152,7 @@ Raw data was collected through a combination of web scraping, direct downloads, 
 - **Degree Choices Ranking**: Ranking of liberal arts colleges focused on relative financial value, as published by DegreeChoices (accessed in July 2024).
   
 ### School Information and Enrollment Demographics Variables
-- **Pell Students**: Percentage of students receiving Pell grants.
+- **Pell Students**: Percentage of students receiving Pell grants;it represents the proportion of all degree/certificate-seeking undergraduate students.
 - **UNITID**: Unique identification number assigned to postsecondary institutions as surveyed through IPEDS.
 - **OPEID**: identification number used by the U.S. Department of Education's Office of Postsecondary Education (OPE) and Federal Student Aid Office (FSA).
 - **URL**: Official college website URL.
