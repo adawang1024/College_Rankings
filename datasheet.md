@@ -44,7 +44,7 @@ Jump to section:
 
 2. **How many instances are there in total (of each type, if appropriate)?**
     
-    The dataset contains 1278 rows, each representing one college.
+    The dataset contains 1278 rows, each representing one liberal arts college.
 
 3. **Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** *(If the dataset is a sample, then what is the larger set? Is the sample representative of the larger set (e.g., geographic coverage)? If so, please describe how this representativeness was validated/verified. If it is not representative of the larger set, please describe why not (e.g., to cover a more diverse range of instances, because instances were withheld or unavailable).)*
     
@@ -115,7 +115,6 @@ Jump to section:
     None.
 
 
-
 ## Collection Process
 
 
@@ -140,7 +139,7 @@ Jump to section:
 
 1. **Who was involved in the data collection process (e.g., students, crowdworkers, contractors) and how were they compensated (e.g., how much were crowdworkers paid)?**
     
-    The data collection was conducted by Yiduo Wang, an undergraduate student at Wellesley College, as part of a faculty-mentored research project under Professor Brian Brubach. No crowdworkers or external contractors were involved.
+    The data was collected by Yiduo Wang as part of a faculty-mentored research project supervised by Professor Brian Brubach. Yiduo Wang was compensated for her work as a research assistant through Wellesley College. No crowdworkers, contractors, or other external contributors were involved.
 
 3. **Over what timeframe was the data collected?** *(Does this timeframe match the creation timeframe of the data associated with the instances (e.g., recent crawl of old news articles)?  If not, please describe the timeframe in which the data associated with the instances was created.)*
     
@@ -161,89 +160,103 @@ Jump to section:
     None.
 
    
+
 ## Preprocessing/cleaning/labeling
 
-_The questions in this section are intended to provide dataset consumers with the information
-they need to determine whether the “raw” data has been processed in ways that are compatible
-with their chosen tasks. For example, text that has been converted into a “bag-of-words” is
-not suitable for tasks involving word order._
 
-### Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)?
+1. **Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)?** *(If so, please provide a description. If not, you may skip the remainder of the questions in this section.)*
+    
+    Yes. Several preprocessing and cleaning steps were conducted to ensure consistency across data sources:
+    
+   - **Standardization**: Institution names were standardized to enable accurate merging across multiple ranking sources and U.S. Department of Education data. This included converting names to lowercase, removing punctuation and extra white space, and aligning name variants to a consistent reference using mapping dictionaries and manual review.
 
-_If so, please provide a description. If not, you may skip the remainder of the questions in
-this section._
+    - **Format conversion**: all files were converted to CSV format to ensure compatibility with analysis tools.
 
-### Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?
+    - **Deduplication and alignment**: Duplicate entries referring to the same institution under different names were removed. City, state, and school website information were aligned to ensure consistency across records.
 
-_If so, please provide a link or other access point to the “raw” data._
 
-### Is the software used to preprocess/clean/label the instances available?
+No additional labeling or feature engineering (e.g., tokenization or image-based features) was done.
 
-_If so, please provide a link or other access point._
 
-### Any other comments?
+1. **Was the "raw" data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?** *(If so, please provide a link or other access point to the "raw" data.)*
+    
+    Yes, the original raw data has been saved and is available in the following Google Drive folder: [Raw Data](https://drive.google.com/drive/folders/1wvDdUw3tFX-7xpW48_yin9EpvkwzIoB7?dmr=1&ec=wgc-drive-hero-goto).
+
+1. **Is the software used to preprocess/clean/label the instances available?** *(If so, please provide a link or other access point.)*
+    
+   ????
+
+
+1. **Any other comments?**
+    
+    None.
 
 ## Uses
 
-_These questions are intended to encourage dataset creators to reflect on the tasks
-for which the dataset should and should not be used. By explicitly highlighting these tasks,
-dataset creators can help dataset consumers to make informed decisions, thereby avoiding
-potential risks or harms._
+1. **Has the dataset been used for any tasks already?** *(If so, please provide a description.)*
+    
+    Yes. The dataset has been used for statistical analyses—such as regression and correlation analysis—to explore institutional factors driving discrepancies between established rankings (e.g., U.S. News) and newer algorithmic rankings. It has also been used to generate visualizations for exploratory data analysis and to support our research.
 
-### Has the dataset been used for any tasks already?
+1. **Is there a repository that links to any or all papers or systems that use the dataset?** *(If so, please provide a link or other access point.)*
+    
+    No.
 
-_If so, please provide a description._
 
-### Is there a repository that links to any or all papers or systems that use the dataset?
+1. **What (other) tasks could the dataset be used for?**
+    
+    The dataset could possibly be used for further exploration of how institutional characteristics relate to college rankings, as well as for analyzing ranking trends, evaluating equity in higher education outcomes, or testing alternative ranking methodologies.
 
-_If so, please provide a link or other access point._
+1. **Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?** *(For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks)  If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?)*
+    
+    While the dataset was specifically constructed to be gender inclusive, it undoubtedly fails in some ways to full achieve that goal. Part of this is due to the nature of the underlying texts (eg, Wikipedia's frequent use of deadnames) and part of it is due to plain difficulties in collection (automatically distinguishing specific singular uses of "they" from other uses is currently not possible, and so despite "they" being currently, likely, the most commonly used non-binary pronoun, it is perhaps underrepresented in this dataset). Preprocessing hopefully did not introduce errors (in fact, we corrected for many tokenization errors, for instance, that the default tokenizer did not know to split "xe'll" into two tokens as it would "she'll").
 
-### What (other) tasks could the dataset be used for?
 
-### Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?
+1. **Are there tasks for which the dataset should not be used?** *(If so, please provide a description.)*
+    
+    
 
-_For example, is there anything that a future user might need to know to avoid uses that
-could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of
-service issues) or other undesirable harms (e.g., financial harms, legal risks) If so, please
-provide a description. Is there anything a future user could do to mitigate these undesirable
-harms?_
 
-### Are there tasks for which the dataset should not be used?
+1. **Any other comments?**
+    
+    None.
 
-_If so, please provide a description._
-
-### Any other comments?
 
 ## Distribution
 
-### Will the dataset be distributed to third parties outside of the entity (e.g., company, institution, organization) on behalf of which the dataset was created? 
 
-_If so, please provide a description._
+1. **Will the dataset be distributed to third parties outside of the entity (e.g., company, institution, organization) on behalf of which the dataset was created?** *(If so, please provide a description.)*
+    
+    Yes, the dataset is freely available.
 
-### How will the dataset will be distributed (e.g., tarball on website, API, GitHub)?
 
-_Does the dataset have a digital object identifier (DOI)?_
+1. **How will the dataset will be distributed (e.g., tarball  on website, API, GitHub)?** *(Does the dataset have a digital object identifier (DOI)?)*
+    
+    The dataset is free for download at 
 
-### When will the dataset be distributed?
 
-### Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?
+1. **When will the dataset be distributed?**
+    
+    The dataset is distributed as of June 2020 in its first version.
 
-_If so, please describe this license and/or ToU, and provide a link or other access point to,
-or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated
-with these restrictions._
 
-### Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
+1. **Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** *(If so, please describe this license and/or ToU, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated with these restrictions.)*
+    
+    The dataset is licensed under a BSD license.
 
-_If so, please describe these restrictions, and provide a link or other access point to, or
-otherwise reproduce, any relevant licensing terms, as well as any fees associated with these
-restrictions._
 
-### Do any export controls or other regulatory restrictions apply to the dataset or to individual instances?
+1. **Have any third parties imposed IP-based or other restrictions on the data associated with the instances?** *(If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms, as well as any fees associated with these restrictions.)*
+    
+    Not to our knowledge.
 
-_If so, please describe these restrictions, and provide a link or other access point to, or otherwise
-reproduce, any supporting documentation._
 
-### Any other comments?
+1. **Do any export controls or other regulatory restrictions apply to the dataset or to individual instances?** *(If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any supporting documentation.)*
+    
+    Not to our knowledge.
+
+
+1. **Any other comments?**
+    
+    None.
 
 ## Maintenance
 
@@ -251,6 +264,7 @@ _These questions are intended to encourage dataset creators to plan for dataset 
 and communicate this plan with dataset consumers._
 
 ### Who is supporting/hosting/maintaining the dataset?
+
 
 ### How can the owner/curator/manager of the dataset be contacted (e.g., email address)?
 
