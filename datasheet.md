@@ -79,7 +79,7 @@ Jump to section:
 
 10. **Is the dataset self-contained, or does it link to or otherwise rely on external resources (e.g., websites, tweets, other datasets)?** *(If it links to or relies on external resources, a) are there guarantees that they will exist, and remain constant, over time; b) are there official archival versions of the complete dataset (i.e., including the external resources as they existed at the time the dataset was created); c) are there any restrictions (e.g., licenses, fees) associated with any of the external resources that might apply to a future user? Please provide descriptions of all external resources and any restrictions associated with them, as well as links or other access points, as appropriate.)*
     
-   ///
+   ??? (restrictions) 
 
 
 11. **Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?** *(If so, please provide a description.)*
@@ -184,7 +184,7 @@ No additional labeling or feature engineering (e.g., tokenization or image-based
 
 1. **Is the software used to preprocess/clean/label the instances available?** *(If so, please provide a link or other access point.)*
     
-   ????
+   ???? (how much code to include)
 
 
 1. **Any other comments?**
@@ -208,13 +208,11 @@ No additional labeling or feature engineering (e.g., tokenization or image-based
 
 1. **Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?** *(For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks)  If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?)*
     
-    While the dataset was specifically constructed to be gender inclusive, it undoubtedly fails in some ways to full achieve that goal. Part of this is due to the nature of the underlying texts (eg, Wikipedia's frequent use of deadnames) and part of it is due to plain difficulties in collection (automatically distinguishing specific singular uses of "they" from other uses is currently not possible, and so despite "they" being currently, likely, the most commonly used non-binary pronoun, it is perhaps underrepresented in this dataset). Preprocessing hopefully did not introduce errors (in fact, we corrected for many tokenization errors, for instance, that the default tokenizer did not know to split "xe'll" into two tokens as it would "she'll").
-
+    The dataset includes variables related to ranking and demographics data that, if used without context, could lead to unfair comparisons or reinforce systemic biases, especially against schools serving historically marginalized groups. Additionally, preprocessing steps such as name standardization, merging from multiple sources, and resolving inconsistencies may have introduced minor errors. Future users should be aware of these limitations and take care to validate findings and apply the data responsibly.
 
 1. **Are there tasks for which the dataset should not be used?** *(If so, please provide a description.)*
     
-    
-
+    The dataset should not be used to make high-stakes decisions about individual institutions without additional context, validation, and transparency. It is also not suitable for making assumptions about individual students, as the data is aggregated at the institutional level and may mask important within-school variation. 
 
 1. **Any other comments?**
     
@@ -231,22 +229,22 @@ No additional labeling or feature engineering (e.g., tokenization or image-based
 
 1. **How will the dataset will be distributed (e.g., tarball  on website, API, GitHub)?** *(Does the dataset have a digital object identifier (DOI)?)*
     
-    The dataset is free for download at 
+    The dataset is free for download at https://github.com/adawang1024/College_Rankings/blob/main/final_lac_data%20-%20final_lac_data.csv. 
 
 
 1. **When will the dataset be distributed?**
     
-    The dataset is distributed as of June 2020 in its first version.
+    The dataset is freely available for download [here](https://github.com/adawang1024/College_Rankings/blob/main/final_lac_data%20-%20final_lac_data.csv).
 
 
 1. **Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** *(If so, please describe this license and/or ToU, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated with these restrictions.)*
     
-    The dataset is licensed under a BSD license.
+    ???
 
 
 1. **Have any third parties imposed IP-based or other restrictions on the data associated with the instances?** *(If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms, as well as any fees associated with these restrictions.)*
     
-    Not to our knowledge.
+    ??? Check on restrictions. Not to our knowledge. 
 
 
 1. **Do any export controls or other regulatory restrictions apply to the dataset or to individual instances?** *(If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any supporting documentation.)*
@@ -260,34 +258,43 @@ No additional labeling or feature engineering (e.g., tokenization or image-based
 
 ## Maintenance
 
-_These questions are intended to encourage dataset creators to plan for dataset maintenance
-and communicate this plan with dataset consumers._
 
-### Who is supporting/hosting/maintaining the dataset?
+1. **Who is supporting/hosting/maintaining the dataset?**
+    
+    The dataset is currently hosted on github and maintained by Yiduo (Ada) Wang.
 
 
-### How can the owner/curator/manager of the dataset be contacted (e.g., email address)?
+1. **How can the owner/curator/manager of the dataset be contacted (e.g., email address)?**
+    
+    E-mail addresses are at the top of this document.
 
-### Is there an erratum?
 
-_If so, please provide a link or other access point._
+1. **Is there an erratum?** *(If so, please provide a link or other access point.)*
+    
+    Currently, no. As errors are encountered, future versions of the dataset may be released (but will be versioned). They will all be provided in the same github location.
 
-### Will the dataset be updated (e.g., to correct labeling errors, add new instances, delete instances)?
 
-_If so, please describe how often, by whom, and how updates will be communicated to users (e.g., mailing list, GitHub)?_
+1. **Will the dataset be updated (e.g., to correct labeling errors, add new instances, delete instances')?** *(If so, please describe how often, by whom, and how updates will be communicated to users (e.g., mailing list, GitHub)?)*
+    
+    There are no current plans for regular updates, but corrections or improvements may be made on an as-needed basis. Any updates will be published to the GitHub repository and described in the README file.
 
-### If the dataset relates to people, are there applicable limits on the retention of the data associated with the instances (e.g., were individuals in question told that their data would be retained for a fixed period of time and then deleted)?
 
-_If so, please describe these limits and explain how they will be enforced._
+1. **If the dataset relates to people, are there applicable limits on the retention of the data associated with the instances (e.g., were individuals in question told that their data would be retained for a fixed period of time and then deleted)?** *(If so, please describe these limits and explain how they will be enforced.)*
+    
+    No.
 
-### Will older versions of the dataset continue to be supported/hosted/maintained?
 
-_If so, please describe how. If not, please describe how its obsolescence will be communicated to users._
+1. **Will older versions of the dataset continue to be supported/hosted/maintained?** *(If so, please describe how. If not, please describe how its obsolescence will be communicated to users.)*
+    
+    All data will be versioned.
 
-### If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?
 
-_If so, please provide a description. Will these contributions be validated/verified? If so,
-please describe how. If not, why not? Is there a process for communicating/distributing these
-contributions to other users? If so, please provide a description._
+1. **If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?** *(If so, please provide a description. Will these contributions be validated/verified? If so, please describe how. If not, why not? Is there a process for communicating/distributing these contributions to other users? If so, please provide a description.)*
+    
+    ???
 
-### Any other comments?
+
+1. **Any other comments?**
+    
+    None.
+
