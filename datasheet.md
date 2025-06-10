@@ -165,17 +165,16 @@ Jump to section:
 
 
 1. **Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)?** *(If so, please provide a description. If not, you may skip the remainder of the questions in this section.)*
-    
-    Yes. Several preprocessing and cleaning steps were conducted to ensure consistency across data sources:
+
+   Yes. Several preprocessing and cleaning steps were conducted to ensure consistency across data sources:
     
    - **Standardization**: Institution names were standardized to enable accurate merging across multiple ranking sources and U.S. Department of Education data. This included converting names to lowercase, removing punctuation and extra white space, and aligning name variants to a consistent reference using mapping dictionaries and manual review.
 
     - **Format conversion**: all files were converted to CSV format to ensure compatibility with analysis tools.
 
     - **Deduplication and alignment**: Duplicate entries referring to the same institution under different names were removed. City, state, and school website information were aligned to ensure consistency across records.
-
-
-No additional labeling or feature engineering (e.g., tokenization or image-based features) was done.
+    
+    No additional labeling or feature engineering (e.g., tokenization or image-based features) was done.
 
 
 1. **Was the "raw" data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?** *(If so, please provide a link or other access point to the "raw" data.)*
